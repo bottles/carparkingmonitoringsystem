@@ -1,0 +1,12 @@
+scp Jen-test.pem config datanode1:~/.ssh
+
+# create topics
+go to broker0
+sudo /opt/confluent/bin/kafka-topics --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic test
+
+# send messages
+bin/kafka-console-producer.sh --broker-list 13.210.84.146:9092 --topic test
+
+# consume messages
+bin/kafka-console-consumer.sh --bootstrap-server 13.210.84.146:9092 --topic test --from-beginning --zookeeper 13.210.84.146
+

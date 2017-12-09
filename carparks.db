@@ -1,0 +1,14 @@
+{
+"key": "",
+"carparks":
+[{
+	"orgName": "ANU",
+	"orgId": 1,
+	"parkName": "null",
+	"parkId": 1,
+	"location": "-35.2769174,149.118848",
+	"heading:": "151.78",
+	"pitch": "-12.76"
+}
+]
+}

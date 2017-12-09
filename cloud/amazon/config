@@ -1,0 +1,13 @@
+Host leadnode
+        HostName <HostName>
+        User ubuntu
+        IdentityFile ~/.ssh/Jen-test.pem
+Host datanode1
+        HostName <HostName>
+        User ubuntu
+        IdentityFile ~/.ssh/Jen-test.pem
+Host datanode2
+        HostName <HostName>
+        User ubuntu
+        IdentityFile ~/.ssh/Jen-test.pem
+~                                           
