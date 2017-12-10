@@ -2,6 +2,8 @@
 This information system will provide people with more ideas on how many available places on each car parks.
 website: https://bottles.github.io/
 
+Prerequisite: Tensorflow, kafka, python2.7, google street view api key.
+
 The system has been designed to have been built on cloud system. It has several parts: 
 - cloud/: configuration of cloud system
 - detectCars/: get car images from google imageview or from monitor
