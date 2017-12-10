@@ -1,0 +1,923 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Auto loans and financing options for new used car customers
+</title><meta http-equiv="Content-Language" content="en" /><meta http-equiv="X-UA-Compatible" content="IE=8" />
+    <meta name="description" content="Quick auto loan approvals for good and bad credit car buyers.  Purchase new or used, or refinance your current vehicle." />
+    <meta name="keywords" content="auto loans, car loan approvals, automobile financing, bad credit loans, bankruptcy assistance, free application, special financing, auto finance, automobile loans, fast approval, loan assistance, dealership lending, no fees" />
+<meta name="og:site_name" content="AutoLoanLocator" /><link href="Styles/MainSite.css" rel="stylesheet" type="text/css" /><link href="Styles/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" /><link rel="shortcut icon" href="images/company-icon.png" />
+    <style type="text/css">  
+        .phoneNumber
+        {
+         font-style: italic;
+         color: #0072bc;   
+        }
+    </style>
+
+    <script type="text/javascript">
+        function OpenCustLogin() {
+            var wnd = window.radopen("https://www.autoloanlocator.com/Secure/Forms/secure-login-form.aspx?LoginType=Customer", null);
+            wnd.setSize(570, 670);
+            wnd.center();
+            return false;
+        }
+
+        function OpenDlrLogin() {
+            var wnd = window.radopen("https://www.autoloanlocator.com/Secure/Forms/secure-login-form.aspx?LoginType=Dealership", null);
+            wnd.setSize(570, 670);
+            wnd.center();
+            return false;
+        }
+
+        function OpenAffLogin() {
+            var wnd = window.radopen("https://www.autoloanlocator.com/Secure/Forms/secure-login-form.aspx?LoginType=Affiliate", null);
+            wnd.setSize(570, 670);
+            wnd.center();
+            return false;
+        }
+
+        function OpenArticle(Article) {
+            var wnd = window.radopen("http://www.autoloanlocator.com/Articles/article-viewer.aspx?File=" + Article, null);
+            wnd.setSize(670, 720);
+            wnd.center();
+            return false;
+        }
+
+        function OpenDealerMap(URL) {
+            var wnd = window.radopen(URL, null);
+            wnd.setSize(520, 520);
+            wnd.center();
+            return false;
+        }
+
+    </script>
+    <!-- Get Google CDN's jQuery and jQuery UI with fallback to local -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+	<script>	    !window.jQuery && document.write(unescape('%3Cscript src="jquery/jquery-1.7.2.min.js"%3E%3C/script%3E'))</script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+	<script>	    !window.jQuery.ui && document.write(unescape('%3Cscript src="jquery/jquery-ui-1.8.21.custom.min.js"%3E%3C/script%3E'))</script>
+	<!-- mousewheel plugin -->
+	<script src="js/jquery.mousewheel.min.js"></script>
+	<!-- custom scrollbars plugin -->
+	<script src="js/jquery.mCustomScrollbar.js"></script>
+<link href="/WebResource.axd?d=gvd4lx9l8vlxq8GorZA-FZ0y6_weQAkmQYMpBjz6Sf_sGEcbUF4ppRuvszZt0WZC78xSdp53O1d5nkmVWkHbRd9uH7CnKrJTmqhZdO0KKQHSUrnnnvey7SMx-eHOXMCFtKovWjGUtcyQeK0a52slyA2&amp;t=635296323084370000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=x-Kw5VaJ45Myw2xfYPzetk76n541faONLWNQrkXa8EITr2GTiKrti-E-kDdAZk5fRMyoT5YY-H2S388Ew6oDTBWRBNFVq2pmhqfXcNQWgMx6mgHZS_owahmYYqxAHl6PLBl_zIL-yAOuaMJoke3UCNi7MX7xtyqkzp8ydLcZhx01&amp;t=635296323043180000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=_kYZvxK6FXaBiutWd9ridzStK6F1fOrG3DnQxGD5fxXMTH4Lw5tj1K1VpAmQPSVosYcisKVhrFuOGLnsP8BCG6BIfCERYa3u27-QlasFyztNLEVVzEEHDmn7IhHdtFZqz9X1hWACzrrN6_pjDfzsWQ2&amp;t=635296323084370000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=Arr2mfvBn1bvGt1fIE9Z27FlIswXldmSoP8WPBK02JWCV2ZN_eCIST9haE8MEF2Gx6dGPeChvm78Qc6b53DtbuOnkbmSdKPSvKUS3DlN4geqVrPNI0vK3t7btvhYEgJxZREYad0rXETfiABlxipoCsZfc7bEi4XYMocrPYnS5qI1&amp;t=635296323043180000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=s-MLe-Xo0E0FQ7mfDVpaX_eyFJjKkJ5LJwjC-rce2RPS0GoxUr_gDg9AiRdERa5oN0DYm-na9jMqULttqKvHm7C3dM6MdlNVKEZ3nTWvhtjZHBeggn497L0LAT0gyEjiVmmc2LmfvVOS0W8JErI5MA2&amp;t=635296323084370000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=1uL26EtE07sP3YkSQMvQjMPyfhpShx9FPgIN3SeERrqdwjKiadnWCYk05UtWayyDAqFAd4qbaIxgC2xuIkmgPOV-ZLl3_2IHze5TkQ7QkWJOL-shbdA7i2XvQD_Mqg_A47KvFAo0AT6CABUx16PsO5w77zqIMUnsJFc58BWtdxE1&amp;t=635296323084370000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=vO9oUc6mOETECMIne9671Gp4GSTzcrUI5pevoAf-s52MiNOgifTCmerxXIOyi7b4iEu0jlTpwC-uzK6LXQ3MCl0pR-qIPHLTBU6l4C1USZf0nrh7UDmVlpYZUPH6CgflhDvxZl7yxW7FtvRcIBAO2w2&amp;t=635296323084370000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=Kx-LrnqiGMK7KpJ7Z_OYW0CBNN14Hdpj5TciaSuGcRk96NK-twcksikpI7pMP3cQhlcK3BO39Zj6b15i0P2Y4vp8CTUqaIr9QjFJ2r-0xHtS0Ynjjrg2oWRm9gf9DHR-LUvYhn8D6cgddIPrdcx0MGRRlZbPV4cMoTr-Y33vzBD_NJFbqwUl5todOzaSGcur0&amp;t=635296323043180000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=lgeEPb4LIODCwO9vrEbTVuNI2QeyIXmEv2rKikhX4cmVWE5MeZg27SOABpIwGHmRS6HBR7-hbDMVYZ4jmVlXnv501hxH5jmTV9ciNyDYWguCL6rgksPbUxl8EjLk-j1w_3245vZTQ6q5JuiXHu2twQ2&amp;t=635296323084370000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=sSULxRbxdbzeQbAB678P0EqtsnMAj1suQr3BJTtyOsQyYRlKH1_PRMDUKDUSfnptcncGdtT4viysFq90uyjn_mtu5Y7ldpCfGLASbYxlsQTH10iS_dbhNJGR4qLhDRauUHnZ1RLJ_vnkXWzhCQ51JjiFt1ghA5Liq2_OmqD4CO5d6O8MCuwkSHpNVBzvmI3X0&amp;t=635296323043180000" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /></head>
+<body>
+<div id="fb-root"></div>
+<script>    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+        fjs.parentNode.insertBefore(js, fjs);
+    } (document, 'script', 'facebook-jssdk'));</script>
+
+    <form method="post" action="" id="form1">
+<input type="hidden" name="RadScriptManager1_TSM" id="RadScriptManager1_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjAwNTQxOTM3NWQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgUFF2N0bDAwJFJhZFdpbmRvd01hbmFnZXIxBRhjdGwwMCRBcHBsaWNhdGlvbl9CdXR0b24FMmN0bDAwJFNpZGVCYXJfQ29udGVudCRBdXRvX0xvYW5fQXBwcm92YWxzX1Njcm9sbGVyBRJjdGwwMCRSYWRUYWdDbG91ZDEFFmN0bDAwJEF1dG9Mb2FuX1NpdGVtYXCXmmkUq9riAwdot6NBIvG7VSzrIx13A4PgVLSe2TYxjg==" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.51116.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3afd384f95-1b49-47cf-9b47-2fa2a921a36a%3aea597d4b%3bTelerik.Web.UI%3aen-US%3a3e3b0da6-8c39-4d10-9111-25eaee1f7355%3a16e4e7cd%3af7645509%3a22a6274a%3a24ee1bba%3af46195d3%3a874f8ea2%3a19620875%3a490a9d4e%3abd8f85e4%3ab7778d6c%3a82923ac3%3a3f6e8f3f%3a15313ccf%3aa1a4383a" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAMeWsgTF8RqVe7aIIo3wbqMtG4k1Z5ADTZPJNpp88v0d32uArKlRDc9+REFJwqGnW4rDbLkKYYwJOowpqWnbpHQwsISVlvGicRtTl0crWZbMw==" /> 
+    
+    <div id="ctl00_RadWindowManager1" style="display:none;">
+	<!-- 2013.1.220.45 --><div id="ctl00_RadWindowManager1_alerttemplate" style="display:none;">
+		<div class="rwDialogPopup radalert">			
+			<div class="rwDialogText">
+			{1}				
+			</div>
+			
+			<div>
+				<a  onclick="$find('{0}').close(true);"
+				class="rwPopupButton" href="javascript:void(0);">
+					<span class="rwOuterSpan">
+						<span class="rwInnerSpan">##LOC[OK]##</span>
+					</span>
+				</a>				
+			</div>
+		</div>
+		</div><div id="ctl00_RadWindowManager1_prompttemplate" style="display:none;">
+		 <div class="rwDialogPopup radprompt">			
+			    <div class="rwDialogText">
+			    {1}				
+			    </div>		
+			    <div>
+				    <script type="text/javascript">
+				    function RadWindowprompt_detectenter(id, ev, input)
+				    {							
+					    if (!ev) ev = window.event;                
+					    if (ev.keyCode == 13)
+					    {															        
+					        var but = input.parentNode.parentNode.getElementsByTagName("A")[0];					        
+					        if (but)
+						    {							
+							    if (but.click) but.click();
+							    else if (but.onclick)
+							    {
+							        but.focus(); var click = but.onclick; but.onclick = null; if (click) click.call(but);							 
+							    }
+						    }
+					       return false;
+					    } 
+					    else return true;
+				    }	 
+				    </script>
+				    <input title="Enter Value" onkeydown="return RadWindowprompt_detectenter('{0}', event, this);" type="text"  class="rwDialogInput" value="{2}" />
+			    </div>
+			    <div>
+				    <a onclick="$find('{0}').close(this.parentNode.parentNode.getElementsByTagName('input')[0].value);"				
+					    class="rwPopupButton" href="javascript:void(0);" ><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[OK]##</span></span></a>
+				    <a onclick="$find('{0}').close(null);" class="rwPopupButton"  href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[Cancel]##</span></span></a>
+			    </div>
+		    </div>				       
+		</div><div id="ctl00_RadWindowManager1_confirmtemplate" style="display:none;">
+		<div class="rwDialogPopup radconfirm">			
+			<div class="rwDialogText">
+			{1}				
+			</div>						
+			<div>
+				<a onclick="$find('{0}').close(true);"  class="rwPopupButton" href="javascript:void(0);" ><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[OK]##</span></span></a>
+				<a onclick="$find('{0}').close(false);" class="rwPopupButton"  href="javascript:void(0);"><span class="rwOuterSpan"><span class="rwInnerSpan">##LOC[Cancel]##</span></span></a>
+			</div>
+		</div>		
+		</div><input id="ctl00_RadWindowManager1_ClientState" name="ctl00_RadWindowManager1_ClientState" type="hidden" />
+</div>
+    <div id="bodyContainer">
+    <div id="top-left"><a href="http://www.bbb.org/central-northern-western-arizona/business-reviews/internet-marketing-services/autoloanlocator-com-inc-in-phoenix-az-9002454/" target="_blank" title="better business bureau A+ accredited member"><img src="images/bbb-icon.png" alt="AutoLoanLocator is an A+ accredited member of the Better Business Bureau" /></a></div>
+    <div id="top-nav">
+        <div style="margin-top: 5px; margin-bottom: 5px; clear: right; vertical-align: top;">
+          <div class="fb-like" data-href="https://www.facebook.com/AutoLoanLocator" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></div>
+        </div>
+        <div style="margin-top: 2px; margin-bottom: 5px; clear: right;">
+        <img src="images/phone_icon.png" style="vertical-align: middle" alt="contact customer service toll-free" />Contact Us Today <span class="phoneNumber">1-866-585-3223</span>
+        </div>
+        <div style="margin-top: 2px; margin-bottom: 5px; clear: right;">
+        <img src="images/key_icon.png" style="vertical-align: middle" alt="login here to manage your account" />&nbsp;<a href="https://www.autoloanlocator.com/Affiliate Services/affiliate-login.aspx" target="_blank">Affiliates</a>  | <a href="https://www.autoloanlocator.com/Secure/Customers/Loan%20Status/customer-loan-status.aspx" title="Returning customers login here">Customers</a> | <a href="https://www.dealers-autoloanlocator.com/Dealerships/dealership_login.aspx" target="_blank">Dealerships</a>
+        </div>
+    </div>
+    <div id="Container">
+        <div id="auto-loan-locator-logo" title="Welcome to AutoLoanLocator.com, the internets best source for auto loan financing since 2001.">
+            <a href="default.aspx"><span>AutoLoanLocator.com Home Page</span></a></div>
+        <div id="auto-loans-navigation" 
+            title="Auto Loan Locator is a nationwide network connecting car buyers with auto dealerships in their area.">
+            <a href="auto-loans-and-financing.aspx" id="Auto_Loans" title="auto loans and financing options for car buying and auto finance customers"><span>Auto Loans and Financing Options</span></a>
+            <a href="Company%20Information/about-auto-loan-locator.aspx" id="About_AutoLoanLocator" title="Auto Loan Locator company and automobile lending information"><span>About AutoLoanLocator</span></a>
+            <a href="Customer%20Services/customer-financing-overview.aspx" id="Auto_Loan_Customer_Services" title="Services and tools available to car buying and auto loan customers"><span>Car Buyer Tools and Services</span></a>
+            <a href="#" id="Auto_Dealership_Services" title="empty dealer menu image for spacing"><span>&nbsp;</span></a>
+            <a href="Company%20Information/Contact%20Us/contact-auto-loan-locator.aspx" id="Contact_Customer_Service" title="auto loans and financing customer services"><span>Contact Auto Loan Locator Customer Service</span></a>
+            <img src="images/security-seal.png" alt="this website is secured with 128-bit SSL encryption and is verified to be safe and secure." />
+        </div>
+        <div id="auto-loans-body-top" 
+            title="Auto Loan Locator is a 100% free, no hassle automobile financing company.">
+            <div id="auto-loans-body-left">
+                <div id="auto-loans-body-img">
+                </div>
+                    <div id="auto-loan-application" 
+                        title="apply today for a new or used auto loan and be approved within minutes!">
+                        <div id="application-button">
+                        <div class="QuickFormControls">  <span id="ctl00_txt_Zipcode_wrapper" class="riSingle RadInput RadInput_Windows7"><input id="ctl00_txt_Zipcode" name="ctl00$txt_Zipcode" type="text" size="20" class="riTextBox riEmpty" value="_____" /><input id="ctl00_txt_Zipcode_ClientState" name="ctl00_txt_Zipcode_ClientState" type="hidden" /></span>
+                            </div>
+                            <input type="image" name="ctl00$Application_Button" id="Application_Button" class="Apply_Now_Button" src="images/apply-now.png" alt="Click here to get approved in minutes for a free, fast, and secure no obligation auto loan application." onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$Application_Button&quot;, &quot;&quot;, true, &quot;ApplyNow&quot;, &quot;&quot;, false, false))" /></div>
+                        <div class="main-header-span">Applying for an Auto Loan was never this easy!</div>
+                        <p>Tell us where you live, and we will attempt to locate financing for your next auto loan within minutes!  Our preferred lenders work with <span style="text-decoration: underline">ALL CREDIT TYPES</span>.</p>
+                        
+                    </div>
+            </div>
+            <div id="auto-loans-body-right">
+                <div id="right-content-header">
+                    
+    <img src="images/live-auto-loan-approvals.png" alt="up to the minute live customer approvals from auto loan locator" />
+
+                </div>
+                <div id="right-content-body">
+                    
+    
+    <div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller" class="RadRotator RadRotator_Default">
+	<div class="rrRelativeWrapper">
+		<div class="rrClipRegion">
+			<ul class="rrItemsList">
+				<li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i0">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001973<br />
+                            <span class="BlueText">Pittsburgh,  PA  15218</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$22,017.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i1">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001972<br />
+                            <span class="BlueText">Pittsburgh,  PA  15205</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$25,686.50</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i2">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001970<br />
+                            <span class="BlueText">Pittsburgh,  PA  15238</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$37,500.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i3">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001969<br />
+                            <span class="BlueText">Reynoldsville,  PA  15851</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$16,879.70</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i4">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001942<br />
+                            <span class="BlueText">Santa Maria,  CA  93454</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$8,072.90</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i5">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001905<br />
+                            <span class="BlueText">Franklin,  PA  16323</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$18,347.50</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i6">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001904<br />
+                            <span class="BlueText">Burgettstown,  PA  15021</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$37,500.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i7">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001902<br />
+                            <span class="BlueText">Pittsburgh,  PA  15224</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$22,017.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i8">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001901<br />
+                            <span class="BlueText">Jeannette,  PA  15644</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$33,759.40</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i9">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001812<br />
+                            <span class="BlueText">Apollo,  PA  15613</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$37,500.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i10">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001807<br />
+                            <span class="BlueText">Grove City,  PA  16127</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$22,750.90</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i11">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001805<br />
+                            <span class="BlueText">Hermitage,  PA  16148</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$29,356.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i12">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001803<br />
+                            <span class="BlueText">Pittsburgh,  PA  15209</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$18,347.50</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i13">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001800<br />
+                            <span class="BlueText">Lompoc,  CA  93436</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$10,274.60</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i14">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001797<br />
+                            <span class="BlueText">New Kensington,  PA  15068</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$30,089.90</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i15">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001775<br />
+                            <span class="BlueText">Pittsburgh,  PA  15207</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$23,484.80</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i16">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001774<br />
+                            <span class="BlueText">Pittsburgh,  PA  15226</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$20,182.25</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i17">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001772<br />
+                            <span class="BlueText">Washington,  PA  15301</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$20,182.25</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i18">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001771<br />
+                            <span class="BlueText">New Brighton,  PA  15066</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$20,182.25</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i19">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001594<br />
+                            <span class="BlueText">Saint Paul,  MN  55102</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$25,686.50</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i20">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001591<br />
+                            <span class="BlueText">Saint Paul,  MN  55119</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$22,017.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i21">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001526<br />
+                            <span class="BlueText">New Ulm,  MN  56073</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$35,961.10</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i22">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001517<br />
+                            <span class="BlueText">Saint Paul,  MN  55106</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$21,283.10</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i23">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001516<br />
+                            <span class="BlueText">Cannon Falls,  MN  55009</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$22,017.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i24">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001509<br />
+                            <span class="BlueText">Minneapolis,  MN  55435</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$37,500.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i25">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001505<br />
+                            <span class="BlueText">Saint Paul,  MN  55129</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$37,500.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i26">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001499<br />
+                            <span class="BlueText">Waseca,  MN  56093</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$37,500.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i27">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001495<br />
+                            <span class="BlueText">Frederic,  WI  54837</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$25,686.50</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i28">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001493<br />
+                            <span class="BlueText">Minneapolis,  MN  55413</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$37,500.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i29">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001491<br />
+                            <span class="BlueText">Cleveland,  MN  56017</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$36,695.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i30">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001485<br />
+                            <span class="BlueText">Menomonie,  WI  54751</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$37,500.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i31">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001484<br />
+                            <span class="BlueText">Chisago City,  MN  55013</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$20,916.15</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i32">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001483<br />
+                            <span class="BlueText">Big Lake,  MN  55309</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$19,066.72</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i33">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001466<br />
+                            <span class="BlueText">Lompoc,  CA  93436</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$11,008.50</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i34">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001426<br />
+                            <span class="BlueText">Cochrane,  WI  54622</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$23,484.80</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i35">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001425<br />
+                            <span class="BlueText">Burnsville,  MN  55337</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$30,823.80</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i36">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001412<br />
+                            <span class="BlueText">Eau Claire,  WI  54703</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$37,500.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i37">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001402<br />
+                            <span class="BlueText">Minneapolis,  MN  55433</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$23,484.80</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i38">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001401<br />
+                            <span class="BlueText">Minneapolis,  MN  55435</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$28,622.10</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i39">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001399<br />
+                            <span class="BlueText">Minneapolis,  MN  55432</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$33,025.50</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i40">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001396<br />
+                            <span class="BlueText">Ormsby,  MN  56162</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$21,283.10</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i41">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001390<br />
+                            <span class="BlueText">Minneapolis,  MN  55412</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$22,017.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i42">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001387<br />
+                            <span class="BlueText">Winona,  MN  55987</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$33,025.50</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i43">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001384<br />
+                            <span class="BlueText">Oceano,  CA  93445</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$11,742.40</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i44">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001373<br />
+                            <span class="BlueText">Minneapolis,  MN  55421</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$22,750.90</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i45">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001370<br />
+                            <span class="BlueText">Saint Paul,  MN  55102</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$27,888.20</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i46">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001357<br />
+                            <span class="BlueText">New Prague,  MN  56071</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$21,062.93</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i47">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001348<br />
+                            <span class="BlueText">Saint Paul,  MN  55104</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$20,182.25</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i48">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001326<br />
+                            <span class="BlueText">Forest Lake,  MN  55025</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$37,500.00</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li><li class="rrItem"><div id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_i49">
+					
+                    <div class="ScrollItem" onclick="document.location='Secure/Applications/Auto Loan Application/'">
+                        <div id="Approval-Record">
+                            Customer # 1001322<br />
+                            <span class="BlueText">Saint Paul,  MN  55113</span><br />
+                            <span class="GreenText">APPROVED</span> 11/16/2017<br />
+                            Amount: <span class="GreenText">$21,283.10</span><br />
+                            ··················· 
+                        </div>
+                    </div>
+                
+				</div></li>
+			</ul>
+		</div><a class="rrButton rrButtonUp" href="javascript:void(0);">&nbsp;</a><a class="rrButton rrButtonLeft" href="javascript:void(0);">&nbsp;</a><a class="rrButton rrButtonRight" href="javascript:void(0);">&nbsp;</a><a class="rrButton rrButtonDown" href="javascript:void(0);">&nbsp;</a>
+	</div><input id="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_ClientState" name="ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_ClientState" type="hidden" />
+</div>
+
+                </div>
+            </div>
+        </div>
+        <div id="main-auto-loans-body">
+            
+    <img src="images/auto-loan-body-header.png" alt="auto loans for good and bad credit customers" /><br />
+<div style="float: left; width: 600px;">
+    <div class="info-box-blue">
+    <h1 style="font-size: 16px">We find you the best available auto loan in your area - 
+        period!</h1><br />
+    <p class="info-box-paragraph"><img src="images/drive-home-today.png" class="FloatLeftNoMargin"  
+        alt="we help customers just like you get into their next vehicle" />AutoLoanLocator.com has one goal: to find you the best auto loan options in your area.&nbsp; We work around the clock to make sure that auto loan customers of any credit type will have financing options available to them when they need it.&nbsp; We have been building our auto loan assistance network for over 10 years now, and it is still 100% FREE TO USE. </p>
+    <p class="info-box-paragraph">Have you been trying to purchase a car from an auto dealership, or a private party but have been declined every place you turn? We specialize in lenders and auto dealerships that accept credit applications from all types of customers.&nbsp; We know how frustrating it can be trying to find the cash you need to purchase your next vehcile, so we make the approval process as quick and easy as possible.&nbsp; We will shop around to find you the best deal we can.</p>
+    </div>
+    </div>
+<div style="float: right; width: 400px;">
+<div class="info-box-silver">
+    <h2 class="info-box-header" style="color: #0573C4">
+        <img src="images/new-used-loans-icon.png" 
+            style="vertical-align: middle; padding-right: 10px;" class="FloatLeft" alt="new or used auto loan financing" />Instant Approvals On New/Used Autos</h2>
+<p class="info-box-paragraph">With new or used auto loan financing from AutoLoanLocator.com, you can shop at any franchised dealer in your state like a cash buyer! Drive home a great 
+    auto loan with the most competitive rates available.
+ Get online approval in minutes, with NO Application or Lender Fees, NO Obligation, 
+    and NO HASSLE!</p>
+            <p style="text-align: center">
+                <a href="Articles/Financing/new-used-auto-financing.aspx">
+                <img src="images/read-more-button.png" 
+                    alt="read more about new and used auto loan financing" class="info-box-img" /></a><a href="Secure/Applications/Auto Loan Application/"><img src="images/apply-now-button.png" 
+                    alt="apply now for a new or used automobile loan" class="info-box-img" /></a></p>
+    </div>
+    <div class="info-box-blue" style="margin-top: 10px">
+    <h2 class="info-box-header" style="color: #0673B8">
+        <img src="images/refinance-loans-icon.png" 
+            style="vertical-align: middle; padding-right: 10px" class="FloatLeft" alt="refinance your current auto to lower your payment" />Refinancing Your Current Auto Loan</h2>
+    <p class="info-box-paragraph">Get your current auto loan payments lowered today! By refinancing your current 
+        auto loan with AutoLoanLocator.com, you can lower your interest rate or extend your current loan term
+to save money. It's Quick, Easy, and FREE! You could be approved within minutes and you don't have to leave your seat!</p>
+<p style="text-align: center"><a href="Articles/Financing/auto-loan-refinancing.aspx">
+                <img src="images/read-more-button.png" 
+                    alt="read more about refinancing your existing auto loan" class="info-box-img" /></a><a href="Secure/Applications/Auto Loan Application/"><img src="images/apply-now-button.png" 
+                    alt="click here to refinancing your existing auto loan and lower your monthly payments today" class="info-box-img" /></a></p>
+    </div>
+</div>
+        
+    <p>&nbsp;</p>
+
+        </div>
+    </div>
+    <div id="footer">
+       
+        <div id="footer-content">
+            <div id="KeywordCloud"> 
+                
+                <div id="ctl00_RadTagCloud1" class="RadTagCloud RadTagCloud_Windows7">
+	<ul class="rtcTagList">
+		<li class="rtcTagItem" id="ctl00_RadTagCloud1_0_100"><a href="/Secure/Applications/Auto%20Loan%20Application/" rel="tag" title="no obligation auto loans">Auto Loans</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_1_65"><a href="/Default.aspx" rel="tag" title="instant approvals within minutes">Instant Approval</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_2_80"><a href="/Default.aspx" rel="tag" title="bad credit customers welcome">Bad Credit</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_3_60"><a href="/Default.aspx" rel="tag" title="good credit customers">Good Credit</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_4_78"><a href="/Default.aspx" rel="tag" title="online car buyers">Car Buyers</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_5_63"><a href="/Articles/Financing/new-used-auto-financing.aspx" rel="tag" title="new and used auto loans">New and Used Cars</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_6_100"><a href="/Articles/Financing/auto-loan-refinancing.aspx" rel="tag" title="refinancing available">Auto Refinance</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_7_75"><a href="/Articles/Bankruptcy/after-bankruptcy-assistance.aspx" rel="tag" title="financial pointers after bankrupcy">Bankruptcy</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_8_87"><a href="/Secure/Applications/Auto%20Loan%20Application/" rel="tag" title="auto financing">Financing</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_9_65"><a href="/Default.aspx" rel="tag" title="nationwide lender network">Auto Lenders</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_10_100"><a href="/Default.aspx" rel="tag" title="all credit types accepted">All Credit types</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_11_90"><a href="/Articles/Financing/financing-facts-and-fiction.aspx" rel="tag" title="zero percent and low rate financing options">Financing Options</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_12_61"><a href="/auto-loans-and-financing.aspx" rel="tag" title="auto makers offering great incentives">Auto Incentives</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_13_70"><a href="/Secure/Applications/Auto%20Loan%20Application/" rel="tag" title="secured auto loan">Secured Loan</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_14_77"><a href="/auto-loans-and-financing.aspx" rel="tag" title="low rate auto financing">Low Rates</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_15_82"><a href="/Company%20Information/Contact%20Us/" rel="tag" title="contact us today to begin your auto loan process">Contact Us</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_16_100"><a href="/Articles/Car%20Buying/buying-a-car.aspx" rel="tag" title="complete guide to purchasing a new or used car">Buyers Guide</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_17_70"><a href="/Articles/Car%20Buying/credit-score-information.aspx" rel="tag" title="what should you know about your credit score">Credit Score</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_18_68"><a href="/Customer%20Services/customer-financing-overview.aspx" rel="tag" title="read what AutoLoanLocator customers are saying">Satisfied Customers</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_19_82"><a href="/Customer%20Services/Payment%20Calculators/auto-loan-payment-calculator.aspx" rel="tag" title="calculate your monthly auto loan payment">Payment Calculator</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_20_67"><a href="/Secure/Customers/Loan%20Status/customer-loan-status.aspx" rel="tag" title="check the status of your auto loan">Loan Status</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_21_95"><a href="/Secure/Applications/Auto%20Loan%20Application/" rel="tag" title="special finance auto programs">Special Finance</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_22_72"><a href="/espa%c3%b1ol/" rel="tag" title="Spanish speaking customers go here">Spanish Speaking</a></li><li class="rtcTagItem" id="ctl00_RadTagCloud1_23_100"><a href="/auto-loans-and-financing.aspx" rel="tag" title="auto loan assistance programs currently available">Auto Loan Assistance</a></li>
+	</ul><input id="ctl00_RadTagCloud1_ClientState" name="ctl00_RadTagCloud1_ClientState" type="hidden" />
+</div>
+            </div>
+            <div id="auto-loan-text-sitemap">
+                <div id="ctl00_AutoLoan_Sitemap" class="RadSiteMap RadSiteMap_Windows7"><font face="Arial" size="1">
+	<ul class="rsmList rsmColumn rsmLevel rsmTwoLevels">
+		<li class="rsmItem"><a class="rsmLink" href="/Company%20Information/about-auto-loan-locator.aspx" title="Company Information and Office Locations">Company Information</a><ul class="rsmList rsmNodeLines rsmLevel1">
+			<li class="rsmItem"><a class="rsmLink" href="/Default.aspx" title="AutoLoanLocator Home Page">Home</a></li><li class="rsmItem"><a class="rsmLink" href="/auto-loans-and-financing.aspx" title="Information about new and used automobile loans, financing for bad credit customers, and loan applications for car buyers.">Auto Loans and Financing</a></li><li class="rsmItem"><a class="rsmLink" href="/Company%20Information/Contact%20Us/" title="Company phone numbers and contact information">Contact Us</a></li><li class="rsmItem"><a class="rsmLink" href="/Articles/Financing/new-used-auto-financing.aspx" title="Information on purchasing a new or used car">New/Used Auto Loans</a></li><li class="rsmItem"><a class="rsmLink" href="/Articles/Financing/auto-loan-refinancing.aspx" title="Information about refinancing your current auto loan">Auto Loan Refinancing</a></li><li class="rsmItem rsmLast"><a class="rsmLink" href="/Articles/Financing/financing-facts-and-fiction.aspx" title="Information about refinancing your current auto loan">Financing Facts and Fiction</a></li>
+		</ul></li>
+	</ul><ul class="rsmList rsmColumn rsmLevel rsmTwoLevels">
+		<li class="rsmItem"><a class="rsmLink" href="/Customer%20Services/customer-financing-overview.aspx" title="Tools and services for auto loan and car financing customers.">Customer Services</a><ul class="rsmList rsmNodeLines rsmLevel1">
+			<li class="rsmItem"><a class="rsmLink" href="/auto-financing-application.aspx" title="Secure instant approval auto loan application for good and bad credit customers.">Apply For An Auto Loan</a></li><li class="rsmItem"><a class="rsmLink" href="/Customer%20Services/Payment%20Calculators/" title="estimate your monthly auto loan payments and financing breakdown with our calculators">Loan Payment Calculators</a></li><li class="rsmItem"><a class="rsmLink" href="/Secure/Customers/Loan%20Status/" title="login to check your current auto application loan status and approval information">Loan Status</a></li><li class="rsmItem"><a class="rsmLink" href="/Articles/Bankruptcy/after-bankruptcy-assistance.aspx" title="What you can do to repair your credit after filing for bankruptcy">After Bankruptcy Assistance</a></li><li class="rsmItem"><a class="rsmLink" href="/Articles/Car%20Buying/buying-a-car.aspx" title="Tips and tricks from auto professionals when purchasing a new car">Car Buyers Guide</a></li><li class="rsmItem rsmLast"><a class="rsmLink" href="/Articles/Car%20Buying/credit-score-information.aspx" title="Learn about your credit score and what factors can raise or lower your overall credit rating">Credit Score Information</a></li>
+		</ul></li>
+	</ul><input id="ctl00_AutoLoan_Sitemap_ClientState" name="ctl00_AutoLoan_Sitemap_ClientState" type="hidden" />
+</font></div>
+                
+            </div> <div id="social-media-links">
+                <a href="https://www.facebook.com/AutoLoanLocator" title="Visit Us On Facebook" target="_blank">
+                <img src="images/follow-us-on-facebook.png" alt="follow Auto Loan Locator on facebook" /></a>
+                    <a href="https://plus.google.com/102396062978239495067" title="Join Us On Google+" target="_blank"><img src="images/check-us-out-on-google-plus.png" alt="Learn more about your auto loan options on Google+" /></a>
+                    <a href="https://twitter.com/#!/AutoLoanLocator" title="Follow Us On Twitter" target="_blank"><img src="images/follow-us-on-twitter.png" alt="follow Auto Loan Locator on Twitter" /></a>
+                    <a href="http://www.linkedin.com/in/autoloanlocator" title="View Us On LinkedIn" target="_blank"><img src="images/connect-with-us-on-linked-in.png" alt="connect with Auto Loan Locator on LinkedIn" /></a><a href="http://www.youtube.com/autoloanlocator" title="Watch Us On YouTube" target="_blank"><img src="images/watch-us-on-youtube.png" alt="watch" /></a><br />
+                </div>
+        </div>
+    </div>
+    <div id="CompanyCopyright">Copyright &copy; 2001-2013 <a href="Default.aspx" title="Auto Loan Locator home page">AutoLoanLocator.com, Inc.</a><br /><a href="Company%20Information/privacy-policy.aspx" title="privacy and disclosure statement">Privacy Policy</a></div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadWindowManager, {"behaviors":36,"clientStateFieldID":"ctl00_RadWindowManager1_ClientState","formID":"form1","iconUrl":"","keepInScreenBounds":true,"minimizeIconUrl":"","modal":true,"name":"RadWindowManager1","skin":"Windows7","windowControls":"[]"}, null, null, $get("ctl00_RadWindowManager1"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadMaskedTextBox, {"_displayText":"Enter Your Zip Code","_focused":false,"_initialMasks":[new Telerik.Web.UI.RadDigitMaskPart(),new Telerik.Web.UI.RadDigitMaskPart(),new Telerik.Web.UI.RadDigitMaskPart(),new Telerik.Web.UI.RadDigitMaskPart(),new Telerik.Web.UI.RadDigitMaskPart()],"_initialValueAsText":"","_postBackEventReferenceScript":"setTimeout(\"__doPostBack(\\\u0027ctl00$txt_Zipcode\\\u0027,\\\u0027\\\u0027)\", 0)","_skin":"Windows7","_validationGroup":"ApplyNow","_validationText":"","clientStateFieldID":"ctl00_txt_Zipcode_ClientState","emptyMessage":"Enter Your Zip Code","enabled":true,"hideOnBlur":true,"styles":{HoveredStyle: ["font-size:14pt;width:200px;text-align:center;", "riTextBox riHover"],InvalidStyle: ["font-size:14pt;width:200px;text-align:center;", "riTextBox riError"],DisabledStyle: ["font-size:14pt;width:200px;text-align:center;", "riTextBox riDisabled"],FocusedStyle: ["font-size:14pt;width:200px;text-align:center;", "riTextBox riFocused"],EmptyMessageStyle: ["font-size:14pt;font-style:italic;width:200px;text-align:center;", "riTextBox riEmpty"],ReadOnlyStyle: ["font-size:14pt;width:200px;text-align:center;", "riTextBox riRead"],EnabledStyle: ["font-size:14pt;width:200px;text-align:center;", "riTextBox riEnabled"]}}, null, null, $get("ctl00_txt_Zipcode"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadRotator, {"clientStateFieldID":"ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller_ClientState","enableDragScrolling":false,"frameDuration":3500,"items":[{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{},{}],"scrollDirection":4,"scrollDuration":1250,"skin":"Default"}, null, null, $get("ctl00_SideBar_Content_Auto_Loan_Approvals_Scroller"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTagCloud, {"_accessKey":"","_tabIndex":0,"clientStateFieldID":"ctl00_RadTagCloud1_ClientState","distribution":1,"foreColor":"","maxColor":"","maxFontSize":"16px","maximalWeight":100,"minColor":"","minimalWeight":60}, null, null, $get("ctl00_RadTagCloud1"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSiteMap, null, null, null, $get("ctl00_AutoLoan_Sitemap"));
+});
+//]]>
+</script>
+</form>
+    <div id="Apply-Link-Left">
+             <a href="auto-financing-application.aspx" id="Auto_Loan_Apply" title="apply now for an instant approval, no obligation auto loan"><span>Apply Now</span></a>
+            </div>
+</body>
+</html>

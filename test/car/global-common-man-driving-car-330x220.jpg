@@ -1,0 +1,1278 @@
+<!DOCTYPE html>
+<!--[if IE 8]>
+<html lang="en"
+      dir="ltr"
+      class="ltr lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]>
+<html lang="en"
+      dir="ltr"
+      class="ltr lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="en"
+      dir="ltr"
+      class="ltr"> <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="WT.sp" content="UK;Home" />
+<meta property="og:image" content="https://www.britishcouncil.org/profiles/solas2/themes/solas_ui/images/desktop/britishcouncil_og_logo.jpg" />
+<link rel="shortcut icon" href="https://www.britishcouncil.org/profiles/solas2/themes/solas_ui/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="The British Council is the United Kingdom’s international organisation for cultural relations and educational opportunities." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://www.britishcouncil.org/welcome-british-council" />
+<link rel="shortlink" href="https://www.britishcouncil.org/node/33741" />
+  <title>British Council | The UK’s international culture and education organisation</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- iOS -->
+  <link rel="apple-touch-icon"
+        href="/profiles/solas2/themes/solas_ui/apple-touch-icons/touch-icon-iphone.png">
+  <link rel="apple-touch-icon" sizes="76x76"
+        href="/profiles/solas2/themes/solas_ui/apple-touch-icons/touch-icon-ipad.png">
+  <link rel="apple-touch-icon" sizes="120x120"
+        href="/profiles/solas2/themes/solas_ui/apple-touch-icons/touch-icon-iphone-retina.png">
+  <link rel="apple-touch-icon" sizes="152x152"
+        href="/profiles/solas2/themes/solas_ui/apple-touch-icons/touch-icon-ipad-retina.png">
+  <!-- Microsoft -->
+  <meta http-equiv="cleartype" content="on">
+  <link type="text/css" rel="stylesheet" href="https://www.britishcouncil.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.britishcouncil.org/sites/default/files/css/css_UeMyWyZozVTzaLYZK1Bk4YXadbUsewbbf3tollAleHg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://sui.live.solas.britishcouncil.digital/0.0.10/css/bc-theme.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://sui.live.solas.britishcouncil.digital/0.0.10/css/bc-theme-old-ie.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://sui.live.solas.britishcouncil.digital/0.0.10/css/bc-theme-subthemes.css" media="all" />
+
+<!--[if lte IE 8]>
+<link type="text/css" rel="stylesheet" href="https://sui.live.solas.britishcouncil.digital/0.0.10/css/bc-theme-subthemes-old-ie.css" media="all" />
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="https://www.britishcouncil.org/sites/default/files/css/css_i0wHCYpozgYATEXcB7WudJAR7ajwalqeuPY9Ccs2QTM.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.britishcouncil.org/sites/default/files/css/css_JTYYfJaPatcVdrfzerH2BlghwqO58Y6StHuYa7MUguc.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.britishcouncil.org/sites/default/files/css/css_t1FY2pXGX_YyQ1kfVsHFlHRZwyjkM0bM2_0QFHDePq0.css" media="all" />
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="https://www.britishcouncil.org/sites/default/files/css/css_qrMQCRp8wQGTyAfxMNMsKRO3ZNJXxmpUpIw-I4zkfNQ.css" media="all" />
+<![endif]-->
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+  <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <![endif]-->
+  <script src="https://www.britishcouncil.org/sites/default/files/js/js_A01mE0OOkhISVSQubhhc-km--VAXp6zYCwpcghpBC28.js"></script>
+<script src="//cdn.optimizely.com/js/3074371378.js"></script>
+<script src="https://www.britishcouncil.org/sites/default/files/js/js_LmA8E3vNstwoNDy--CA31tLo0-NMAf6Kg3xyNOcGRVA.js"></script>
+<script src="https://www.britishcouncil.org/sites/default/files/js/js_S47oNUnec-KS-3PV9SEhCydqH2KD1fEygffzfWRW6OQ.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"solas_ui","theme_token":"sqP82ZfgZB460e7IDnGJj7vWb932L1Ct3vG6y9rgggE","js":{"https:\/\/sui.live.solas.britishcouncil.digital\/0.0.10\/scripts\/main.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/init.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/ajax.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/listings.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/filters.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/forms.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/maps.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/maps-teaching-centre-listing.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/bookeo.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/icon-insertion.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/libs\/jquery.validate.min.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/campaign.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/menus.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/footer-listing.js":1,"profiles\/solas2\/themes\/solas_ui\/js\/country-selector.js":1,"profiles\/solas2\/themes\/bootstrap\/js\/bootstrap.js":1,"profiles\/solas2\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/cdn.optimizely.com\/js\/3074371378.js":1,"profiles\/solas2\/modules\/custom\/webtrends_simple\/webtrends_data_display\/js\/webtrends_data_display.js":1,"profiles\/solas2\/modules\/contrib\/cookie_banner\/js\/cookie_banner.js":1,"profiles\/solas2\/modules\/contrib\/ctools\/js\/jump-menu.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/solas2\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/solas2\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"profiles\/solas2\/modules\/contrib\/relation_add\/relation_add.css":1,"profiles\/solas2\/modules\/custom\/webtrends_simple\/webtrends_data_display\/css\/webtrends_data_display.css":1,"profiles\/solas2\/modules\/contrib\/views\/css\/views.css":1,"https:\/\/sui.live.solas.britishcouncil.digital\/0.0.10\/css\/bc-theme.css":1,"https:\/\/sui.live.solas.britishcouncil.digital\/0.0.10\/css\/bc-theme-old-ie.css":1,"https:\/\/sui.live.solas.britishcouncil.digital\/0.0.10\/css\/bc-theme-subthemes.css":1,"https:\/\/sui.live.solas.britishcouncil.digital\/0.0.10\/css\/bc-theme-subthemes-old-ie.css":1,"profiles\/solas2\/themes\/solas_ui\/css\/header\/uk.css":1,"profiles\/solas2\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/solas2\/modules\/custom\/solas_admin\/solas_admin_menu\/solas_admin_menu.css":1,"profiles\/solas2\/themes\/solas_ui\/css\/solas-ui-overrides.css":1,"profiles\/solas2\/themes\/solas_ui\/css\/solas-ui-widgets.css":1,"profiles\/solas2\/themes\/solas_ui\/css\/solas-ui-admin.css":1,"profiles\/solas2\/themes\/solas_ui\/css\/solas-ui-integration.css":1,"profiles\/solas2\/modules\/contrib\/cookie_banner\/css\/cookie_banner.css":1,"profiles\/solas2\/themes\/solas_ui\/css\/solas-ui-overrides-old-ie.css":1}},"better_exposed_filters":{"views":{"solas_news_alerts":{"displays":{"news_alert":{"filters":[]}}},"promos_test_revs":{"displays":{"block":{"filters":[]}}},"promo_sbar_revs":{"displays":{"block":{"filters":[]}}},"country_sites":{"displays":{"country_listing":{"filters":[]},"country_home":{"filters":[]}}}}},"addSuiIcons":{"accessibility_text":"Opens in a new tab or window."},"cookie_banner":{"cookie_banner_message":"\n\u003Cdiv id=\u0022bc-cookie-banner\u0022 class=\u0022bc-cookie-banner\u0022\u003E\n  \u003Cdiv class=\u0022container\u0022\u003E\n    \u003Cp\u003E\n      This site uses cookies to help make it more useful to you.      \u003Ca href=\u0022\/privacy-cookies\/cookies\u0022\u003EFind out more about cookies.\u003C\/a\u003E\n    \u003C\/p\u003E\n\n    \u003Cbutton class=\u0022bc-close\u0022\u003E\n      \u003Cspan\u003EClose cookie notice\u003C\/span\u003E\n      \u003Csvg class=\u0022bc-svg bc-svg-cancel-circled\u0022 aria-hidden=\u0022true\u0022\u003E\n  \u003Cuse xlink:href=\u0022#icon-cancel-circled\u0022\u003E\u003C\/use\u003E\n\u003C\/svg\u003E\n    \u003C\/button\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","cookie_banner_name":"www-britishcouncil-org-eu-cookie","cookie_banner_duration":1518648129},"urlIsAjaxTrusted":{"\/search":true,"\/":true},"isFront":true,"countryListing":{"countryList":[{"country":"Afghanistan","url":"http:\/\/www.britishcouncil.org\/afghanistan","code":"AF"},{"country":"Albania","url":"http:\/\/www.britishcouncil.org\/albania","code":"AL"},{"country":"Algeria","url":"http:\/\/www.britishcouncil.dz\/en","code":"DZ"},{"country":"Argentina","url":"http:\/\/www.britishcouncil.org.ar","code":"AR"},{"country":"Armenia","url":"http:\/\/www.britishcouncil.am","code":"AM"},{"country":"Australia","url":"http:\/\/www.britishcouncil.org.au","code":"AU"},{"country":"Austria","url":"http:\/\/www.britishcouncil.at","code":"AT"},{"country":"Azerbaijan","url":"http:\/\/www.britishcouncil.az","code":"AZ"},{"country":"Bahrain","url":"http:\/\/www.britishcouncil.bh\/en","code":"BH"},{"country":"Bangladesh","url":"http:\/\/www.britishcouncil.org.bd","code":"BD"},{"country":"Belgium","url":"http:\/\/www.britishcouncil.be\/","code":"BE"},{"country":"Bosnia and Herzegovina","url":"http:\/\/www.britishcouncil.ba","code":"BA"},{"country":"Botswana","url":"http:\/\/www.britishcouncil.co.bw","code":"BW"},{"country":"Brazil","url":"http:\/\/www.britishcouncil.org.br","code":"BR"},{"country":"Bulgaria","url":"http:\/\/www.britishcouncil.bg","code":"BG"},{"country":"Burma","url":"http:\/\/www.britishcouncil.org.mm","code":"MM"},{"country":"Cameroon","url":"http:\/\/www.britishcouncil.cm","code":"CM"},{"country":"Canada","url":"http:\/\/www.britishcouncil.ca\/","code":"CA"},{"country":"Chile","url":"http:\/\/www.britishcouncil.cl","code":"CL"},{"country":"China","url":"https:\/\/www.britishcouncil.cn\/en","code":"CN"},{"country":"Colombia","url":"http:\/\/www.britishcouncil.co","code":"CO"},{"country":"Croatia","url":"http:\/\/www.britishcouncil.hr","code":"HR"},{"country":"Cyprus","url":"http:\/\/www.britishcouncil.com.cy","code":"CY"},{"country":"Czech Republic","url":"http:\/\/www.britishcouncil.cz","code":"CZ"},{"country":"Denmark","url":"http:\/\/www.britishcouncil.dk","code":"DK"},{"country":"Egypt","url":"http:\/\/www.britishcouncil.org.eg","code":"EG"},{"country":"Estonia","url":"http:\/\/www.britishcouncil.ee","code":"EE"},{"country":"Ethiopia","url":"http:\/\/ethiopia.britishcouncil.org","code":"ET"},{"country":"Finland","url":"http:\/\/www.britishcouncil.fi\/","code":"FI"},{"country":"France","url":"http:\/\/www.britishcouncil.fr","code":"FR"},{"country":"Georgia","url":"http:\/\/www.britishcouncil.ge","code":"GE"},{"country":"Germany","url":"http:\/\/www.britishcouncil.de\/en","code":"DE"},{"country":"Ghana","url":"http:\/\/www.britishcouncil.org.gh","code":"GH"},{"country":"Greece","url":"http:\/\/www.britishcouncil.gr\/","code":"GR"},{"country":"Hong Kong","url":"http:\/\/www.britishcouncil.hk","code":"HK"},{"country":"Hungary","url":"http:\/\/www.britishcouncil.hu","code":"HU"},{"country":"India","url":"http:\/\/www.britishcouncil.in","code":"IO"},{"country":"Indonesia","url":"https:\/\/www.britishcouncil.id\/","code":"ID"},{"country":"Iran","url":"https:\/\/iran.britishcouncil.org\/en","code":"IR"},{"country":"Iraq","url":"http:\/\/iraq.britishcouncil.org","code":"IQ"},{"country":"Ireland","url":"http:\/\/www.britishcouncil.ie","code":"IE"},{"country":"Israel","url":"http:\/\/www.britishcouncil.org.il","code":"IL"},{"country":"Italy","url":"http:\/\/www.britishcouncil.it","code":"IT"},{"country":"Japan","url":"http:\/\/www.britishcouncil.jp","code":"JP"},{"country":"Jordan","url":"https:\/\/www.britishcouncil.jo","code":"JO"},{"country":"Kazakhstan","url":"http:\/\/www.britishcouncil.kz","code":"KZ"},{"country":"Kenya","url":"http:\/\/www.britishcouncil.co.ke","code":"KE"},{"country":"Korea, Republic of","url":"http:\/\/www.britishcouncil.kr","code":"KR"},{"country":"Kosovo","url":"http:\/\/kosovo.britishcouncil.org","code":"XK"},{"country":"Kuwait","url":"http:\/\/www.britishcouncil.com.kw\/en","code":"KW"},{"country":"Latvia","url":"http:\/\/www.britishcouncil.lv","code":"LV"},{"country":"Lebanon","url":"http:\/\/www.britishcouncil.org.lb","code":"LB"},{"country":"Libya","url":"http:\/\/www.britishcouncil.ly\/en","code":"LY"},{"country":"Lithuania","url":"http:\/\/www.britishcouncil.lt","code":"LT"},{"country":"Macedonia","url":"http:\/\/www.britishcouncil.mk","code":"MK"},{"country":"Malawi","url":"http:\/\/www.britishcouncil.mw","code":"MW"},{"country":"Malaysia","url":"http:\/\/www.britishcouncil.my","code":"MY"},{"country":"Malta","url":"http:\/\/www.britishcouncil.org.mt","code":"MT"},{"country":"Mauritius","url":"http:\/\/www.britishcouncil.mu","code":"MU"},{"country":"Mexico","url":"http:\/\/www.britishcouncil.org.mx","code":"MX"},{"country":"Montenegro","url":"http:\/\/www.britishcouncil.me","code":"ME"},{"country":"Morocco","url":"https:\/\/www.britishcouncil.ma\/en","code":"MA"},{"country":"Mozambique","url":"http:\/\/www.britishcouncil.org.mz","code":"MZ"},{"country":"Namibia","url":"http:\/\/www.britishcouncil.na","code":"NA"},{"country":"Nepal","url":"http:\/\/www.britishcouncil.org.np","code":"NP"},{"country":"Netherlands","url":"http:\/\/www.britishcouncil.nl\/","code":"NL"},{"country":"New Zealand","url":"http:\/\/www.britishcouncil.org.nz","code":"NZ"},{"country":"Nigeria","url":"http:\/\/www.britishcouncil.org.ng","code":"NG"},{"country":"Northern Ireland","url":"http:\/\/nireland.britishcouncil.org","code":"GB"},{"country":"Norway","url":"http:\/\/www.britishcouncil.no","code":"NO"},{"country":"Occupied Palestinian Territories","url":"http:\/\/www.britishcouncil.ps","code":"PS"},{"country":"Oman","url":"http:\/\/www.britishcouncil.om\/en","code":"OM"},{"country":"Pakistan","url":"http:\/\/www.britishcouncil.pk","code":"PK"},{"country":"Peru","url":"http:\/\/www.britishcouncil.pe\/","code":"PE"},{"country":"Philippines","url":"https:\/\/www.britishcouncil.ph","code":"PH"},{"country":"Poland","url":"http:\/\/www.britishcouncil.pl","code":"PL"},{"country":"Portugal","url":"http:\/\/www.britishcouncil.pt","code":"PT"},{"country":"Qatar","url":"http:\/\/www.britishcouncil.qa","code":"QA"},{"country":"Romania","url":"http:\/\/www.britishcouncil.ro","code":"RO"},{"country":"Russia","url":"http:\/\/www.britishcouncil.ru","code":"RU"},{"country":"Rwanda","url":"http:\/\/www.britishcouncil.rw","code":"RW"},{"country":"Saudi Arabia","url":"http:\/\/www.britishcouncil.sa","code":"SA"},{"country":"Scotland","url":"https:\/\/scotland.britishcouncil.org","code":"GB"},{"country":"Senegal","url":"http:\/\/www.britishcouncil.com.sn\/en","code":"SN"},{"country":"Serbia","url":"http:\/\/www.britishcouncil.rs\/","code":"RS"},{"country":"Sierra Leone","url":"http:\/\/www.britishcouncil.sl","code":"SL"},{"country":"Singapore","url":"http:\/\/www.britishcouncil.sg","code":"SG"},{"country":"Slovakia","url":"http:\/\/www.britishcouncil.sk","code":"SK"},{"country":"Slovenia","url":"http:\/\/www.britishcouncil.org\/slovenia","code":"SI"},{"country":"South Africa","url":"http:\/\/www.britishcouncil.org.za","code":"ZA"},{"country":"South Sudan","url":"http:\/\/southsudan.britishcouncil.org\/","code":"SS"},{"country":"Spain","url":"http:\/\/www.britishcouncil.org\/spain","code":"ES"},{"country":"Sri Lanka","url":"http:\/\/www.britishcouncil.lk","code":"LK"},{"country":"Sudan","url":"http:\/\/sudan.britishcouncil.org","code":"SS"},{"country":"Sweden","url":"http:\/\/www.britishcouncil.se","code":"SE"},{"country":"Switzerland","url":"http:\/\/www.britishcouncil.ch","code":"CH"},{"country":"Syria","url":"http:\/\/www.britishcouncil.org\/syria","code":"SY"},{"country":"Taiwan","url":"http:\/\/www.britishcouncil.org.tw","code":"TW"},{"country":"Tanzania","url":"http:\/\/www.britishcouncil.or.tz","code":"TZ"},{"country":"Thailand","url":"http:\/\/www.britishcouncil.or.th","code":"TH"},{"country":"Tunisia","url":"http:\/\/www.britishcouncil.tn","code":"TN"},{"country":"Turkey","url":"http:\/\/www.britishcouncil.org.tr","code":"TR"},{"country":"Uganda","url":"http:\/\/www.britishcouncil.ug\/","code":"UG"},{"country":"Ukraine","url":"http:\/\/www.britishcouncil.org.ua","code":"UA"},{"country":"United Arab Emirates","url":"http:\/\/www.britishcouncil.ae","code":"AE"},{"country":"United States of America","url":"http:\/\/www.britishcouncil.us\/","code":"US"},{"country":"Uruguay","url":"https:\/\/www.britishcouncil.uy","code":"UY"},{"country":"Uzbekistan","url":"http:\/\/www.britishcouncil.org\/uzbekistan","code":"UZ"},{"country":"Venezuela","url":"http:\/\/www.britishcouncil.org.ve","code":"VE"},{"country":"Vietnam","url":"http:\/\/www.britishcouncil.vn","code":"VN"},{"country":"Wales","url":"http:\/\/wales.britishcouncil.org\/en","code":"GB"},{"country":"Yemen","url":"http:\/\/yemen.britishcouncil.org\/en","code":"YE"},{"country":"Zambia","url":"http:\/\/www.britishcouncil.org.zm","code":"ZM"},{"country":"Zimbabwe","url":"http:\/\/www.britishcouncil.co.zw","code":"ZW"}]},"solas_ct_webform":{"serverMaxFileSize":67108864,"currentTheme":"solas_ui"},"password":{"strengthTitle":"Password compliance:"},"type":"setting","bootstrap":{"anchorsFix":"0","anchorsSmoothScrolling":"0","formHasError":1,"popoverEnabled":"0","popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":"0","tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body
+  class="front page-node-33741 node-type-homepage-vanguard i18n-en bc-subtheme-shadowgrey" >
+      <script>dataLayer = [{"pageTitle":"Welcome to the British Council","pageCategory":"homepage_vanguard"}]</script>
+    <!-- Google Tag Manager -->
+  	<noscript>
+      <iframe src="//www.googletagmanager.com/ns.html?id=GTM-29XL" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-29XL');
+    </script>
+    <!-- End Google Tag Manager -->  <div id="skip-link">
+    <a href="#main-content"
+       class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+<header role="banner" class="navbar bc-navbar-default bc-navbar-has-support-area uk">
+  <div class="container">
+    <h2 class="navbar-header">
+      <div class="navbar-brand">
+                  <a class="bc-brand-logo"
+             href="/">British Council</a>
+                                      </div>
+    </h2>
+
+          <div class="bc-btn-navbar-group" role="group">
+        <button type="button" class="btn btn-default bc-menu-toggle" data-target=".mega-menu .navbar-nav">
+          Menu          <div class="menu-icon">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </button>
+      </div>
+    
+          <nav role="navigation" class="mega-menu">
+                  <ul class="nav navbar-nav bc-primary-nav bc-navbar-nav-has-home-icon"><li class="first leaf active"><a href="/" title="" class="active">Home</a></li>
+<li class="collapsed"><a href="/english">Learn English</a></li>
+<li class="collapsed"><a href="/exam">Take an exam</a></li>
+<li class="collapsed"><a href="/study-work-create">Study and work abroad</a></li>
+<li class="collapsed"><a href="/school-resources">School and teacher resources</a></li>
+<li class="last collapsed"><a href="/programmes">Arts, Education and Society</a></li>
+</ul>                          <ul class="bc-navbar-support">
+                                                  <li>
+                <nav>
+                  <ul class="nav navbar-nav"><li class="first leaf"><a href="https://www.britishcouncil.org/voices-magazine" title="">Voices Magazine</a></li>
+<li class="last leaf"><a href="/contact" title="">Contact us</a></li>
+</ul>                </nav>
+              </li>
+                                      <li>
+                <a data-target=".bc-navbar-search" class="bc-btn-search bc-search-toggle">
+                  <svg class="bc-svg bc-svg-search" aria-hidden="true">
+  <use xlink:href="#icon-search"></use>
+</svg>
+                  Show search                </a>
+                <div class="bc-navbar-search">
+                  
+
+<form action="/search" method="get" id="views-exposed-form-elastic-search-search-blk" accept-charset="UTF-8"><div>
+<div class="input-group">
+            <label class="sr-only" for="edit-search-api-views-fulltext">
+        Search      </label>
+        <div class="form-item-search-api-views-fulltext form-group">
+ <input placeholder="Search" class="form-control form-text" type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="30" maxlength="128" />
+</div>
+    <span class="input-group-btn">
+    <button type="submit" id="edit-submit-elastic-search" name="" value="Search" class="btn btn-primary form-submit form-submit">Search</button>
+  </span>
+</div>
+</div></form>                  <a href="#navbar-search-form" class="bc-btn-close bc-search-toggle" data-target=".bc-navbar-search">
+                    <svg class="bc-svg bc-svg-cross" aria-hidden="true">
+  <use xlink:href="#icon-cross"></use>
+</svg>
+                    Close search                  </a>
+                </div>
+              </li>
+                                  </ul>
+              </nav>
+        
+      </div>
+</header>
+
+<div class="container top-container">
+
+  
+          
+  
+  
+  
+</div>
+
+
+  
+
+
+  <section class="bc-stripe hero">
+    <!-- Lead media -->
+    
+<!--Field name: field_generic_media-->
+  <figure class="bc-item">
+  
+<!--Field name: field_image-->
+  <img class="img-responsive bc-landscape lazyload blur-up" width="950" height="534" alt="Kenyan school child" src="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-100x56/public/kenya1920x1080-with-credt-thin.jpg?itok=JrmGDkFh" data-sizes="auto" data-srcset="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-270x152/public/kenya1920x1080-with-credt-thin.jpg?itok=wci2SMhI 270w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-300x169/public/kenya1920x1080-with-credt-thin.jpg?itok=u6A345QA 300w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-630x354/public/kenya1920x1080-with-credt-thin.jpg?itok=-OfXHyBG 630w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-800x450/public/kenya1920x1080-with-credt-thin.jpg?itok=IXQ9dA1H 800w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-950x534/public/kenya1920x1080-with-credt-thin.jpg?itok=OkuYInsj 950w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1280x720/public/kenya1920x1080-with-credt-thin.jpg?itok=vnbCFAWs 1280w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1440x810/public/kenya1920x1080-with-credt-thin.jpg?itok=EZHvNyth 1440w" />
+</figure>    <section class="container">
+      <main class="bc-main-hero row" role="main">
+        <!-- Brand introduction -->
+        <section class="bc-main-introduction">
+          <article class="col-xs-12 col-md-10 col-lg-8">
+            <h1>
+<!--Field name: title_field-->
+  Welcome to the British Council</h1>
+            
+<!--Field name: body-->
+  <div class="bc-body-text">The United Kingdom&#039;s international organisation for cultural relations and educational opportunities</div>
+          </article>
+        </section>
+      </main>
+    </section>
+  </section>
+  <!-- Country selector header -->
+  <section id="bc-country-selector-header" tabindex="0" role="button" aria-label="country selector header" aria-expanded="false">
+    <section class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <span class="bc-svg-circle"><svg class="bc-svg bc-svg-globe" aria-hidden="true">
+  <use xlink:href="#icon-globe"></use>
+</svg>
+</span>          <h2>British Council in your country</h2>
+          <svg class="bc-svg bc-svg-plus" aria-hidden="true">
+  <use xlink:href="#icon-plus"></use>
+</svg>
+          <svg class="bc-svg bc-svg-minus" aria-hidden="true">
+  <use xlink:href="#icon-minus"></use>
+</svg>
+        </div>
+      </div>
+    </section>
+  </section>
+  <!-- Country selector details -->
+  <section id="bc-country-selector-details" role="region" aria-hidden="true" aria-label="country selector details">
+    <div class="container">
+      <div class="bc-cs-wrapper">
+        <!-- KNOWN COUNTRY -->
+        <div id="bc-cs-known-country" class="hidden">
+          <div class="col-xs-12 col-md-6 first">
+            <div class="bc-cs-wrap">
+              <div id="bc-cs-title" class="bc-cs-title"><!-- JS INJECT --></div>
+              <p>Visit our:</p>
+              <nav id="bc-cs-nav"><!-- JS INJECT --></nav>
+            </div>
+          </div>
+          <div class="col-xs-12 col-md-6 last">
+            <div class="bc-cs-wrap">
+              <label class="bc-cs-title" for="edit-jump">British Council <strong>Worldwide</strong></label>
+              
+<div class="view-country-sites view view-country-sites view-id-country_sites view-display-id-country_home view-dom-id-3054b42288c7a2775dd412ed8790cae7">
+        
+  
+  
+      
+    <form class="bg-theme full-width-xs" action="/" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item-jump form-group">
+ <select class="ctools-jump-menu-select ctools-jump-menu-change form-control form-control form-select" id="edit-jump" name="jump"><option value="" selected="selected">Choose another country</option><option value="e13faefc2451ad2c60286a19a385dcbf::http://www.britishcouncil.org/afghanistan">
+      Afghanistan</option><option value="59f9d1f99432c061b40ca3ddb1474206::http://www.britishcouncil.org/albania">
+      Albania</option><option value="5fa6569ab65994e42ce2bca631ccd69f::http://www.britishcouncil.dz/en">
+      Algeria</option><option value="32abe10a11751d3d9be81480dd291043::http://www.britishcouncil.org.ar">
+      Argentina</option><option value="917987f0acfac5a46db3a96a0ac605a6::http://www.britishcouncil.am">
+      Armenia</option><option value="e458121b16804b6551839c86c591f698::http://www.britishcouncil.org.au">
+      Australia</option><option value="fac441982044f306f28e5b0694206e3d::http://www.britishcouncil.at">
+      Austria</option><option value="a50bbf2c8eb2cb94d90b4eabbf76a1f5::http://www.britishcouncil.az">
+      Azerbaijan</option><option value="71e8ccc13c1b3ef34635e69f22b12d1c::http://www.britishcouncil.bh/en">
+      Bahrain</option><option value="f01243afb3c1abf9478e2a96e2adab61::http://www.britishcouncil.org.bd">
+      Bangladesh</option><option value="8a47713e9db93696162e2dee61ef57c9::http://www.britishcouncil.be/">
+      Belgium</option><option value="7f21936f476ff11704109a9b80e5ec92::http://www.britishcouncil.ba">
+      Bosnia and Herzegovina</option><option value="737f0d263172f0accc302361ffd3feb5::http://www.britishcouncil.co.bw">
+      Botswana</option><option value="8dc7040a35c4d1523caa111c89367de3::http://www.britishcouncil.org.br">
+      Brazil</option><option value="ac739d0c1f99f813f836d53e9a7e8347::http://www.britishcouncil.bg">
+      Bulgaria</option><option value="90501c3cdc1d7d2c3d54fded820f0ccf::http://www.britishcouncil.org.mm">
+      Burma</option><option value="f60fb0db68e6d3a484fcb0915ccaa45d::http://www.britishcouncil.cm">
+      Cameroon</option><option value="9ff69724fda2cdf5f3425ee6e2ccace5::http://www.britishcouncil.ca/">
+      Canada</option><option value="c9ef12dd06f9b340e496facda6a0fbaf::http://caribbean.britishcouncil.org">
+      Caribbean</option><option value="bff43c261f047383340e2a0c349965e7::http://www.britishcouncil.cl">
+      Chile</option><option value="efc655abe0065361e75dd76854f80812::https://www.britishcouncil.cn/en">
+      China</option><option value="14d940eb9d3c32ce0a13510bc64acca6::http://www.britishcouncil.co">
+      Colombia</option><option value="618af71fe9a9b385a9326a200c1a42a9::http://www.britishcouncil.hr">
+      Croatia</option><option value="4db778d718d3ea9e59a3771fbe0caea3::http://www.britishcouncil.com.cy">
+      Cyprus</option><option value="915277b75809dbd03ee2e87dc81726ed::http://www.britishcouncil.cz">
+      Czech Republic</option><option value="2d2a9cd0ad6f592455278c58babea3f5::http://www.britishcouncil.dk">
+      Denmark</option><option value="e07e3539e85130641964425f2b2ae163::http://www.britishcouncil.org.eg">
+      Egypt</option><option value="fe7f4e1f2deda7896620c796af030a8a::http://www.britishcouncil.org/organisation">
+      England</option><option value="878e8b100e896340ae8de79938ef4ffb::http://www.britishcouncil.ee">
+      Estonia</option><option value="d7fbf7523f6127d63bd08b7842d0fa89::http://ethiopia.britishcouncil.org">
+      Ethiopia</option><option value="2a7a8113fe020918625b83e05ed58984::http://www.britishcouncil.fi/">
+      Finland</option><option value="18e8a0ca61a2b807b92e725a7bbf93cf::http://www.britishcouncil.fr">
+      France</option><option value="4e74c935cfc87505ca0e3bfd82494f4f::http://www.britishcouncil.ge">
+      Georgia</option><option value="03443ab05828fe6dd7a2144c2d9f0e60::http://www.britishcouncil.de/en">
+      Germany</option><option value="1c828a27c979c61ea0d7e5fbb6d4de41::http://www.britishcouncil.org.gh">
+      Ghana</option><option value="145afdfef37f78d3a3ec8a0e05f7f9dd::http://www.britishcouncil.gr/">
+      Greece</option><option value="688c5f50375fef9cae93f1e9069ae837::http://www.britishcouncil.hk">
+      Hong Kong</option><option value="495a022c412c44abf87fe3a0c6b43849::http://www.britishcouncil.hu">
+      Hungary</option><option value="921a06f37d3c77801923d888613e793b::http://www.britishcouncil.in">
+      India</option><option value="d037f2ab1262b7b7887f2b2d64eb4ffa::https://www.britishcouncil.id/">
+      Indonesia</option><option value="62142d808830f63361e7e88711194c90::https://iran.britishcouncil.org/en">
+      Iran</option><option value="046c8d6f04859b265bc75fbdb7e16cfe::http://iraq.britishcouncil.org">
+      Iraq</option><option value="7c50916ba2ebbd1791218b57eaecd7c6::http://www.britishcouncil.ie">
+      Ireland</option><option value="4b800ec7218802eac56794a4889e8909::http://www.britishcouncil.org.il">
+      Israel</option><option value="de38dbba8db2405acb6225c26d7c4cb5::http://www.britishcouncil.it">
+      Italy</option><option value="b8ac86792a3a4a32c64dc7bb594dcccf::http://www.britishcouncil.jp">
+      Japan</option><option value="e03b65e5d1da70f00d246eb9222b7005::https://www.britishcouncil.jo">
+      Jordan</option><option value="4d0f1182c96eb3798830d2c3c9d7ae0a::http://www.britishcouncil.kz">
+      Kazakhstan</option><option value="9e0b7d9f2bcc3ea2a207933002caa9d5::http://www.britishcouncil.co.ke">
+      Kenya</option><option value="65a925babf08f6ad90410fe1ee58cf3b::http://www.britishcouncil.kr">
+      Korea, Republic of</option><option value="b0b15d456a0ea3c665c3c5287f3da742::http://kosovo.britishcouncil.org">
+      Kosovo</option><option value="89b9ac8d5ba769b3603bec2e2c4a1246::http://www.britishcouncil.com.kw/en">
+      Kuwait</option><option value="f9c9939a1f84691ae90f3315c23ed1d2::http://www.britishcouncil.lv">
+      Latvia</option><option value="ec0fb063f095423e1b136a515c5f2f79::http://www.britishcouncil.org.lb">
+      Lebanon</option><option value="051ffdf91157d7e391278fe31fc7e92b::http://www.britishcouncil.ly/en">
+      Libya</option><option value="bb80a2477fe611a557106e662eb89497::http://www.britishcouncil.lt">
+      Lithuania</option><option value="c2f05b297fadd0d0b912a1c4bd9a63a1::http://www.britishcouncil.mk">
+      Macedonia</option><option value="5b8c82e0c65df0eacfcd1a7d04b6f0c6::http://www.britishcouncil.mw">
+      Malawi</option><option value="1901499f3ad40f50ea1ef39a19bb342b::http://www.britishcouncil.my">
+      Malaysia</option><option value="e4bd3a42bc392857d3b6b162c6c7702b::http://www.britishcouncil.org.mt">
+      Malta</option><option value="2d55296066070d335d2f55ddb0856d43::http://www.britishcouncil.mu">
+      Mauritius</option><option value="897fc72ff04d11ab0510f44ab117b64e::http://www.britishcouncil.org.mx">
+      Mexico</option><option value="fe1afc1bdf4febf8874422fb86de958c::http://www.britishcouncil.me">
+      Montenegro</option><option value="308519c0b34c1d192cbaa3355e3f6cd0::https://www.britishcouncil.ma/en">
+      Morocco</option><option value="22146704c921dad18f985dcfcea1585d::http://www.britishcouncil.org.mz">
+      Mozambique</option><option value="4d10b54635c0f2b8d525e4de21b947d0::http://www.britishcouncil.na">
+      Namibia</option><option value="30a2b1378e3283e84cc6bd20a025329d::http://www.britishcouncil.org.np">
+      Nepal</option><option value="3bfdf1b89e6b4969d66ece169a5e4544::http://www.britishcouncil.nl/">
+      Netherlands</option><option value="a3e2bfb5725ecbf5e18c8a502bb84fc1::http://www.britishcouncil.org.nz">
+      New Zealand</option><option value="476c8ba26a6aa4ec86d4307bc735a7e5::http://www.britishcouncil.org.ng">
+      Nigeria</option><option value="0ab4f70c0433ac77a820d01167cae1fe::http://nireland.britishcouncil.org">
+      Northern Ireland</option><option value="7e146b39a977595aad89de233142b5cd::http://www.britishcouncil.no">
+      Norway</option><option value="a1c78525d9bbead28c1579631af2fc25::http://www.britishcouncil.ps">
+      Occupied Palestinian Territories</option><option value="45fa02bb21d66557b22dba626bfc9ada::http://www.britishcouncil.om/en">
+      Oman</option><option value="fce926900d5dc6d68f783f79348e4b5c::http://www.britishcouncil.pk">
+      Pakistan</option><option value="8131ed44b02ce67d188a56150c629c91::http://www.britishcouncil.pe/">
+      Peru</option><option value="e32f98ef488f7c0a43a2ad9d6e213392::https://www.britishcouncil.ph">
+      Philippines</option><option value="addadd6f1938186d033e733015f5d48b::http://www.britishcouncil.pl">
+      Poland</option><option value="2766e0bff0e3f3c9883b91d61deadbee::http://www.britishcouncil.pt">
+      Portugal</option><option value="31e1e7e3311ee3d10c12d6c3e154b304::http://www.britishcouncil.qa">
+      Qatar</option><option value="0a8c8d7b2fc9e3479c68afae3d67d707::http://www.britishcouncil.ro">
+      Romania</option><option value="c806d7d3692656a6a0456806114901f6::http://www.britishcouncil.ru">
+      Russia</option><option value="1db21fd2ae674a0b2455b11068a5ceb5::http://www.britishcouncil.rw">
+      Rwanda</option><option value="e32629b89de9680f65202f7e055ea473::http://www.britishcouncil.sa">
+      Saudi Arabia</option><option value="291b3eb5c8d8758410b947766c951eeb::https://scotland.britishcouncil.org">
+      Scotland</option><option value="546cad5d60594a8d3fba40d5172cbb66::http://www.britishcouncil.com.sn/en">
+      Senegal</option><option value="801d5a09e4d5b4d849f69e85cde7eb10::http://www.britishcouncil.rs/">
+      Serbia</option><option value="ee6aea9429f6e7647b6b2d51725651af::http://www.britishcouncil.sl">
+      Sierra Leone</option><option value="044f7b3b15c8b3d91dc6f63e40636ef4::http://www.britishcouncil.sg">
+      Singapore</option><option value="751b5c21f601357868c1a7e1a19b5e15::http://www.britishcouncil.sk">
+      Slovakia</option><option value="226ad180381927b07eedee00e401f562::http://www.britishcouncil.org/slovenia">
+      Slovenia</option><option value="7f057a8be5a2ca1a356127ddbafe4364::http://www.britishcouncil.org.za">
+      South Africa</option><option value="45f5b72e07605f401c54021b455442b4::http://southsudan.britishcouncil.org/">
+      South Sudan</option><option value="1147d5339c3e2a66b30d86b8b704f5c9::http://www.britishcouncil.org/spain">
+      Spain</option><option value="c0fb430f628ccfea6f814f6b7acd3a6a::http://www.britishcouncil.lk">
+      Sri Lanka</option><option value="d896d77310bf3d1e9c1b455850ed349c::http://sudan.britishcouncil.org">
+      Sudan</option><option value="630e1e7b44778d2364ee956aca89b83e::http://www.britishcouncil.se">
+      Sweden</option><option value="d66577743420bc80558ff36f55878569::http://www.britishcouncil.ch">
+      Switzerland</option><option value="1947007874da0cc2935e98021d3ed9cd::http://www.britishcouncil.org/syria">
+      Syria</option><option value="a3309193ccc14d582ed2449c9dbe6c90::http://www.britishcouncil.org.tw">
+      Taiwan</option><option value="9f0fd63ca2d255e0158fbf0ebb4b8aff::http://www.britishcouncil.or.tz">
+      Tanzania</option><option value="a12379e589547cfdb0a35b4811c84ec4::http://www.britishcouncil.or.th">
+      Thailand</option><option value="82f934e4689ea89b11e5424a428f5c1d::http://www.britishcouncil.tn">
+      Tunisia</option><option value="585a636a1312ee6078650a61f45867ea::http://www.britishcouncil.org.tr">
+      Turkey</option><option value="6b145bea0b5c7f395681e1a5c053c742::http://www.britishcouncil.ug/">
+      Uganda</option><option value="141d71e7d2daf6e963c60ca5db59cbbd::http://www.britishcouncil.org.ua">
+      Ukraine</option><option value="41dbe1cad59265a62e640c8480a31c53::http://www.britishcouncil.ae">
+      United Arab Emirates</option><option value="5bf27012992a0428e65b562d62e269c3::http://www.britishcouncil.us/">
+      United States of America</option><option value="55d6bdeef981da4507a3a86b34a0562d::https://www.britishcouncil.uy">
+      Uruguay</option><option value="8055ed37b58773046481fa3635f4cca0::http://www.britishcouncil.org/uzbekistan">
+      Uzbekistan</option><option value="4a7c90b8c8665be8632584b91b0e5a0f::http://www.britishcouncil.org.ve">
+      Venezuela</option><option value="447f082fc51fe8e1e9cb531d06fa5ed2::http://www.britishcouncil.vn">
+      Vietnam</option><option value="04b75eb01456c45b14bed818335baeb0::http://wales.britishcouncil.org/en">
+      Wales</option><option value="d5b2bbae20bc925a82aed59b33a1ebf5::http://yemen.britishcouncil.org/en">
+      Yemen</option><option value="6a878db11a8527d1ef95856cc26eb8a3::http://www.britishcouncil.org.zm">
+      Zambia</option><option value="b6928b17414819bbfa1c26dfa2945012::http://www.britishcouncil.co.zw">
+      Zimbabwe</option></select>
+</div>
+<button class="ctools-jump-menu-button ctools-jump-menu-hide btn btn-default form-submit form-submit" type="submit" id="edit-go" name="op" value="Go">Go</button>
+</div><input type="hidden" name="form_build_id" value="form-C76lmhr3XxFy746J7meVxOtrA58d3CzEC0doEqanwAU" />
+<input type="hidden" name="form_id" value="ctools_jump_menu" />
+</div></form>
+    
+  
+  
+  
+  
+  
+  </div>
+            </div>
+          </div>
+        </div>
+        <!-- UNKNOWN COUNTRY SHOW BY DEFAULT -->
+        <div id="bc-cs-unknown-country">
+          <div class="col-xs-12 bc-cs-full-width">
+            <div class="bc-cs-wrap">
+              <label class="bc-cs-title" for="edit-jump">British Council <strong>Worldwide</strong></label>
+              
+<div class="view-country-sites view view-country-sites view-id-country_sites view-display-id-country_home view-dom-id-3054b42288c7a2775dd412ed8790cae7">
+        
+  
+  
+      
+    <form class="bg-theme full-width-xs" action="/" method="post" id="ctools-jump-menu" accept-charset="UTF-8"><div><div class="container-inline"><div class="form-item-jump form-group">
+ <select class="ctools-jump-menu-select ctools-jump-menu-change form-control form-control form-select" id="edit-jump" name="jump"><option value="" selected="selected">Choose another country</option><option value="e13faefc2451ad2c60286a19a385dcbf::http://www.britishcouncil.org/afghanistan">
+      Afghanistan</option><option value="59f9d1f99432c061b40ca3ddb1474206::http://www.britishcouncil.org/albania">
+      Albania</option><option value="5fa6569ab65994e42ce2bca631ccd69f::http://www.britishcouncil.dz/en">
+      Algeria</option><option value="32abe10a11751d3d9be81480dd291043::http://www.britishcouncil.org.ar">
+      Argentina</option><option value="917987f0acfac5a46db3a96a0ac605a6::http://www.britishcouncil.am">
+      Armenia</option><option value="e458121b16804b6551839c86c591f698::http://www.britishcouncil.org.au">
+      Australia</option><option value="fac441982044f306f28e5b0694206e3d::http://www.britishcouncil.at">
+      Austria</option><option value="a50bbf2c8eb2cb94d90b4eabbf76a1f5::http://www.britishcouncil.az">
+      Azerbaijan</option><option value="71e8ccc13c1b3ef34635e69f22b12d1c::http://www.britishcouncil.bh/en">
+      Bahrain</option><option value="f01243afb3c1abf9478e2a96e2adab61::http://www.britishcouncil.org.bd">
+      Bangladesh</option><option value="8a47713e9db93696162e2dee61ef57c9::http://www.britishcouncil.be/">
+      Belgium</option><option value="7f21936f476ff11704109a9b80e5ec92::http://www.britishcouncil.ba">
+      Bosnia and Herzegovina</option><option value="737f0d263172f0accc302361ffd3feb5::http://www.britishcouncil.co.bw">
+      Botswana</option><option value="8dc7040a35c4d1523caa111c89367de3::http://www.britishcouncil.org.br">
+      Brazil</option><option value="ac739d0c1f99f813f836d53e9a7e8347::http://www.britishcouncil.bg">
+      Bulgaria</option><option value="90501c3cdc1d7d2c3d54fded820f0ccf::http://www.britishcouncil.org.mm">
+      Burma</option><option value="f60fb0db68e6d3a484fcb0915ccaa45d::http://www.britishcouncil.cm">
+      Cameroon</option><option value="9ff69724fda2cdf5f3425ee6e2ccace5::http://www.britishcouncil.ca/">
+      Canada</option><option value="c9ef12dd06f9b340e496facda6a0fbaf::http://caribbean.britishcouncil.org">
+      Caribbean</option><option value="bff43c261f047383340e2a0c349965e7::http://www.britishcouncil.cl">
+      Chile</option><option value="efc655abe0065361e75dd76854f80812::https://www.britishcouncil.cn/en">
+      China</option><option value="14d940eb9d3c32ce0a13510bc64acca6::http://www.britishcouncil.co">
+      Colombia</option><option value="618af71fe9a9b385a9326a200c1a42a9::http://www.britishcouncil.hr">
+      Croatia</option><option value="4db778d718d3ea9e59a3771fbe0caea3::http://www.britishcouncil.com.cy">
+      Cyprus</option><option value="915277b75809dbd03ee2e87dc81726ed::http://www.britishcouncil.cz">
+      Czech Republic</option><option value="2d2a9cd0ad6f592455278c58babea3f5::http://www.britishcouncil.dk">
+      Denmark</option><option value="e07e3539e85130641964425f2b2ae163::http://www.britishcouncil.org.eg">
+      Egypt</option><option value="fe7f4e1f2deda7896620c796af030a8a::http://www.britishcouncil.org/organisation">
+      England</option><option value="878e8b100e896340ae8de79938ef4ffb::http://www.britishcouncil.ee">
+      Estonia</option><option value="d7fbf7523f6127d63bd08b7842d0fa89::http://ethiopia.britishcouncil.org">
+      Ethiopia</option><option value="2a7a8113fe020918625b83e05ed58984::http://www.britishcouncil.fi/">
+      Finland</option><option value="18e8a0ca61a2b807b92e725a7bbf93cf::http://www.britishcouncil.fr">
+      France</option><option value="4e74c935cfc87505ca0e3bfd82494f4f::http://www.britishcouncil.ge">
+      Georgia</option><option value="03443ab05828fe6dd7a2144c2d9f0e60::http://www.britishcouncil.de/en">
+      Germany</option><option value="1c828a27c979c61ea0d7e5fbb6d4de41::http://www.britishcouncil.org.gh">
+      Ghana</option><option value="145afdfef37f78d3a3ec8a0e05f7f9dd::http://www.britishcouncil.gr/">
+      Greece</option><option value="688c5f50375fef9cae93f1e9069ae837::http://www.britishcouncil.hk">
+      Hong Kong</option><option value="495a022c412c44abf87fe3a0c6b43849::http://www.britishcouncil.hu">
+      Hungary</option><option value="921a06f37d3c77801923d888613e793b::http://www.britishcouncil.in">
+      India</option><option value="d037f2ab1262b7b7887f2b2d64eb4ffa::https://www.britishcouncil.id/">
+      Indonesia</option><option value="62142d808830f63361e7e88711194c90::https://iran.britishcouncil.org/en">
+      Iran</option><option value="046c8d6f04859b265bc75fbdb7e16cfe::http://iraq.britishcouncil.org">
+      Iraq</option><option value="7c50916ba2ebbd1791218b57eaecd7c6::http://www.britishcouncil.ie">
+      Ireland</option><option value="4b800ec7218802eac56794a4889e8909::http://www.britishcouncil.org.il">
+      Israel</option><option value="de38dbba8db2405acb6225c26d7c4cb5::http://www.britishcouncil.it">
+      Italy</option><option value="b8ac86792a3a4a32c64dc7bb594dcccf::http://www.britishcouncil.jp">
+      Japan</option><option value="e03b65e5d1da70f00d246eb9222b7005::https://www.britishcouncil.jo">
+      Jordan</option><option value="4d0f1182c96eb3798830d2c3c9d7ae0a::http://www.britishcouncil.kz">
+      Kazakhstan</option><option value="9e0b7d9f2bcc3ea2a207933002caa9d5::http://www.britishcouncil.co.ke">
+      Kenya</option><option value="65a925babf08f6ad90410fe1ee58cf3b::http://www.britishcouncil.kr">
+      Korea, Republic of</option><option value="b0b15d456a0ea3c665c3c5287f3da742::http://kosovo.britishcouncil.org">
+      Kosovo</option><option value="89b9ac8d5ba769b3603bec2e2c4a1246::http://www.britishcouncil.com.kw/en">
+      Kuwait</option><option value="f9c9939a1f84691ae90f3315c23ed1d2::http://www.britishcouncil.lv">
+      Latvia</option><option value="ec0fb063f095423e1b136a515c5f2f79::http://www.britishcouncil.org.lb">
+      Lebanon</option><option value="051ffdf91157d7e391278fe31fc7e92b::http://www.britishcouncil.ly/en">
+      Libya</option><option value="bb80a2477fe611a557106e662eb89497::http://www.britishcouncil.lt">
+      Lithuania</option><option value="c2f05b297fadd0d0b912a1c4bd9a63a1::http://www.britishcouncil.mk">
+      Macedonia</option><option value="5b8c82e0c65df0eacfcd1a7d04b6f0c6::http://www.britishcouncil.mw">
+      Malawi</option><option value="1901499f3ad40f50ea1ef39a19bb342b::http://www.britishcouncil.my">
+      Malaysia</option><option value="e4bd3a42bc392857d3b6b162c6c7702b::http://www.britishcouncil.org.mt">
+      Malta</option><option value="2d55296066070d335d2f55ddb0856d43::http://www.britishcouncil.mu">
+      Mauritius</option><option value="897fc72ff04d11ab0510f44ab117b64e::http://www.britishcouncil.org.mx">
+      Mexico</option><option value="fe1afc1bdf4febf8874422fb86de958c::http://www.britishcouncil.me">
+      Montenegro</option><option value="308519c0b34c1d192cbaa3355e3f6cd0::https://www.britishcouncil.ma/en">
+      Morocco</option><option value="22146704c921dad18f985dcfcea1585d::http://www.britishcouncil.org.mz">
+      Mozambique</option><option value="4d10b54635c0f2b8d525e4de21b947d0::http://www.britishcouncil.na">
+      Namibia</option><option value="30a2b1378e3283e84cc6bd20a025329d::http://www.britishcouncil.org.np">
+      Nepal</option><option value="3bfdf1b89e6b4969d66ece169a5e4544::http://www.britishcouncil.nl/">
+      Netherlands</option><option value="a3e2bfb5725ecbf5e18c8a502bb84fc1::http://www.britishcouncil.org.nz">
+      New Zealand</option><option value="476c8ba26a6aa4ec86d4307bc735a7e5::http://www.britishcouncil.org.ng">
+      Nigeria</option><option value="0ab4f70c0433ac77a820d01167cae1fe::http://nireland.britishcouncil.org">
+      Northern Ireland</option><option value="7e146b39a977595aad89de233142b5cd::http://www.britishcouncil.no">
+      Norway</option><option value="a1c78525d9bbead28c1579631af2fc25::http://www.britishcouncil.ps">
+      Occupied Palestinian Territories</option><option value="45fa02bb21d66557b22dba626bfc9ada::http://www.britishcouncil.om/en">
+      Oman</option><option value="fce926900d5dc6d68f783f79348e4b5c::http://www.britishcouncil.pk">
+      Pakistan</option><option value="8131ed44b02ce67d188a56150c629c91::http://www.britishcouncil.pe/">
+      Peru</option><option value="e32f98ef488f7c0a43a2ad9d6e213392::https://www.britishcouncil.ph">
+      Philippines</option><option value="addadd6f1938186d033e733015f5d48b::http://www.britishcouncil.pl">
+      Poland</option><option value="2766e0bff0e3f3c9883b91d61deadbee::http://www.britishcouncil.pt">
+      Portugal</option><option value="31e1e7e3311ee3d10c12d6c3e154b304::http://www.britishcouncil.qa">
+      Qatar</option><option value="0a8c8d7b2fc9e3479c68afae3d67d707::http://www.britishcouncil.ro">
+      Romania</option><option value="c806d7d3692656a6a0456806114901f6::http://www.britishcouncil.ru">
+      Russia</option><option value="1db21fd2ae674a0b2455b11068a5ceb5::http://www.britishcouncil.rw">
+      Rwanda</option><option value="e32629b89de9680f65202f7e055ea473::http://www.britishcouncil.sa">
+      Saudi Arabia</option><option value="291b3eb5c8d8758410b947766c951eeb::https://scotland.britishcouncil.org">
+      Scotland</option><option value="546cad5d60594a8d3fba40d5172cbb66::http://www.britishcouncil.com.sn/en">
+      Senegal</option><option value="801d5a09e4d5b4d849f69e85cde7eb10::http://www.britishcouncil.rs/">
+      Serbia</option><option value="ee6aea9429f6e7647b6b2d51725651af::http://www.britishcouncil.sl">
+      Sierra Leone</option><option value="044f7b3b15c8b3d91dc6f63e40636ef4::http://www.britishcouncil.sg">
+      Singapore</option><option value="751b5c21f601357868c1a7e1a19b5e15::http://www.britishcouncil.sk">
+      Slovakia</option><option value="226ad180381927b07eedee00e401f562::http://www.britishcouncil.org/slovenia">
+      Slovenia</option><option value="7f057a8be5a2ca1a356127ddbafe4364::http://www.britishcouncil.org.za">
+      South Africa</option><option value="45f5b72e07605f401c54021b455442b4::http://southsudan.britishcouncil.org/">
+      South Sudan</option><option value="1147d5339c3e2a66b30d86b8b704f5c9::http://www.britishcouncil.org/spain">
+      Spain</option><option value="c0fb430f628ccfea6f814f6b7acd3a6a::http://www.britishcouncil.lk">
+      Sri Lanka</option><option value="d896d77310bf3d1e9c1b455850ed349c::http://sudan.britishcouncil.org">
+      Sudan</option><option value="630e1e7b44778d2364ee956aca89b83e::http://www.britishcouncil.se">
+      Sweden</option><option value="d66577743420bc80558ff36f55878569::http://www.britishcouncil.ch">
+      Switzerland</option><option value="1947007874da0cc2935e98021d3ed9cd::http://www.britishcouncil.org/syria">
+      Syria</option><option value="a3309193ccc14d582ed2449c9dbe6c90::http://www.britishcouncil.org.tw">
+      Taiwan</option><option value="9f0fd63ca2d255e0158fbf0ebb4b8aff::http://www.britishcouncil.or.tz">
+      Tanzania</option><option value="a12379e589547cfdb0a35b4811c84ec4::http://www.britishcouncil.or.th">
+      Thailand</option><option value="82f934e4689ea89b11e5424a428f5c1d::http://www.britishcouncil.tn">
+      Tunisia</option><option value="585a636a1312ee6078650a61f45867ea::http://www.britishcouncil.org.tr">
+      Turkey</option><option value="6b145bea0b5c7f395681e1a5c053c742::http://www.britishcouncil.ug/">
+      Uganda</option><option value="141d71e7d2daf6e963c60ca5db59cbbd::http://www.britishcouncil.org.ua">
+      Ukraine</option><option value="41dbe1cad59265a62e640c8480a31c53::http://www.britishcouncil.ae">
+      United Arab Emirates</option><option value="5bf27012992a0428e65b562d62e269c3::http://www.britishcouncil.us/">
+      United States of America</option><option value="55d6bdeef981da4507a3a86b34a0562d::https://www.britishcouncil.uy">
+      Uruguay</option><option value="8055ed37b58773046481fa3635f4cca0::http://www.britishcouncil.org/uzbekistan">
+      Uzbekistan</option><option value="4a7c90b8c8665be8632584b91b0e5a0f::http://www.britishcouncil.org.ve">
+      Venezuela</option><option value="447f082fc51fe8e1e9cb531d06fa5ed2::http://www.britishcouncil.vn">
+      Vietnam</option><option value="04b75eb01456c45b14bed818335baeb0::http://wales.britishcouncil.org/en">
+      Wales</option><option value="d5b2bbae20bc925a82aed59b33a1ebf5::http://yemen.britishcouncil.org/en">
+      Yemen</option><option value="6a878db11a8527d1ef95856cc26eb8a3::http://www.britishcouncil.org.zm">
+      Zambia</option><option value="b6928b17414819bbfa1c26dfa2945012::http://www.britishcouncil.co.zw">
+      Zimbabwe</option></select>
+</div>
+<button class="ctools-jump-menu-button ctools-jump-menu-hide btn btn-default form-submit form-submit" type="submit" id="edit-go" name="op" value="Go">Go</button>
+</div><input type="hidden" name="form_build_id" value="form-C76lmhr3XxFy746J7meVxOtrA58d3CzEC0doEqanwAU" />
+<input type="hidden" name="form_id" value="ctools_jump_menu" />
+</div></form>
+    
+  
+  
+  
+  
+  
+  </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section class="container bc-featured">
+  <!-- Featured stories, image promos -->
+  <article class="row">
+    <!-- Lead story, large full width image promo -->
+          <div class="col-xs-12">
+        <article class="bc-promo-panel-image overlay">
+          
+<!--Field name: field_home_promo_one-->
+  
+  <aside class="bc-link-panel-image">
+        <a href="https://www.futurelearn.com/courses/global-workplace">
+      
+<!--Field name: field_promotion_image-->
+  
+  
+<!--Field name: field_image-->
+  <img class="img-responsive bc-landscape lazyload blur-up" width="300" height="169" alt="" src="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-100x56/public/glbl-wrkplc-mooc-sm-facebook-shared-blank-1920x1080.jpg?itok=v7NQOl8p" data-sizes="auto" data-srcset="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-270x152/public/glbl-wrkplc-mooc-sm-facebook-shared-blank-1920x1080.jpg?itok=WFu582ZR 270w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-300x169/public/glbl-wrkplc-mooc-sm-facebook-shared-blank-1920x1080.jpg?itok=86_wcUfL 300w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-630x354/public/glbl-wrkplc-mooc-sm-facebook-shared-blank-1920x1080.jpg?itok=f5jchOrn 630w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-800x450/public/glbl-wrkplc-mooc-sm-facebook-shared-blank-1920x1080.jpg?itok=h2QI9XVo 800w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-950x534/public/glbl-wrkplc-mooc-sm-facebook-shared-blank-1920x1080.jpg?itok=FeRP4b2O 950w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1280x720/public/glbl-wrkplc-mooc-sm-facebook-shared-blank-1920x1080.jpg?itok=V3z5IXOK 1280w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1440x810/public/glbl-wrkplc-mooc-sm-facebook-shared-blank-1920x1080.jpg?itok=14lY4tem 1440w" />
+      <h2 class="bc-link-panel-image-title">
+        
+<!--Field name: title_field-->
+  Join the online course: How to Succeed in the Global Workplace              </h2>
+          </a>
+  </aside>
+        </article>
+      </div>
+      </article>
+  <article class="row">
+    <!-- Supporting story 1/2/3, smaller three image promos, first 75% width -->
+    <div class="col-xs-12 col-md-8">
+              <article class="bc-promo-panel-image lg-promo">
+          
+<!--Field name: field_home_promo_two-->
+  
+  <aside class="bc-link-panel-image">
+        <a href="https://www.britishcouncil.org/study-work-abroad/english-language-assistants">
+      
+<!--Field name: field_promotion_image-->
+  
+  
+<!--Field name: field_image-->
+  <img class="img-responsive bc-landscape lazyload blur-up" width="300" height="169" alt="Language assistant pointing at a waterfall; photo courtesy of Alastair Hunt" src="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-100x56/public/alastair-hunt-argentina630x354.jpg?itok=fMbHiWQd" data-sizes="auto" data-srcset="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-270x152/public/alastair-hunt-argentina630x354.jpg?itok=H4QtqWFr 270w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-300x169/public/alastair-hunt-argentina630x354.jpg?itok=AyjvjIPS 300w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-630x354/public/alastair-hunt-argentina630x354.jpg?itok=T_jdMZ7x 630w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-800x450/public/alastair-hunt-argentina630x354.jpg?itok=gwHP5iPO 800w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-950x534/public/alastair-hunt-argentina630x354.jpg?itok=VirCi3yV 950w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1280x720/public/alastair-hunt-argentina630x354.jpg?itok=j6a6wwrQ 1280w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1440x810/public/alastair-hunt-argentina630x354.jpg?itok=uJmupx-9 1440w" />
+      <h2 class="bc-link-panel-image-title">
+        
+<!--Field name: title_field-->
+  UK students and graduates, teach abroad as an English language assistant              </h2>
+          </a>
+  </aside>
+        </article>
+          </div>
+    <div class="col-xs-12 col-md-4">
+      <div class="row">
+                  <div class="col-xs-12 col-sm-6 col-md-12">
+            <article class="bc-promo-panel-image sm-promo">
+              
+<!--Field name: field_home_promo_three-->
+  
+  <aside class="bc-link-panel-image">
+        <a href="https://www.britishcouncil.org/iaeste/uni-students/outgoing-uk-trainees">
+      
+<!--Field name: field_promotion_image-->
+  
+  
+<!--Field name: field_image-->
+  <img class="img-responsive bc-landscape lazyload blur-up" width="300" height="169" alt="" src="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-100x56/public/student_writing_on_board-1920x1080.jpg?itok=qBsor2mQ" data-sizes="auto" data-srcset="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-270x152/public/student_writing_on_board-1920x1080.jpg?itok=5HbF7P9c 270w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-300x169/public/student_writing_on_board-1920x1080.jpg?itok=jy_e7mwu 300w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-630x354/public/student_writing_on_board-1920x1080.jpg?itok=-eMbBJn5 630w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-800x450/public/student_writing_on_board-1920x1080.jpg?itok=66TKbohq 800w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-950x534/public/student_writing_on_board-1920x1080.jpg?itok=QVCAMibW 950w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1280x720/public/student_writing_on_board-1920x1080.jpg?itok=64T1Sasn 1280w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1440x810/public/student_writing_on_board-1920x1080.jpg?itok=2n8vM8Le 1440w" />
+      <h2 class="bc-link-panel-image-title">
+        
+<!--Field name: title_field-->
+  UK students, apply for paid international work experience with IAESTE              </h2>
+          </a>
+  </aside>
+            </article>
+          </div>
+                        <div class="col-xs-12 col-sm-6 col-md-12">
+          <article class="bc-promo-panel-image sm-promo">
+            
+<!--Field name: field_home_promo_four-->
+  
+  <aside class="bc-link-panel-image">
+        <a href="https://www.britishcouncil.org/study-work-create/opportunity/work-volunteer/british-embassy-beijing">
+      
+<!--Field name: field_promotion_image-->
+  
+  
+<!--Field name: field_image-->
+  <img class="img-responsive bc-landscape lazyload blur-up" width="300" height="169" alt="Beijing skyline" src="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-100x56/public/beijing-ukvi1920x1080.jpg?itok=CIA2ypsW" data-sizes="auto" data-srcset="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-270x152/public/beijing-ukvi1920x1080.jpg?itok=Bv7oI2Yt 270w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-300x169/public/beijing-ukvi1920x1080.jpg?itok=1nj32_7E 300w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-630x354/public/beijing-ukvi1920x1080.jpg?itok=hMyroqpK 630w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-800x450/public/beijing-ukvi1920x1080.jpg?itok=OndgrmuV 800w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-950x534/public/beijing-ukvi1920x1080.jpg?itok=91OpvUj4 950w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1280x720/public/beijing-ukvi1920x1080.jpg?itok=AqBMc9i5 1280w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1440x810/public/beijing-ukvi1920x1080.jpg?itok=SjbYi4zz 1440w" />
+      <h2 class="bc-link-panel-image-title">
+        
+<!--Field name: title_field-->
+  UK, work at the British Embassy in Beijing              </h2>
+          </a>
+  </aside>
+          </article>
+        </div>
+      </div>
+          </div>
+  </article>
+</section>
+
+<!-- BC For You section, Full width grey BG -->
+  <div class="bc-stripe bc-for-you">
+    <section class="container large">
+      <article class="row">
+        <!-- Core customer tasks, title and summary -->
+        <div class="col-xs-12">
+          <header class="bc-promo-panel-header full-width-md text-center">
+            <h2>
+<!--Field name: field_home_title_two-->
+  British Council for you</h2>
+            <div>
+<!--Field name: field_home_summary_one-->
+  <span class="bc-body-text">Learn English with the British Council and you&#039;ll be learning with the world&#039;s English experts</span>
+</div>
+          </header>
+        </div>
+        <!-- Customer tasks 1/2/3, three text promos with icons -->
+        <div class="col-xs-12 col-md-4">
+          <article class="bc-promo-panel-text first full-width-md border-right">
+            
+<!--Field name: field_home_promo_five-->
+  
+<aside class="bc-link-panel-text">
+    <a    href="https://www.britishcouncil.org/learn-english">
+
+    <span class="bc-svg-circle"><svg class="bc-svg bc-svg-book" aria-hidden="true">
+  <use xlink:href="#icon-book"></use>
+</svg>
+</span>    
+    <h2 class="bc-link-panel-text-title">
+<!--Field name: title_field-->
+  Learn English in your country or online          </h2>
+      </a>
+</aside>
+          </article>
+        </div>
+        <div class="col-xs-12 col-md-4">
+          <article class="bc-promo-panel-text full-width-md border-right">
+            
+<!--Field name: field_home_promo_six-->
+  
+<aside class="bc-link-panel-text">
+    <a    href="http://takeielts.britishcouncil.org">
+
+    <span class="bc-svg-circle"><svg class="bc-svg bc-svg-globe" aria-hidden="true">
+  <use xlink:href="#icon-globe"></use>
+</svg>
+</span>    
+    <h2 class="bc-link-panel-text-title">
+<!--Field name: title_field-->
+  Take IELTS in your country          </h2>
+      </a>
+</aside>
+          </article>
+        </div>
+        <div class="col-xs-12 col-md-4">
+          <article class="bc-promo-panel-text last full-width-md">
+            
+<!--Field name: field_home_promo_seven-->
+  
+<aside class="bc-link-panel-text">
+    <a    href="https://study-uk.britishcouncil.org/">
+
+    <span class="bc-svg-circle"><svg class="bc-svg bc-svg-tick" aria-hidden="true">
+  <use xlink:href="#icon-tick"></use>
+</svg>
+</span>    
+    <h2 class="bc-link-panel-text-title">
+<!--Field name: title_field-->
+  Study toward a UK university qualification          </h2>
+      </a>
+</aside>
+          </article>
+        </div>
+      </article>
+    </section>
+  </div>
+
+<!-- Visual editorial section, overlayed on top of a full width image -->
+  <section class="container">
+    <article class="bc-visual-editorial row">
+      <!-- Main title for the editorial -->
+      <h2 class="main-title">
+<!--Field name: field_home_title_three-->
+  British Council Voices Magazine</h2>
+      <!-- First full width, image editorial -->
+      
+<!--Field name: field_generic_multi_media-->
+  <figure class="bc-item">
+  
+<!--Field name: field_image-->
+  <img class="img-responsive bc-landscape lazyload blur-up" width="950" height="534" alt="Spanish word for hello written in lights on brick wall" src="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-100x56/public/jon-tyson-224556.jpg?itok=66lacYQW" data-sizes="auto" data-srcset="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-270x152/public/jon-tyson-224556.jpg?itok=fARDI7tl 270w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-300x169/public/jon-tyson-224556.jpg?itok=TCEbzReS 300w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-630x354/public/jon-tyson-224556.jpg?itok=m37hgZyw 630w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-800x450/public/jon-tyson-224556.jpg?itok=c8XZ0apt 800w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-950x534/public/jon-tyson-224556.jpg?itok=fUQM6wlz 950w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1280x720/public/jon-tyson-224556.jpg?itok=DSqCLI0S 1280w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1440x810/public/jon-tyson-224556.jpg?itok=68-6J1wh 1440w" />
+</figure>      <section class="bc-main-story">
+        <article class="col-xs-12 col-md-6 col-lg-8">
+          <a href="/voices-magazine/which-foreign-languages-will-be-most-important-uk-post-brexit" class="full-width-lg">
+            <span class="category">
+<!--Field name: field_home_category_one-->
+  Voices              - </span>
+            
+<!--Field name: field_home_date_one-->
+  <span class="date-display-single">November 2017</span>            <h2>
+<!--Field name: field_home_title_four-->
+  Which foreign languages will be most important for the UK post-Brexit?</h2>
+          </a>
+        </article>
+      </section>
+      <section class="bc-supporting-stories">
+        <div class="first col-xs-12 col-lg-4">
+          <article class="bc-supporting-story">
+            <a href="/voices-magazine/learning-varieties-same-language-good-idea" class="full-width-lg">
+              <!-- Supporting story 1/3 -->
+              <span class="category">
+<!--Field name: field_home_category_two-->
+  Voices                - </span>
+              
+<!--Field name: field_home_date_two-->
+  <span class="date-display-single">November 2017</span>              <h2>
+<!--Field name: field_home_title_five-->
+  Why learning two varieties of the same language is a good idea</h2>
+            </a>
+          </article>
+        </div>
+        <div class="col-xs-12 col-lg-4">
+          <article class="bc-supporting-story">
+            <a href="/voices-magazine/spelling-pronunciation-danish" class="full-width-lg">
+              <!-- Supporting story 2/3 -->
+              <span class="category">
+<!--Field name: field_home_category_three-->
+  Voices                - </span>
+              
+<!--Field name: field_home_date_three-->
+  <span class="date-display-single">November 2017</span>              <h2>
+<!--Field name: field_home_title_six-->
+  A few rules for spelling and pronunciation in Danish</h2>
+            </a>
+          </article>
+        </div>
+        <div class="last col-xs-12 col-lg-4">
+          <article class="bc-supporting-story">
+            <a href="/voices-magazine/dark-matter-dark-energy-physics-halloween" class="full-width-lg">
+              <!-- Supporting story 3/3 -->
+              <span class="category">
+<!--Field name: field_home_category_four-->
+  Voices                - </span>
+              
+<!--Field name: field_home_date_four-->
+  <span class="date-display-single">October 2017</span>              <h2>
+<!--Field name: field_home_title_seven-->
+  Are you afraid of the dark (matter)?</h2>
+            </a>
+          </article>
+        </div>
+      </section>
+    </article>
+  </section>
+
+<!-- What's on / Festivals, with title and summary, 2 or 3 image promos below -->
+  <section class="container large bc-festival">
+    <article class="row">
+      <!-- Festival header and summary -->
+      <article class="col-xs-12">
+        <header class="bc-promo-panel-header text-center">
+          <h2>
+<!--Field name: field_home_title_eight-->
+  UK at the Venice Biennale 2017</h2>
+          
+<!--Field name: field_home_summary_six-->
+  <span class="bc-body-text">The Venice Biennale is renowned for setting new global trends and launching the international careers of many pioneering artists and architects.</span>
+        </header>
+      </article>
+    </article>
+    <!-- Supporting story 1/2/3 -->
+    <!-- Add class overlay to have the black overlay version -->
+    <article class="bc-promo-panel-image">
+        <div class="row">
+          <div class="col-xs-12 col-md-4">
+        
+  <aside class="bc-link-panel-image">
+        <a href="https://venicebiennale.britishcouncil.org/2017-exhibition/phyllida-barlow">
+      
+<!--Field name: field_promotion_image-->
+  
+  
+<!--Field name: field_image-->
+  <img class="img-responsive bc-landscape lazyload blur-up" width="300" height="169" alt="Phyllida Barlow exhibition artwork" src="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-100x56/public/phyllida630x354.jpg?itok=-Wi3VcMT" data-sizes="auto" data-srcset="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-270x152/public/phyllida630x354.jpg?itok=7YlIlneD 270w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-300x169/public/phyllida630x354.jpg?itok=XLNhxBzY 300w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-630x354/public/phyllida630x354.jpg?itok=nGB-QV-D 630w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-800x450/public/phyllida630x354.jpg?itok=on6ZPv5x 800w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-950x534/public/phyllida630x354.jpg?itok=FuqOMwku 950w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1280x720/public/phyllida630x354.jpg?itok=o0NSqqE5 1280w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1440x810/public/phyllida630x354.jpg?itok=Tn9t9jzH 1440w" />
+      <h2 class="bc-link-panel-image-title">
+        
+<!--Field name: title_field-->
+  British Pavilion: Phyllida Barlow              </h2>
+          </a>
+  </aside>
+      </div>
+          <div class="col-xs-12 col-md-4">
+        
+  <aside class="bc-link-panel-image">
+        <a href="https://venicebiennale.britishcouncil.org/2017-exhibition/scotland">
+      
+<!--Field name: field_promotion_image-->
+  
+  
+<!--Field name: field_image-->
+  <img class="img-responsive bc-landscape lazyload blur-up" width="300" height="169" alt="Rachel Mclean artwork" src="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-100x56/public/rachelmclean630x354.jpg?itok=T1pG1BtA" data-sizes="auto" data-srcset="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-270x152/public/rachelmclean630x354.jpg?itok=DE6G9qEy 270w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-300x169/public/rachelmclean630x354.jpg?itok=ZqLxoGEM 300w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-630x354/public/rachelmclean630x354.jpg?itok=vvHf-S8G 630w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-800x450/public/rachelmclean630x354.jpg?itok=18Ok_5iB 800w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-950x534/public/rachelmclean630x354.jpg?itok=rav8wjv- 950w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1280x720/public/rachelmclean630x354.jpg?itok=lckLxS-N 1280w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1440x810/public/rachelmclean630x354.jpg?itok=87OKvlAm 1440w" />
+      <h2 class="bc-link-panel-image-title">
+        
+<!--Field name: title_field-->
+  Scotland in Venice: Rachel Maclean              </h2>
+          </a>
+  </aside>
+      </div>
+          <div class="col-xs-12 col-md-4">
+        
+  <aside class="bc-link-panel-image">
+        <a href="https://venicebiennale.britishcouncil.org/2017-exhibition/wales">
+      
+<!--Field name: field_promotion_image-->
+  
+  
+<!--Field name: field_image-->
+  <img class="img-responsive bc-landscape lazyload blur-up" width="300" height="169" alt="James Richards artwork" src="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-100x56/public/jr-install-solasedit_1.png?itok=UqHzsM3D" data-sizes="auto" data-srcset="https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-270x152/public/jr-install-solasedit_1.png?itok=_UM1uezT 270w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-300x169/public/jr-install-solasedit_1.png?itok=GGc0WtH- 300w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-630x354/public/jr-install-solasedit_1.png?itok=V97TFdHG 630w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-800x450/public/jr-install-solasedit_1.png?itok=NA_hW0q7 800w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-950x534/public/jr-install-solasedit_1.png?itok=Had0ESCm 950w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1280x720/public/jr-install-solasedit_1.png?itok=sjk0SFem 1280w, https://www.britishcouncil.org/sites/default/files/styles/bc-landscape-1440x810/public/jr-install-solasedit_1.png?itok=lif_N5aM 1440w" />
+      <h2 class="bc-link-panel-image-title">
+        
+<!--Field name: title_field-->
+  Wales in Venice: James Richards              </h2>
+          </a>
+  </aside>
+      </div>
+      </div>
+    </article>
+  </section>
+
+<!-- Core business tasks, text promos with one full width two half width below the first one -->
+  <div class="bc-stripe">
+    <section class="container large">
+      <article class="row">
+        <!-- Single full width text promo -->
+        <div class="col-xs-12">
+          <article class="bc-promo-panel-text full-width full-width-md">
+            
+<!--Field name: field_home_promo_eleven-->
+  
+<aside class="bc-link-panel-text">
+    <a    href="https://www.britishcouncil.org/partner">
+
+    <span class="bc-svg-circle"><svg class="bc-svg bc-svg-tick" aria-hidden="true">
+  <use xlink:href="#icon-tick"></use>
+</svg>
+</span>    
+    <h2 class="bc-link-panel-text-title">
+<!--Field name: title_field-->
+  Partner with us          </h2>
+          <p class="bc-link-panel-text-desc">
+<!--Field name: field_promotion_summary-->
+  <span class="bc-body-text">Our partners value our global reach, network and trusted brand.  
+We create high-performing joint programmes with partners worldwide </span>
+</p>
+      </a>
+</aside>
+          </article>
+        </div>
+        <!-- Two text promos -->
+        <div class="col-xs-12 col-md-6 border-right">
+          <article class="bc-promo-panel-text full-width-md">
+            
+<!--Field name: field_home_promo_twelve-->
+  
+<aside class="bc-link-panel-text">
+    <a    href="https://www.britishcouncil.org/education/schools">
+
+    <span class="bc-svg-circle"><svg class="bc-svg bc-svg-globe" aria-hidden="true">
+  <use xlink:href="#icon-globe"></use>
+</svg>
+</span>    
+    <h2 class="bc-link-panel-text-title">
+<!--Field name: title_field-->
+  Connect your class with teachers and pupils abroad          </h2>
+          <p class="bc-link-panel-text-desc">
+<!--Field name: field_promotion_summary-->
+  <span class="bc-body-text">International links, professional development, classroom resources and awards</span>
+</p>
+      </a>
+</aside>
+          </article>
+        </div>
+        <div class="col-xs-12 col-md-6">
+          <article class="bc-promo-panel-text full-width-md last">
+            
+<!--Field name: field_home_promo_thirteen-->
+  
+<aside class="bc-link-panel-text">
+    <a    href="https://www.britishcouncil.org/teach-english">
+
+    <span class="bc-svg-circle"><svg class="bc-svg bc-svg-graduation-cap" aria-hidden="true">
+  <use xlink:href="#icon-graduation-cap"></use>
+</svg>
+</span>    
+    <h2 class="bc-link-panel-text-title">
+<!--Field name: title_field-->
+  Teach English          </h2>
+          <p class="bc-link-panel-text-desc">
+<!--Field name: field_promotion_summary-->
+  <span class="bc-body-text">Find classroom resources and opportunities for professional development</span>
+</p>
+      </a>
+</aside>
+          </article>
+        </div>
+      </article>
+    </section>
+  </div>
+
+<div class="container">
+  </div>
+
+
+  
+  <section id="bc-footer-country-listing">
+    <header class="bc-stripe" tabindex="0" role="button" aria-label="country listing header" aria-expanded="false">
+      <section class="container">
+        <div class="row">
+          <div class="col-xs-12">
+          <span class="bc-svg-circle"><svg class="bc-svg bc-svg-globe" aria-hidden="true">
+  <use xlink:href="#icon-globe"></use>
+</svg>
+</span>          <h2>British Council Worldwide</h2>
+          <svg class="bc-svg bc-svg-plus" aria-hidden="true">
+  <use xlink:href="#icon-plus"></use>
+</svg>
+          <svg class="bc-svg bc-svg-minus" aria-hidden="true">
+  <use xlink:href="#icon-minus"></use>
+</svg>
+          </div>
+        </div>
+      </section>
+    </header>
+    <section class="container details" role="region" aria-hidden="true" aria-label="country listing details">
+      <div class="row">
+        
+<div class="view-country-sites view view-country-sites view-id-country_sites view-display-id-country_listing view-dom-id-f18713c483bf78824e36f8bc28cd3fb5">
+        
+  
+  
+      
+        <ul>          <li class="">
+      <span><a href="http://www.britishcouncil.org/afghanistan">Afghanistan</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org/albania">Albania</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.dz/en">Algeria</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.ar">Argentina</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.am">Armenia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.au">Australia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.at">Austria</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.az">Azerbaijan</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.bh/en">Bahrain</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.bd">Bangladesh</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.be/">Belgium</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.ba">Bosnia and Herzegovina</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.co.bw">Botswana</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.br">Brazil</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.bg">Bulgaria</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.mm">Burma</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.cm">Cameroon</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.ca/">Canada</a></span></li>
+          <li class="">
+      <span><a href="http://caribbean.britishcouncil.org">Caribbean</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.cl">Chile</a></span></li>
+          <li class="">
+      <span><a href="https://www.britishcouncil.cn/en">China</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.co">Colombia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.hr">Croatia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.com.cy">Cyprus</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.cz">Czech Republic</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.dk">Denmark</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.eg">Egypt</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org/organisation">England</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.ee">Estonia</a></span></li>
+          <li class="">
+      <span><a href="http://ethiopia.britishcouncil.org">Ethiopia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.fi/">Finland</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.fr">France</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.ge">Georgia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.de/en">Germany</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.gh">Ghana</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.gr/">Greece</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.hk">Hong Kong</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.hu">Hungary</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.in">India</a></span></li>
+          <li class="">
+      <span><a href="https://www.britishcouncil.id/">Indonesia</a></span></li>
+          <li class="">
+      <span><a href="https://iran.britishcouncil.org/en">Iran</a></span></li>
+          <li class="">
+      <span><a href="http://iraq.britishcouncil.org">Iraq</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.ie">Ireland</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.il">Israel</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.it">Italy</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.jp">Japan</a></span></li>
+          <li class="">
+      <span><a href="https://www.britishcouncil.jo">Jordan</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.kz">Kazakhstan</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.co.ke">Kenya</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.kr">Korea, Republic of</a></span></li>
+          <li class="">
+      <span><a href="http://kosovo.britishcouncil.org">Kosovo</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.com.kw/en">Kuwait</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.lv">Latvia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.lb">Lebanon</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.ly/en">Libya</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.lt">Lithuania</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.mk">Macedonia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.mw">Malawi</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.my">Malaysia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.mt">Malta</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.mu">Mauritius</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.mx">Mexico</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.me">Montenegro</a></span></li>
+          <li class="">
+      <span><a href="https://www.britishcouncil.ma/en">Morocco</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.mz">Mozambique</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.na">Namibia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.np">Nepal</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.nl/">Netherlands</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.nz">New Zealand</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.ng">Nigeria</a></span></li>
+          <li class="">
+      <span><a href="http://nireland.britishcouncil.org">Northern Ireland</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.no">Norway</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.ps">Occupied Palestinian Territories</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.om/en">Oman</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.pk">Pakistan</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.pe/">Peru</a></span></li>
+          <li class="">
+      <span><a href="https://www.britishcouncil.ph">Philippines</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.pl">Poland</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.pt">Portugal</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.qa">Qatar</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.ro">Romania</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.ru">Russia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.rw">Rwanda</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.sa">Saudi Arabia</a></span></li>
+          <li class="">
+      <span><a href="https://scotland.britishcouncil.org">Scotland</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.com.sn/en">Senegal</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.rs/">Serbia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.sl">Sierra Leone</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.sg">Singapore</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.sk">Slovakia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org/slovenia">Slovenia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.za">South Africa</a></span></li>
+          <li class="">
+      <span><a href="http://southsudan.britishcouncil.org/">South Sudan</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org/spain">Spain</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.lk">Sri Lanka</a></span></li>
+          <li class="">
+      <span><a href="http://sudan.britishcouncil.org">Sudan</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.se">Sweden</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.ch">Switzerland</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org/syria">Syria</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.tw">Taiwan</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.or.tz">Tanzania</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.or.th">Thailand</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.tn">Tunisia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.tr">Turkey</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.ug/">Uganda</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.ua">Ukraine</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.ae">United Arab Emirates</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.us/">United States of America</a></span></li>
+          <li class="">
+      <span><a href="https://www.britishcouncil.uy">Uruguay</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org/uzbekistan">Uzbekistan</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.ve">Venezuela</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.vn">Vietnam</a></span></li>
+          <li class="">
+      <span><a href="http://wales.britishcouncil.org/en">Wales</a></span></li>
+          <li class="">
+      <span><a href="http://yemen.britishcouncil.org/en">Yemen</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.org.zm">Zambia</a></span></li>
+          <li class="">
+      <span><a href="http://www.britishcouncil.co.zw">Zimbabwe</a></span></li>
+      </ul>
+    
+  
+  
+  
+  
+  
+  </div>
+      </div>
+    </section>
+  </section>
+
+<footer class="bc-footer">
+  <div class="container">
+    <div class="row">
+
+              <div class="col-xs-12 col-md-12 col-lg-8">
+                                <nav><ul class="bc-footer-nav"><li class="first expanded"><a href="/organisation">About us</a><ul><li class="first collapsed"><a href="/organisation/facts">Facts about the British Council</a></li>
+<li class="collapsed"><a href="/organisation/history">History</a></li>
+<li class="collapsed"><a href="/organisation">Our organisation</a></li>
+<li class="collapsed"><a href="/organisation/how-we-work">How we work</a></li>
+<li class="collapsed"><a href="/organisation/transparency" title="">Transparency</a></li>
+<li class="collapsed"><a href="/organisation/structure">Management and structure</a></li>
+<li class="collapsed"><a href="/organisation/people" title="">Our people</a></li>
+<li class="collapsed"><a href="/organisation/press" title="">Press office</a></li>
+<li class="leaf"><a href="/organisation/policy-insight-research">Policy insight and research</a></li>
+<li class="last leaf"><a href="/organisation/our-global-network" title="">Where we work</a></li>
+</ul></li>
+<li class="expanded"><a href="/work" title="">Work with us</a><ul><li class="first collapsed"><a href="/jobs">Jobs</a></li>
+<li class="last collapsed"><a href="/partner" title="">Partner with us</a></li>
+</ul></li>
+<li class="last expanded"><a href="/research" title="">Research</a><ul><li class="first last collapsed"><a href="/research/consultancy-opportunities">Current research consultancy opportunities</a></li>
+</ul></li>
+</ul></nav>
+                                      </div>
+      
+              <div class="col-xs-12 col-md-12 col-lg-4">
+                              <h2 class="h3 bc-social-media-title">Connect with us</h2><ul class="bc-social-media"><li class="first leaf"><a href="https://twitter.com/#!/britishcouncil" title="">Twitter</a></li>
+<li class="leaf"><a href="http://www.facebook.com/britishcouncil" title="">Facebook</a></li>
+<li class="leaf"><a href="http://www.linkedin.com/company/british-council" title="">LinkedIn</a></li>
+<li class="last leaf"><a href="https://www.youtube.com/user/britishcouncil" title="">YouTube</a></li>
+</ul>                  </div>
+      
+              <div class="col-xs-12 col-md-0 col-lg-0">
+          <hr class="bc-footer-main-hr-lg">
+                              <ul class="bc-site-links"><li class="first leaf"><a href="/terms" title="Terms of use">Terms of use</a></li>
+<li class="leaf"><a href="/accessibility" title="">Accessibility</a></li>
+<li class="leaf"><a href="/privacy-cookies" title="">Privacy and cookies</a></li>
+<li class="leaf"><a href="/organisation/press" title="">Press office</a></li>
+<li class="leaf"><a href="/organisation/transparency/policies/2015-16-statement-slavery-and-human-trafficking" title="">Modern Slavery Act</a></li>
+<li class="last leaf"><a href="/sitemap" title="">Site map</a></li>
+</ul>                  </div>
+      
+    </div><!-- /row -->
+
+          <div class="bc-copyright">
+        
+
+<h2>&#169; 2017 British Council</h2><p>The United Kingdom's international organisation for cultural relations and educational opportunities.<br />A registered charity: 209131 (England and Wales) SC037733 (Scotland).</p>      </div>
+    
+  </div>
+</footer>
+
+      <!-- START OF SmartSource Data Collector TAG v10.2.29 -->
+    <!-- Copyright (c) 2012 Webtrends Inc.  All rights reserved. -->
+    <script>
+    window.webtrendsAsyncInit=function(){
+      var dcs=new Webtrends.dcs().init({
+        dcsid:"dcsozkqgb00000sh0y1unaabw_9e3r",
+        domain:"statse.webtrendslive.com",
+        timezone:0,
+        i18n:true,
+        adimpressions:true,
+        adsparam:"WT.ac",
+        download:true,
+        downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip,swf,mid,mp3",
+        offsite:true,
+        mailto:true,
+        onsitedoms:"britishcouncil.org",
+        fpcdom:".britishcouncil.org",
+        splitvalue:"",
+        plugins:{
+        <!-- Heatmap Plugin v10.2.89 -->
+            hm:{src:"/profiles/solas2/modules/custom/webtrends_simple/js/webtrends.hm.js"}
+        }
+      }).track();
+    };
+    (function(){
+        var s=document.createElement("script"); s.async=true; s.src="/profiles/solas2/modules/custom/webtrends_simple/js/webtrends.min.js";
+        var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+    }());
+    </script>
+    <noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcsozkqgb00000sh0y1unaabw_9e3r/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.29&amp;dcssip=www.britishcouncil.org&amp;WT.sp=UK"/></noscript>
+    <!-- END OF SmartSource Data Collector TAG v10.2.29 -->
+<script defer="defer" src="https://sui.live.solas.britishcouncil.digital/0.0.10/scripts/main.js"></script>
+<script src="https://www.britishcouncil.org/sites/default/files/js/js_SzKtrb-F9pTnbQWd8BIwHOhnwyNNVLo8NJxLQ7OZb7U.js"></script>
+<script src="https://www.britishcouncil.org/sites/default/files/js/js_L50O_PWoAuMOxVjnzZCkNSSmI0kFwhZsO1_KS8WnGKw.js"></script>
+</body>
+</html>

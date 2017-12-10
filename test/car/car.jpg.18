@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>
+    Page Not Found        
+</title>
+
+<!--start open graph -->
+<meta name="title" content="" />
+<meta name="description" content="" />
+<meta property="og:url" content="http://galese-ingram.com/graphics/car.jpg" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="" />
+<meta property="og:site_name" content="Galese-Ingram, P.C." />
+<!-- end open graph -->
+
+<link rel="stylesheet" href="//cdn.zeekee.com/load.css?framework=twitter-bootstrap&amp;libs=slick">
+<link rel="stylesheet" href="/_css/custom.css">
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-37627047-1']);
+    _gaq.push(['_trackPageview']);
+            
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+</head>
+<body>
+<header class="header">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-lg-5 navbar-header">
+				<a class="navbar-brand" href="/">
+					<span>LAW OFFICES OF</span>
+					Galese & Ingram, P.C.
+				</a>
+			</div>
+			<div class="col-lg-7 nav-container">
+				<a class="navbar-toggle" data-toggle="collapse" data-target=".collapse">
+					<span></span>
+					<span></span>
+					<span></span>
+				</a>
+				<nav class="navbar navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+						<li><a href="/attorneys">about us</a></li>
+						<li><a href="/areas/">Practice areas / services</a></li>
+						<!--
+						<li class="dropdown">
+							<a href="/" class="dropdown-toggle" data-toggle="dropdown">
+								Practice areas / services <span class="caret"></span>
+							</a>
+							<ul class="dropdown-menu">
+								<li><a href="/rehabilitation/">Rehabilitation</a></li>
+								<li><a href="/physical-therapy/">Physical Therapy</a></li>
+								<li><a href="/occupational-therapy/">Occupational Therapy</a></li>
+								<li><a href="/speech-therapy/">Speech Therapy</a></li>
+								<li><a href="/amenities/">Amenities</a></li>
+								<li><a href="/dietary/">Dietary</a></li>
+							</ul>
+						</li>
+						-->
+						<li><a href="/represented-clients/">represented clients</a></li>
+						<li><a href="/contact/">contact us</a></li>
+					</ul>
+				</nav><!--/ navbar -->
+			</div>
+		</div>
+	</div>
+</header><!--///////////// Header -->
+<div class="page-header" style="background-image: url(/www/pages/8/7/1/8/4/9/5/4/4/A/images/22d6b73d7ed3d10.jpg);"><div class="container-fluid"><h1>Page Not Found</h1></div></div><h1>
+    Page Not Found</h1>
+<hr />
+<div class="row">
+    <div class="col-xs-6 col-xs-offset-3">
+        <h2>Uh Oh! Page Not Found</h2>
+<p>Sorry the page you are looking for has been moved or deleted</p>    </div>
+</div><div class="footer-area text-center">
+	<div class="container-fluid">
+		<div class="footer-logo">
+			<a href="">
+				<span>LAW OFFICES OF</span>
+				Galese &amp; Ingram, P.C.
+			</a>
+		</div>
+		<address>
+			<p>300 First Commercial Bank Building <br>
+			800 Shades Creek Pkwy. <br>
+			Birmingham, AL 35209</p>
+
+			<p>Telephone: (205) 870-0663 <br>
+			Fax: (205) 870-0681</p>
+		</address>
+	</div>
+</div><!--///////////// Footer -->
+
+<footer class="footer text-center">
+	<div class="container-fluid">
+		<p class="text-left">&copy; 2017 |  Alabama Rules of Professional Conduct require that the following language accompany any communication concerning a lawyer's
+		services: "No representation is made that the quality of the legal services to be performed is greater than the
+		quality of legal services to be performed by other lawyers." Nothing contained herein is intended to be, nor
+		should be construed as the delivery of legal services or legal advice. Consult with your attorney about all
+		legal matters.   |  <a href="/">Contact Web master</a></p>
+
+		Site by <a class="zeekee-logo" href="//zeekeeinteractive.com/" target="_blank">Zeekee.</a>
+
+	</div>
+</footer><!--///////////// Footer -->
+
+<script src="//cdn.zeekee.com/load.js?framework=twitter-bootstrap&amp;libs=slick"></script>
+
+<script>
+	(function( $ ) {
+
+		$(document).ready(function(){
+
+			$('.main-slider').slick({
+				dots: true,
+				infinite: true,
+				autoplay: true,
+                autoplaySpeed: 5000,
+				fade: true,
+				cssEase: 'linear',
+				adaptiveHeight: true
+			});
+
+			$('.maps').click(function () {
+				$('.maps iframe').css("pointer-events", "auto");
+			});
+			$( ".maps" ).mouseleave(function() {
+				$('.maps iframe').css("pointer-events", "none"); 
+			});
+
+			// Sticky Nav
+			// $('.header').affix({
+			// 	offset: {
+			// 		top: $('header').height()
+			// 	}
+			// });
+
+		});
+
+	})(jQuery);
+</script>
+</body></html>

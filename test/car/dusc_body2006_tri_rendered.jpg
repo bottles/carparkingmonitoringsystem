@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js lt-ie10"> <![endif]-->
+<!--[if gt IE 10]><!--> <html class="no-js" lang="en-GB" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+
+		<meta charset="UTF-8" />
+		
+
+	<meta name="viewport" content="initial-scale=1.0, width=device-width, maximum-scale=1" />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="" />
+
+  <title>Home - Durham University Electric Motorsport (DUEM)</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v5.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="DUEM are the UK&#039;s longest running solar car team, celebrating our 15th year of innovation. Find out more about our exciting future."/>
+<link rel="canonical" href="http://duem.org/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Durham University Electric Motorsport (DUEM)" />
+<meta property="og:description" content="DUEM are the UK&#039;s longest running solar car team, celebrating our 15th year of innovation. Find out more about our exciting future." />
+<meta property="og:url" content="http://duem.org/" />
+<meta property="og:site_name" content="DUEM" />
+<meta property="og:image" content="http://duem.org/wp-content/uploads/2016/07/duem-logo.svg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="DUEM are the UK&#039;s longest running solar car team, celebrating our 15th year of innovation. Find out more about our exciting future." />
+<meta name="twitter:title" content="Home - Durham University Electric Motorsport (DUEM)" />
+<meta name="twitter:site" content="@DUEM_Electric" />
+<meta name="twitter:image" content="http://duem.org/wp-content/uploads/2016/07/duem-logo.svg" />
+<meta name="twitter:creator" content="@DUEM_Electric" />
+<meta name="google-site-verification" content="vH3FovMzpgw_A2oz2Ko8fm1-Bso9k15Tt1seLgEInZQ" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//duem.org' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="DUEM &raquo; Feed" href="http://duem.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="DUEM &raquo; Comments Feed" href="http://duem.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/duem.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://duem.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='http://duem.org/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='neko-core-css'  href='http://duem.org/wp-content/plugins/neko-core/public/css/neko-core-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='neko-gmap-css'  href='http://duem.org/wp-content/plugins/neko-gmap/public/css/neko-gmap-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='neko-vcaddons-css'  href='http://duem.org/wp-content/plugins/neko-vcaddons/public/css/neko-vc-shortcode.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://duem.org/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='page-list-style-css'  href='http://duem.org/wp-content/plugins/sitemap/css/page-list.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='neko-social-icon-css'  href='http://duem.org/wp-content/plugins/neko-team/public/assets/font-icons/css/neko-social-icons.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='neko-team-plugin-styles-css'  href='http://duem.org/wp-content/plugins/neko-team/public/assets/css/public.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://duem.org/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=5.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://duem.org/wp-content/themes/hideo/bootstrap/css/bootstrap.min.css?ver=3.3.5' type='text/css' media='all' />
+<link rel='stylesheet' id='neko-theme-custom-plugins-css'  href='http://duem.org/wp-content/themes/hideo/css/plugins.min.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-icons-css'  href='http://duem.org/wp-content/themes/hideo/font-icons/custom-icons/css/custom-icons.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://duem.org/wp-content/themes/hideo-wordpress-little-neko-child-theme/style.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='mpc-massive-style-css'  href='http://duem.org/wp-content/plugins/mpc-massive/assets/css/mpc-styles.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki_google_fonts-css'  href='https://fonts.googleapis.com/css?family=Muli%3Aregular%2C300&#038;subset' type='text/css' media='all' />
+<link rel='stylesheet' id='kirki-styles-hideo-child-css'  href='http://duem.org/wp-content/plugins/neko-core/includes/neko-plugins/kirki/core/_develop/assets/css/kirki-styles.css' type='text/css' media='all' />
+<style id='kirki-styles-hideo-child-inline-css' type='text/css'>
+.header-opaque a.nk-brand,.header-transparent #mainHeader.nk-transparent-scrolled a.nk-brand{background-image:url(http://duem.org/wp-content/uploads/2016/07/duem-logo.svg);}body{font-family:Muli, Helvetica, Arial, sans-serif;font-weight:400;font-style:normal;font-size:14px;line-height:1.857;}h1{font-family:Muli, Helvetica, Arial, sans-serif;font-weight:400;font-style:normal;letter-spacing:0;text-transform:none;}.neko-vc_cta-box h2,.stylish-heading h1,.stylish-heading h2,.stylish-heading h2.medium-heading,h2.entry-title{font-family:Muli, Helvetica, Arial, sans-serif;font-weight:400;font-style:normal;font-size:50px;letter-spacing:0;text-transform:none;}h2{font-family:Muli, Helvetica, Arial, sans-serif;font-weight:300;font-style:normal;font-size:32px;letter-spacing:0;text-transform:none;}h3{font-family:Muli, Helvetica, Arial, sans-serif;font-weight:300;font-style:normal;font-size:28px;letter-spacing:0;text-transform:none;}h4{font-family:Muli, Helvetica, Arial, sans-serif;font-weight:300;font-style:normal;font-size:26px;letter-spacing:0;text-transform:none;}.neko-page-blog:not(.single-post) .page-header,.search:not(.woocommerce-page) .page-header{background-image:url(http://demo.little-neko.com/neko-demo-1920x700.png);}#neko-to-top,#nk-preloader,#search-page-search input[type="text"],.nk-preloader.nk-circle-loader .status:after,.page.home, .page.blog,body,main#content,main#page-content{background-color:#FFFFFF;}.neko-page-header,.neko-page-header .header-navtrail a,.neko-page-header .header-navtrail a:hover,.neko-page-header .header-navtrail a:link{color:#FFFFFF;}#comments-wrapper li,#preloader,#search-page-search,#search-page-search input[type="text"],.boxed-layout #global-wrapper,.latestPost,.post,.search-result,input[type="email"],input[type="number"],input[type="password"],input[type="search"],input[type="tel"],input[type="text"],select,textarea{background-color:#FFFFFF;}.meta-nav,.neko-author-bio .author-icon li a i:before,.pagination li>a, a .post-pagination-link,.progress-bar,.tagcloud a:hover,.underline-loader,body,code,input[type="email"],input[type="number"],input[type="password"],input[type="search"],input[type="tel"],input[type="text"],label span,select,textarea,ul.entry-meta li,widget_nav_menu ul li a{color:#333333;}.stylish-heading h1,.stylish-heading h2,h1,h2,h2.entry-title a,h3,h4,h5,h6,legend{color:#333333;}#wp-calendar tbody td a,#wp-calendar tbody td#today,a,a[href^="mailto:"]{color:#77226c;}a:active{color:#77226c;}#wp-calendar tfoot td#prev a:hover,#wp-calendar tfoot td#next a:hover,.widget_archive ul li a:focus,.widget_archive ul li a:hover,.widget_archive ul li::before,.widget_categories ul li a:focus,.widget_categories ul li a:hover,.widget_categories ul li::before,.widget_meta ul li a:focus,.widget_meta ul li a:hover,.widget_meta ul li::before,.widget_nav_menu ul li a:focus,.widget_nav_menu ul li a:hover,.widget_nav_menu ul li::before,.widget_pages ul li a:focus,.widget_pages ul li a:hover,.widget_pages ul li::before,.widget_recent_comments ul li a:focus,.widget_recent_comments ul li a:hover,.widget_recent_comments ul li::before,.widget_recent_entries ul li a:focus,.widget_recent_entries ul li a:hover,.widget_recent_entries ul li::before,a:hover,h2.entry-title a:hover{color:#111111;}#wp-calendar tbody td#today{border-color:#111111;}a:focus{color:#333333;}a:visited{color:#77226c;}.dots-loader i:first-child,.neutral-bg{background:#DDDDDD;}.nav-links .current,.neutral-bgc,.tagcloud a:hover,th{background-color:#DDDDDD;}#neko-to-top,.blog-grid .entry-header,.blog-grid .entry-summary,.blog-grid .format-aside .entry-summary,.blog-grid .format-gallery .owl-theme .owl-controls,.blog-grid .format-quote .entry-summary,.blog-grid .format-status .entry-summary,.blog-grid .owl-theme .owl-controls,.format-aside .entry-summary, .format-status .entry-summary,.neko-author-bio,.neutral-border,.nk-header-layout-5 #mainHeader .nk-navbar-collapse,.reply,.tagcloud a:link, .tagcloud a:visited, .entry-tags a:link, .entry-tags a:visited,blockquote,hr,input[type="email"],input[type="number"],input[type="password"],input[type="search"],input[type="tel"],input[type="text"],select,td,textarea,th{border-color:#DDDDDD;}#nk-main-menu li > a:before,.comment-time,.neutral-color{color:#DDDDDD;}.accent-bg,.progress-bar{background:#77226C;}.nk-circle-loader .status:before{background:linear-gradient(#77226C, transparent 55%);}.accent-bgc,.neko-page-header,.nk-cube-grid-loader .status .sk-cube,.nk-double-bounce-loader .sk-child,.nk-rotating-plane-loader .status,.nk-spinner-pulse-loader .status,.nk-wandering-cubes-loader .status .sk-cube,a.format-link-wrapper:hover.image-bg div,format-link-wrapper{background-color:#77226C;}.accent-border,.icon-rounded,.neko-author-bio .author-icon li a:hover i:before,.signal-loader,input[type="email"]:focus,input[type="password"]:focus,input[type="tel"]:focus,input[type="text"]:focus,select:focus,textarea:focus{border-color:#77226C;}.accent-color,.icon-rounded,.neko-author-bio .author-icon li a:hover i:before,.neko-mega-menu li.neko-menu-title > a,figure.img-hover.romeo figcaption a i, figure.img-hover.romeo figcaption > span i{color:#77226C;}.circle-loader:before{background:linear-gradient(#77226C, #ededed 60%);}#nk-main-menu ul > li.action-link > a,#nk-navbar-toggle + label,.btn,.btn:visited,.nav-links a,.nk-pricing-tables-container .btn,.owl-theme .owl-controls .owl-page span, .owl-theme .owl-controls .owl-buttons div,.pager li > a:hover,a.btn.primary:focus,a.btn.primary:hover,a.comment-reply-link,a.more-link,button,input[type="submit"]{background-color:#77226c;}#neko-to-top{color:#77226c;}#neko-to-top:active,#neko-to-top:focus,#neko-to-top:hover,#nk-main-menu ul > li.action-link > a:hover,#nk-navbar-toggle + label:hover,#nk-navbar-toggle:checked + label,.btn-info:active,.btn-info:focus,.btn-info:hover,.btn-success:active,.btn-success:focus,.btn-success:hover,.btn-warning:active,.btn-warning:focus,.btn-warning:hover,.btn:active,.btn:focus,.btn:hover,.entry-meta li:hover, .entry-meta li:hover a,.icon-rounded:hover,.nav-links a:hover,.neko-banner a:hover .button,.neko-portfolio a.more-link:active,.neko-portfolio a.more-link:focus,.neko-portfolio a.more-link:hover,.nk-pricing-tables-container .btn,a.btn.primary,a.comment-reply-link:active,a.comment-reply-link:focus,a.comment-reply-link:hover,a.more-link:active,a.more-link:focus,a.more-link:hover,button:active,button:focus,button:hover,input[type="submit"]:active,input[type="submit"]:focus,input[type="submit"]:hover{background-color:#333333;}#neko-to-top:hover,a i.icon-rounded:hover{border-color:#333333;}#neko-to-top:hover,#nk-main-menu ul > li.action-link > a,.btn,.btn:visited,.nav-links a,.nav-links a span,.nav-links a:hover,.nk-pricing-tables-container .btn:hover,.owl-theme .owl-controls .owl-page span, .owl-theme .owl-controls .owl-buttons div,.pager li > a:hover,a.btn.primary:focus,a.btn.primary:hover,a.comment-reply-link,a.more-link,button,input[type="submit"]{color:#ffffff;}#neko-to-top:active,#neko-to-top:focus,#neko-to-top:hover,#nk-main-menu ul > li.action-link > a:hover,.btn-info:active,.btn-info:focus,.btn-info:hover,.btn-success:active,.btn-success:focus,.btn-success:hover,.btn-warning:active,.btn-warning:focus,.btn-warning:hover,.btn:active,.btn:focus,.btn:hover,.entry-meta li:hover, .entry-meta li:hover a,.icon-rounded:hover,.nav-links a:hover,.neko-portfolio a.more-link:active,.neko-portfolio a.more-link:focus,.neko-portfolio a.more-link:hover,.nk-pricing-tables-container .btn:hover,a.btn.primary,a.comment-reply-link:active,a.comment-reply-link:focus,a.comment-reply-link:hover,a.more-link:active,a.more-link:focus,a.more-link:hover,button:active,button:focus,button:hover,input[type="submit"]:active,input[type="submit"]:focus,input[type="submit"]:hover{color:#ffffff;}#mainHeader,.header-boxed:not(.header-transparent) #mainHeader .navbar-default, .header-boxed.header-transparent #mainHeader.nk-transparent-scrolled .navbar-default{background-color:#ffffff;}.nk-header-style-3 #nk-main-menu .nk-navbar > li:not(.action-link):not(.menu-item-language):not(.neko-cart-link) > a{background-color:#eeeeee;}#nk-main-menu ul>li>a{color:#444444;}#main-footer-wrapper{background-color:#F7F7F7;}#main-footer-wrapper,#main-footer-wrapper .tweettext, #main-footer-wrapper .widget .tweettext,#main-footer-wrapper h3{color:#999999;}#main-footer-wrapper #main-footer #wp-calendar tbody td, #main-footer-wrapper #main-footer #calendar_wrap,#main-footer-wrapper .tagcloud a:hover,#main-footer-wrapper .tagcloud a:link, #main-footer-wrapper .tagcloud a:visited,#main-footer-wrapper .widget li a, #main-footer-wrapper .widget li a:before,#main-footer-wrapper .widget li a:before, #main-footer-wrapper .widget #recentcomments li::before, #main-footer-wrapper .widget.widget_categories li::before, #main-footer-wrapper .widget.widget_archive li::before,#main-footer-wrapper h3,#main-footer-wrapper li{border-color:#CCCCCC;}#main-footer-wrapper .tagcloud a:hover{background-color:#CCCCCC;}#main-footer-wrapper .aiwidgetscss .tweet_author_name a, #main-footer-wrapper .widget .tweet_author_name a, #main-footer-wrapper .tweettext a, #main-footer-wrapper .widget .tweettext a,#main-footer-wrapper a:not(#neko-to-top):link, #main-footer-wrapper a:not(#neko-to-top):visited, #main-footer-wrapper .widget li a:not(#neko-to-top):link, #main-footer-wrapper .widget li a:not(#neko-to-top){color:#77226c;}#main-footer-wrapper a:not(#neko-to-top):hover, #main-footer-wrapper .widget li a:not(#neko-to-top):hover{color:#111111;}#copyright{background-color:#EEEEEE;color:#999999;border-color:#999999;}#copyright a:not(#neko-to-top),#main-footer-wrapper #copyright a:not(#neko-to-top):link, #main-footer-wrapper #copyright a:not(#neko-to-top):visited{color:#565656;}#copyright a:not(#neko-to-top):hover,#main-footer-wrapper #copyright a:not(#neko-to-top):hover{color:#111111;}@media only screen and (max-width:1024px){.header-transparent #mainHeader a.nk-brand{background-image:url(http://duem.org/wp-content/uploads/2016/07/duem-logo.svg);}}@media only screen and (min-width:1025px){.header-transparent #mainHeader:not(.nk-transparent-scrolled) a.nk-brand{background-image:url(http://duem.org/wp-content/uploads/2016/07/duem-logo.svg);}#nk-main-menu > ul > li:not(#neko-cart-link):not(.action-link):not(.menu-item-language):not(.nk-mega-menu-title):hover > a,#nk-main-menu li.active > a,#nk-main-menu ul li.current-menu-item > a,#nk-main-menu ul li.current_page_parent > a{color:#77226c;}.header-transparent #mainHeader:not(.nk-transparent-scrolled):not(.nk-static-top) #nk-main-menu > ul > li:not(.active):not(.current-menu-item):not(.action-link) > a,.header-transparent #mainHeader:not(.nk-transparent-scrolled):not(.nk-static-top) .nk-navbar-collapse .social-network-bar > li .icon-rounded{color:rgba(255,255,255,0.85);}.header-transparent #mainHeader:not(.nk-transparent-scrolled):not(.nk-static-top) #nk-main-menu > ul > li.active > a,.header-transparent #mainHeader:not(.nk-transparent-scrolled):not(.nk-static-top) #nk-main-menu > ul > li.current-menu-item > a,.header-transparent #mainHeader:not(.nk-transparent-scrolled):not(.nk-static-top) #nk-main-menu > ul > li.hover > a,.header-transparent #mainHeader:not(.nk-transparent-scrolled):not(.nk-static-top) #nk-main-menu > ul > li.hover > a.hasSubMenu,.header-transparent #mainHeader:not(.nk-transparent-scrolled):not(.nk-static-top) #nk-main-menu > ul > li:not(.action-link) > a:hover,.header-transparent #mainHeader:not(.nk-transparent-scrolled):not(.nk-static-top) #nk-main-menu > ul > li:not(.active):not(.current-menu-item):not(.action-link):hover > a{color:#ffffff;}}@media only screen and (-moz-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx){.header-opaque a.nk-brand,.header-transparent #mainHeader.nk-transparent-scrolled a.nk-brand{background-image:url(http://duem.org/wp-content/uploads/2016/07/duem-logo.svg);}}@media only screen and (-moz-min-device-pixel-ratio: 2)  and (min-width:1025px), only screen and (min--moz-device-pixel-ratio: 2)  and (min-width:1025px), only screen and (min-device-pixel-ratio: 2)  and (min-width:1025px), only screen and (min-resolution: 192dpi)  and (min-width:1025px), only screen and (min-resolution: 2dppx) and (min-width:1025px){.header-transparent #mainHeader a.nk-brand{background-image:url(http://duem.org/wp-content/uploads/2016/07/duem-logo.svg);}}@media (min-width: 1025px){#nk-main-menu .nk-navbar li .sub-menu li a:hover,.navbar-default .navbar-toggle:hover,.neko-dark-sub-menu #nk-main-menu .nk-navbar li .sub-menu li:not(.nk-mega-menu-title) a:hover,.nk-header-style-2 #nk-main-menu li:not(.action-link).active,.nk-header-style-2 #nk-main-menu ul li:not(.action-link):not(.menu-item-language):not(.neko-cart-link).current-menu-ancestor,.nk-header-style-2 #nk-main-menu ul li:not(.action-link):not(.menu-item-language):not(.neko-cart-link).current-menu-item,.nk-header-style-2 #nk-main-menu ul li:not(.action-link):not(.menu-item-language):not(.neko-cart-link).current_page_parent,.nk-header-style-2 #nk-main-menu ul li:not(.action-link):not(.menu-item-language):not(.neko-cart-link):not(.nk-mega-menu-title):hover,.nk-header-style-3 #nk-main-menu li.active a ,.nk-header-style-3 #nk-main-menu ul li:not(.action-link):not(.menu-item-language):not(.neko-cart-link).current-menu-ancestor > a,.nk-header-style-3 #nk-main-menu ul li:not(.action-link):not(.menu-item-language):not(.neko-cart-link).current-menu-item > a,.nk-header-style-3 #nk-main-menu ul li:not(.action-link):not(.menu-item-language):not(.neko-cart-link).current_page_parent > a,.nk-header-style-3 #nk-main-menu ul li:not(.action-link):not(.menu-item-language):not(.neko-cart-link):not(.nk-mega-menu-title):hover > a,.nk-header-style-4 #nk-main-menu li.active a ,.nk-header-style-4 #nk-main-menu ul li:not(.action-link):not(.menu-item-language):not(.neko-cart-link).current-menu-ancestor > a,.nk-header-style-4 #nk-main-menu ul li:not(.action-link):not(.menu-item-language):not(.neko-cart-link).current-menu-item > a,.nk-header-style-4 #nk-main-menu ul li:not(.action-link):not(.menu-item-language):not(.neko-cart-link).current_page_parent > a,.nk-header-style-4 #nk-main-menu ul li:not(.action-link):not(.menu-item-language):not(.neko-cart-link):not(.nk-mega-menu-title):hover > a,.nk-header-style-5 ul.nk-navbar > li:not(.action-link):not(.neko-cart-link):not(.menu-item-language)  > a:before{background-color:#77226c;}#nk-main-menu .nk-navbar li .sub-menu li a:hover,.neko-dark-sub-menu #nk-main-menu .nk-navbar li .sub-menu li a:hover{border-color:#77226c;}}
+</style>
+<script type='text/javascript' src='http://duem.org/wp-content/themes/hideo/js/modernizr/modernizr.custom.js?ver=2.6.1'></script>
+<script type='text/javascript' src='http://duem.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://duem.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/neko-core/public/js/neko-core-public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/neko-vcaddons/public/js/neko-vcaddons-public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6'></script>
+<link rel='https://api.w.org/' href='http://duem.org/wp-json/' />
+<meta name="generator" content="WordPress 4.8.3" />
+<link rel='shortlink' href='http://duem.org/' />
+<link rel="alternate" type="application/json+oembed" href="http://duem.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fduem.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://duem.org/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fduem.org%2F&#038;format=xml" />
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "@id": "#website",
+  "url": "http://duem.org/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://duem.org/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<!-- <meta name="NextGEN" version="2.2.14" /> -->
+
+			<!--option styles-->
+			<style type="text/css" media="all" title="nk-custom-style">#mainHeader .nk-brand { width:100px; height:96px; background-size: 100%; background-repeat:no-repeat; background-position: center center; }.header-pusher{display:block;height:122px;}#mainHeader {min-height:116px;}@media (min-width:1025px){#mainHeader .nk-brand {width:100px; height:96px; margin:13px 0; line-height: 96px;} #mainHeader {min-height:122px;} #nk-main-menu>ul > li > a { line-height:122px; } #mainHeader .nk-navbar-collapse .social-network-bar li{ height: 122px; line-height:122px; }#nk-main-menu ul li.wpmenucartli a { height:102px; line-height:102px; }.header-transparent .neko-vc_page-header{ margin-top:122px }.nk-header-layout-3 #mainHeader .nk-navbar-collapse .social-network-bar { top:13px; }body.nk-fixed-menu:not(.header-transparent){ padding-top:122px; }}#mainHeader .nk-brand span { margin-left: -3000px; }@media (min-width:1025px){.header-transparent #mainHeader:not(.nk-transparent-scrolled):not(.nk-static-top){background-color:rgba(255,255,255, 1);box-shadow:none; border:none;}}@media(min-width:768px){.neko-page-blog .page-header, .search:not(.woocommerce-page) .page-header {padding: 1em; }}@media(min-width:1025px){.neko-page-blog .page-header, .search:not(.woocommerce-page) .page-header {padding: 1em; }}#calendar_wrap,.nk-headings-lines h2:after,h2.nk-headings-lines:after,h3.widget-title,table th,table td, table th,table td,hr.line,hr.dotted,.pagination li a,.post-pagination-link,.blog-grid article,.neko-author-bio .author-icon li a i:before {border-color:#DDDDDD;}table thead th, table thead th,.pagination li>a:hover,.pagination li>span.current,.nav-links .current {background-color:#DDDDDD;}#nk-preheader .widget_nav_menu ul:not(.social-network-bar) li a:hover {color:#77226C;}.preloader-portfolio {background-color:#FFFFFF;}.neko-portfolio-isotope-item .item-content {background-color:#FFFFFF;}.neko-portfolio-isotope-item:not(.mosaic-item) > article .item-footer {border-color:#DDDDDD;}figure.img-hover-portfolio.zoe figcaption,.neko-portfolio-fullwidth .container-fw > .row-fw > div:first-child,.neko-portfolio-fullwidth .container-fw > .row-fw > div:first-child h1, .neko-portfolio-fullwidth .container-fw > .row-fw > div:first-child h2,.neko-portfolio-fullwidth .container-fw > .row-fw > div:first-child h3 {background-color:#77226C;}nav.neko_portfolio_filter .btn:hover, nav.neko_portfolio_filter .btn.current {background-color:#77226c;}.neko-portfolio-single-nav.pager li > a{border-color:#DDDDDD;}.neko-portfolio-single-nav.pager li > a:hover {border-color:#77226C;}nav.neko-portfolio-filter a {color:#333333;}nav.neko-portfolio-filter a:before{color:#DDDDDD;}nav.neko-portfolio-filter a:hover, nav.neko-portfolio-filter a.current {color:#77226C;}#neko-ajax-content a.neko-portfolio-launch{background-color:#77226c;color:#ffffff;}#neko-ajax-content a.neko-portfolio-launch:hover,.neko-portfolio-single-nav.pager li > a:hover {background-color:#333333;color:#ffffff;}.neko-portfolio a.more-link {background-color:#77226c;color:#ffffff;}.neko-portfolio a.more-link:hover {background-color:#333333;color:#ffffff;}.neko-portfolio-single ul.project-meta span {color:#77226C;}.neko-portfolio-single ul.project-meta li {border-color:#DDDDDD;}.neko-team .social-network a i.circle,.neko-team .social-network a:hover i.circle,.neko-team .item-content h2 span{color:#77226C;}.neko-team-skill-value {color:#333333;}.neko-team-cards .item-content {border-color:#DDDDDD;}.neko-team .social-network a i.circle {border-color:#77226C;}#nk-main-menu ul>li.wpmenucartli > a,.woocommerce .coupon input.button,.woocommerce input.button[name=update_cart]{color:#FFFFFF;background-color:#333333;}.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {border-color:#FFFFFF;}.woocommerce div.product p.price del,.woocommerce div.product span.price del,.woocommerce ul.products li.product .price del,.woocommerce #respond input#submit.alt.disabled,.woocommerce #respond input#submit.alt.disabled:hover,.woocommerce #respond input#submit.alt:disabled,.woocommerce #respond input#submit.alt:disabled:hover,.woocommerce #respond input#submit.alt:disabled[disabled],.woocommerce #respond input#submit.alt:disabled[disabled]:hover,.woocommerce a.button.alt.disabled,.woocommerce a.button.alt.disabled:hover,.woocommerce a.button.alt:disabled,.woocommerce a.button.alt:disabled:hover,.woocommerce a.button.alt:disabled[disabled],.woocommerce a.button.alt:disabled[disabled]:hover,.woocommerce button.button.alt.disabled,.woocommerce button.button.alt.disabled:hover,.woocommerce button.button.alt:disabled,.woocommerce button.button.alt:disabled:hover,.woocommerce button.button.alt:disabled[disabled],.woocommerce button.button.alt:disabled[disabled]:hover,.woocommerce input.button.alt.disabled,.woocommerce input.button.alt.disabled:hover,.woocommerce input.button.alt:disabled,.woocommerce input.button.alt:disabled:hover,.woocommerce input.button.alt:disabled[disabled],.woocommerce input.button.alt:disabled[disabled]:hover {color:#333333;background-color:#DDDDDD;}.woocommerce-review-link:link,.woocommerce div.product p.price del,.woocommerce ul.products li.product .price del{background-color:transparent;}.woocommerce.widget_price_filter .price_slider_wrapper .ui-widget-content {background-color:#DDDDDD;}.upsells.products, .related.products,.woocommerce-cart table.cart th,.woocommerce-cart table.cart td,.woocommerce .cart-collaterals .cart_totals,.woocommerce-page .cart-collaterals .cart_totals,.woocommerce-account .col-1.address,.woocommerce-account .col-2.address,.woocommerce-account .addresses .title .edit,.woocommerce.widget_product_categories li a {border-color:#DDDDDD;}.woocommerce div.product p.price,.woocommerce div.product span.price,.woocommerce ul.products li.product .price {color:#77226C;}.woocommerce .widget_price_filter .ui-slider .ui-slider-range,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle {background-color:#77226C;}.woocommerce #respond input#submit.alt,.woocommerce a.button.alt,.woocommerce button.button.alt,.woocommerce input.button.alt,.woocommerce ul.products li.product .button,.woocommerce #respond input#submit,.woocommerce a.button,.woocommerce button.button,.woocommerce input.button {background-color:#77226c;color:#ffffff;}#nk-main-menu ul>li.wpmenucartli > a:hover,.header-classic #nk-main-menu ul li:not(.action-link).wpmenucartli a:hover,.woocommerce #respond input#submit.alt:hover,.woocommerce a.button.alt:hover,.woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover,.woocommerce ul.products li.product .button:hover,.woocommerce .coupon input.button:hover,.woocommerce input.button[name=update_cart]:hover {background-color:#333333;color:#ffffff;}.neko_pt_style_1 .nk-focus-plan h2, .nk-pricing-tables-container.neko_pt_style_1 .btn,.neko_pt_style_2 .nk-focus-plan .nk-offer h2, .neko_pt_style_2 .nk-focus-plan .nk-price,.neko_pt_style_2 .nk-focus-plan p.nk-sign a.btn,.neko_pt_style_3 .nk-focus-plan h3,.neko_pt_style_3 .nk-focus-plan p.nk-sign,.neko_pt_style_3 p.nk-sign a.btn,.neko_pt_style_4 .nk-focus-plan p.nk-sign a.btn,.neko_pt_style_5 .nk-focus-plan,.neko_pt_style_5 p.nk-sign a.btn,.neko_pt_style_6 .nk-focus-plan p.nk-sign a.btn,.neko_pt_style_6 .nk-focus-plan p.nk-sign a.btn:hover,.neko_pt_style_7 .nk-focus-plan p.nk-sign a.btn {background-color:#77226c;color:#ffffff;}.neko_pt_style_2 .nk-focus-plan p.nk-sign a.btn:hover,.neko_pt_style_3 p.nk-sign a.btn:hover,.neko_pt_style_3 .nk-focus-plan p.nk-sign a.btn:hover,.neko_pt_style_5 p.nk-sign a.btn:hover,.neko_pt_style_5 .nk-focus-plan p.nk-sign a.btn:hover,.neko_pt_style_6 .nk-focus-plan p.nk-sign a.btn:hover,.neko_pt_style_6 p.nk-sign a.btn:hover,.neko_pt_style_7 .nk-focus-plan p.nk-sign a.btn:hover, .neko_pt_style_7 p.nk-sign a.btn:hover{background:#333333;color:#ffffff;}.neko_pt_style_3 .nk-focus-plan h2,.neko_pt_style_3 .nk-focus-plan p.nk-sign a.btn,.neko_pt_style_4 .nk-focus-plan h2,.neko_pt_style_5 .nk-focus-plan .nk-price h3,.neko_pt_style_5 .nk-focus-plan p.nk-sign a.btn,.neko_pt_style_6 .nk-focus-plan .nk-price h3,.neko_pt_style_7 .nk-focus-plan h2, .neko_pt_style_7 .nk-focus-plan .nk-price h3 {color:#77226c;}.neko_pt_style_4 .nk-focus-plan p.nk-sign a.btn {border-color:#77226c;}.neko_pt_style_3 .nk-focus-plan .nk-price:after {border-top-color:#77226c;}[class*="vc_custom_"] {border-color:#DDDDDD;}.neko-vc_box-icon a .neko-vc_box-icon-content {color:#333333;}.neko-vc_box-icon i:not(.default).medium.animated:hover:before,.neko-vc_box-icon i:not(.default).nk-hovered-icon.medium.animated:before,.neko-vc_box-icon i:not(.default).large.animated:hover:before,.neko-vc_box-icon i:not(.default).nk-hovered-icon.large.animated:before,.neko-vc_box-icon i:not(.default).x-large.animated:hover:before,.neko-vc_box-icon i:not(.default).nk-hovered-icon.x-large.animated:before,{color:#111111;text-shadow: 0 0 10px #ffffff;}.neko-vc_box-icon .nk-hovered-content,.neko-vc_box-icon .nk-hovered-content h2,.neko-vc_box-icon .nk-hovered-content h3,.neko-vc_box-icon .nk-hovered-content h4{color:#111111;}.neko-vc_box-icon i:not(.default).medium.animated:hover,.neko-vc_box-icon i:not(.default).nk-hovered-icon.medium.animated,.neko-vc_box-icon i:not(.default).large.animated:hover,.neko-vc_box-icon i:not(.default).nk-hovered-icon.large.animated,.neko-vc_box-icon i:not(.default).x-large.animated:hover,.neko-vc_box-icon i:not(.default).nk-hovered-icon.x-large.animated {background-color:#DDDDDD;}.neko-vc_box-image .nk-hovered-content, .neko-vc_box-image .nk-hovered-content h3 {color:#111111;}.neko-vc_box-image .neko-vc_box-image-wrapper:not(.default).medium.animated:hover,.neko-vc_box-image .neko-vc_box-image-wrapper:not(.default).nk-hovered-image.medium.animated,.neko-vc_box-image .neko-vc_box-image-wrapper:not(.default).large.animated:hover,.neko-vc_box-image .neko-vc_box-image-wrapper:not(.default).nk-hovered-image.large.animated,.neko-vc_box-image .neko-vc_box-image-wrapper:not(.default).x-large.animated:hover,.neko-vc_box-image .neko-vc_box-image-wrapper:not(.default).nk-hovered-image.x-large.animated {background-color:#DDDDDD;}.vc_tta-style-theme.vc_tta.vc_general.vc_tta-accordion .vc_tta-panel:not(.vc_active) .vc_tta-panel-title>a:hover,.vc_tta-style-theme.vc_tta.vc_general.vc_tta-accordion .vc_tta-panel.vc_active .vc_tta-panel-title>a {color:#77226c;}.vc_tta-style-theme.vc_tta.vc_general .vc_tta-tab>a:hover {background-color:#333333;color:#ffffff;}.vc_tta-style-theme.vc_tta.vc_general .vc_tta-tab.vc_active a,.vc_tta-style-theme.vc_tta.vc_general:not(.vc_tta-accordion) .vc_active .vc_tta-panel-title>a {background-color:#77226c;color:#ffffff;}.vc_tta-style-theme.vc_tta-tabs.vc_tta-tabs-position-left .vc_tta-panels-container,.vc_tta-style-theme.vc_tta.vc_general:not(.vc_tta-tabs-position-left) .vc_tta-panels-container{border-color:#DDDDDD;}.vc_tta-style-theme.vc_tta.vc_general.vc_tta-accordion .vc_tta-panel-heading,.vc_tta-style-theme.vc_tta.vc_general.vc_tta-accordion .vc_tta-panel-body {border-color:#DDDDDD;}.vc_tta-style-theme.vc_tta.vc_general .vc_tta-tab>a,.vc_tta-style-theme.vc_tta.vc_general:not(.vc_tta-accordion) .vc_tta-panel-title>a{color:#77226C;}.neko-vc_feature-box.neko-vc_media-left i.circle,.neko-vc_feature-box.neko-vc_media-left i.rounded,.neko-vc_feature-box.neko-vc_media-left i.squared{color:#77226C;border-color:#77226C;}.vc_progress_bar .vc_single_bar .vc_bar {background-color:#77226C;}.entry-content ul.neko-vc_list-icon-ul li i{color:#77226C;}a.vc_general.vc_btn3.vc_btn3-color-neko-btn-theme,button.vc_general.vc_btn3.vc_btn3-color-neko-btn-theme{background-color:#77226c;color:#ffffff;}a.vc_general.vc_btn3:hover,button.vc_general.vc_btn3:hover,a.vc_general.vc_btn3:focus,button.vc_general.vc_btn3:focus {background-color:#333333;color:#ffffff;}.border-grid .row .col-lg-1:not(:last-child),.border-grid .row .col-lg-10:not(:last-child),.border-grid .row .col-lg-11:not(:last-child),.border-grid .row .col-lg-12:not(:last-child),.border-grid .row .col-lg-2:not(:last-child),.neko-border-grid .row .col-lg-3:not(:last-child),.neko-border-grid .row .col-lg-4:not(:last-child),.neko-border-grid .row .col-lg-5:not(:last-child),.neko-border-grid .row .col-lg-6:not(:last-child),.neko-border-grid .row .col-lg-7:not(:last-child),.neko-border-grid .row .col-lg-8:not(:last-child),.neko-border-grid .row .col-lg-9:not(:last-child),.neko-border-grid .row .col-md-1:not(:last-child),.neko-border-grid .row .col-md-10:not(:last-child),.neko-border-grid .row .col-md-11:not(:last-child),.neko-border-grid .row .col-md-12:not(:last-child),.neko-border-grid .row .col-md-2:not(:last-child),.neko-border-grid .row .col-md-3:not(:last-child),.neko-border-grid .row .col-md-4:not(:last-child),.neko-border-grid .row .col-md-5:not(:last-child),.neko-border-grid .row .col-md-6:not(:last-child),.neko-border-grid .row .col-md-7:not(:last-child),.neko-border-grid .row .col-md-8:not(:last-child),.neko-border-grid .row .col-md-9:not(:last-child),.neko-border-grid .row .col-sm-1:not(:last-child),.neko-border-grid .row .col-sm-10:not(:last-child),.neko-border-grid .row .col-sm-11:not(:last-child),.neko-border-grid .row .col-sm-12:not(:last-child),.neko-border-grid .row .col-sm-2:not(:last-child),.neko-border-grid .row .col-sm-3:not(:last-child),.neko-border-grid .row .col-sm-4:not(:last-child),.neko-border-grid .row .col-sm-5:not(:last-child),.neko-border-grid .row .col-sm-6:not(:last-child),.neko-border-grid .row .col-sm-7:not(:last-child),.neko-border-grid .row .col-sm-8:not(:last-child),.neko-border-grid .row .col-sm-9:not(:last-child),.neko-border-grid .row .col-xs-1:not(:last-child),.neko-border-grid .row .col-xs-10:not(:last-child),.neko-border-grid .row .col-xs-11:not(:last-child),.neko-border-grid .row .col-xs-12:not(:last-child),.neko-border-grid .row .col-xs-2:not(:last-child),.neko-border-grid .row .col-xs-3:not(:last-child),.neko-border-grid .row .col-xs-4:not(:last-child),.neko-border-grid .row .col-xs-5:not(:last-child),.neko-border-grid .row .col-xs-6:not(:last-child),.neko-border-grid .row .col-xs-7:not(:last-child),.neko-border-grid .row .col-xs-8:not(:last-child),.neko-border-grid .row .col-xs-9:not(:last-child) {border-right-color:#DDDDDD;}.neko-border-grid .row:not(:last-child) .col-lg-1,.neko-border-grid .row:not(:last-child) .col-lg-10,.neko-border-grid .row:not(:last-child) .col-lg-11,.neko-border-grid .row:not(:last-child) .col-lg-12,.neko-border-grid .row:not(:last-child) .col-lg-2,.neko-border-grid .row:not(:last-child) .col-lg-3,.neko-border-grid .row:not(:last-child) .col-lg-4,.neko-border-grid .row:not(:last-child) .col-lg-5,.neko-border-grid .row:not(:last-child) .col-lg-6,.neko-border-grid .row:not(:last-child) .col-lg-7,.neko-border-grid .row:not(:last-child) .col-lg-8,.neko-border-grid .row:not(:last-child) .col-lg-9,.neko-border-grid .row:not(:last-child) .col-md-1,.neko-border-grid .row:not(:last-child) .col-md-10,.neko-border-grid .row:not(:last-child) .col-md-11,.neko-border-grid .row:not(:last-child) .col-md-12,.neko-border-grid .row:not(:last-child) .col-md-2,.neko-border-grid .row:not(:last-child) .col-md-3,.neko-border-grid .row:not(:last-child) .col-md-4,.neko-border-grid .row:not(:last-child) .col-md-5,.neko-border-grid .row:not(:last-child) .col-md-6,.neko-border-grid .row:not(:last-child) .col-md-7,.neko-border-grid .row:not(:last-child) .col-md-8,.neko-border-grid .row:not(:last-child) .col-md-9,.neko-border-grid .row:not(:last-child) .col-sm-1,.neko-border-grid .row:not(:last-child) .col-sm-10,.neko-border-grid .row:not(:last-child) .col-sm-11,.neko-border-grid .row:not(:last-child) .col-sm-12,.neko-border-grid .row:not(:last-child) .col-sm-2,.neko-border-grid .row:not(:last-child) .col-sm-3,.neko-border-grid .row:not(:last-child) .col-sm-4,.neko-border-grid .row:not(:last-child) .col-sm-5,.neko-border-grid .row:not(:last-child) .col-sm-6,.neko-border-grid .row:not(:last-child) .col-sm-7,.neko-border-grid .row:not(:last-child) .col-sm-8,.neko-border-grid .row:not(:last-child) .col-sm-9,.neko-border-grid .row:not(:last-child) .col-xs-1,.neko-border-grid .row:not(:last-child) .col-xs-10,.neko-border-grid .row:not(:last-child) .col-xs-11,.neko-border-grid .row:not(:last-child) .col-xs-12,.neko-border-grid .row:not(:last-child) .col-xs-2,.neko-border-grid .row:not(:last-child) .col-xs-3,.neko-border-grid .row:not(:last-child) .col-xs-4,.neko-border-grid .row:not(:last-child) .col-xs-5,.neko-border-grid .row:not(:last-child) .col-xs-6,.neko-border-grid .row:not(:last-child) .col-xs-7,.neko-border-grid .row:not(:last-child) .col-xs-8,.neko-border-grid .row:not(:last-child) .col-xs-9 {border-bottom-color:#DDDDDD;}</style>
+			<!--option styles-->
+			<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://duem.org/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.2.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://duem.org/wp-content/uploads/2016/08/cropped-duem-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://duem.org/wp-content/uploads/2016/08/cropped-duem-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://duem.org/wp-content/uploads/2016/08/cropped-duem-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="http://duem.org/wp-content/uploads/2016/08/cropped-duem-logo-270x270.png" />
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1468596398328{padding-top: 80px !important;padding-bottom: 80px !important;}.vc_custom_1468596403823{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f7f7f7 !important;}.vc_custom_1468596408929{padding-top: 80px !important;padding-bottom: 80px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-82943204-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<meta name="google-site-verification" content="vH3FovMzpgw_A2oz2Ko8fm1-Bso9k15Tt1seLgEInZQ" />
+<link rel='stylesheet' id='mpc-massive-slick-css-css'  href='http://duem.org/wp-content/plugins/mpc-massive/assets/css/libs/slick.min.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mpc-massive-magnific-popup-css-css'  href='http://duem.org/wp-content/plugins/mpc-massive/assets/css/libs/magnific-popup.min.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='lshowcase-main-style-css'  href='http://duem.org/wp-content/plugins/logos-showcase/styles.css?ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mpc-typography-presets-css'  href='http://fonts.googleapis.com/css?family=Muli%3Aregular&#038;latin&#038;ver=4.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mpc_icons_font-eti-css'  href='http://duem.org/wp-content/plugins/mpc-massive/assets/fonts/eti/eti.min.css?ver=2.1' type='text/css' media='all' />
+</head>
+
+<body class="home page-template-default page page-id-5 custom-background group-blog nk-fixed-menu nk-fixed-menu-animate header-opaque nk-header-layout-1 nk-header-style-5 no-page-header wpb-js-composer js-comp-ver-5.4.3 vc_responsive" > 
+
+	
+
+		<div id="global-wrapper">	
+
+			
+			<header class="nk-fixed-top" id="mainHeader">
+
+				
+					<div class="container">
+
+
+
+						<nav class="nk-navbar-default clearfix">
+
+							<div class="nk-navbar-header">
+								<!-- Logo -->
+								<a href="http://duem.org" title="DUEM" class="nk-brand">
+									<span>DUEM</span>
+								</a>
+							</div>
+
+							
+								<input type="checkbox" name="nk-navbar-toggle" id="nk-navbar-toggle" />
+								<label for="nk-navbar-toggle" class="nk-hamburger nk-hamburger--htx"><span></span></label>
+
+
+
+								<!-- <div class="collapse navbar-collapse navbar-right"> -->
+								<div class="nk-navbar-collapse">
+
+									<!-- Social bar -->
+									 
+
+										<ul class="social-network-bar  "><li><a href="http://www.twitter.com/DUEM_Electric" class="tips socialIcon-twitter" target="_blank" title="twitter" data-placement="bottom"> <i class="neko-social-icon-twitter-1 icon-rounded "></i></a></li><li><a href="http://www.facebook.com/DUEM.Electric" class="tips socialIcon-facebook" target="_blank" title="facebook" data-placement="bottom"> <i class="neko-social-icon-facebook-1 icon-rounded "></i></a></li><li><a href="https://www.instagram.com/DUEM_electric.motorsport/" class="tips socialIcon-Instagram" target="_blank" title="Instagram" data-placement="bottom"> <i class="neko-social-icon-instagram-2 icon-rounded "></i></a></li></ul>
+																				<!-- End Social bar -->	
+
+										<!-- Main navigation -->
+										<div id="nk-main-menu" class="menu-main-menu-container"><ul id="menu-main-menu" class="nk-navbar menu"><li id="menu-item-3994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3994"><a href="http://duem.org/about-us/">About Us</a></li>
+<li id="menu-item-4939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4939"><a href="#">Projects</a>
+<ul  class="sub-menu">
+	<li id="menu-item-4027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4027"><a href="http://duem.org/the-solar-car-dusc2015/">The Solar Car: DUSC2015</a></li>
+	<li id="menu-item-4026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4026"><a href="http://duem.org/our-heritage/">Our Heritage</a></li>
+</ul>
+</li>
+<li id="menu-item-4940" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4940"><a href="#">Support Us</a>
+<ul  class="sub-menu">
+	<li id="menu-item-4012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4012"><a href="http://duem.org/current-sponsors/">Current Sponsors</a></li>
+	<li id="menu-item-4011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4011"><a href="http://duem.org/become-a-sponsor/">Become a Sponsor</a></li>
+	<li id="menu-item-5478" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5478"><a target="_blank" rel="nofollow" href="http://www.dunelm.org.uk/donate/DUEM">Donate</a></li>
+</ul>
+</li>
+<li id="menu-item-5579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5579"><a href="http://duem.org/blog/">Blog</a></li>
+<li id="menu-item-4938" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4938"><a href="#">Events</a>
+<ul  class="sub-menu">
+	<li id="menu-item-4021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4021"><a href="http://duem.org/publicity/">Publicity</a></li>
+	<li id="menu-item-4022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4022"><a href="http://duem.org/outreach/">Outreach</a></li>
+</ul>
+</li>
+<li id="menu-item-6200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6200"><a href="#">Media</a>
+<ul  class="sub-menu">
+	<li id="menu-item-3998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3998"><a href="http://duem.org/gallery/">Gallery</a></li>
+	<li id="menu-item-6198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6198"><a href="http://duem.org/gallery/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-3995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3995"><a href="http://duem.org/contact-us/">Contact Us</a></li>
+</ul></div>											<!-- End main navigation -->
+										</div>
+																	</nav>
+
+
+							</div>
+						</header>
+						<!-- content -->
+
+
+
+<main id="content" class="site-content ">
+
+
+	<div id="primary" class="content-area">
+   
+		
+
+
+
+
+
+
+
+
+		
+
+        
+                       <article id="post-5" class="clearfix post-5 page type-page status-publish hentry">
+	
+			
+	<!-- entry content -->
+	<div class="entry-content">
+		<section class="wpb_row mpc-row mpc-animation" data-row-id="mpc_row-755a0e1fd9ba5a2" data-animation-in="transition.fadeIn||300||0||100"><div class="container neko-container">
+		<div class="vc_row ">
+		<div class="wpb_column vc_column_container vc_col-sm-12 mpc-column" data-column-id="mpc_column-375a0e1fd9ba040"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element"><link href="http://fonts.googleapis.com/css?family=Raleway%3A400%2C500%2C600%2C100" rel="stylesheet" property="stylesheet" type="text/css" media="all"><link href="http://fonts.googleapis.com/css?family=Muli%3A400%2C300italic" rel="stylesheet" property="stylesheet" type="text/css" media="all"><div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.2.6 fullwidth mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.2.6">
+<ul><!-- SLIDE  --><li data-index="rs-26" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-link="https://www.indiegogo.com/projects/durham-races-the-sun-in-australia-solar-innovation/a1c0/14422277" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://duem.org/wp-content/uploads/2017/08/Crowdfunding-Website.png" alt="Crowdfunding Link DUEM Indiegogo" title="Crowdfunding Link DUEM Indiegogo" width="1674" height="1174" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina><!-- LAYERS --></li>
+	<!-- SLIDE  -->
+	<li data-index="rs-24" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-link="http://duem.org/blog/duem-returns-goodwood/ " data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://duem.org/wp-content/uploads/2017/06/Goodwood-announcement.png" alt="Goodwood Announcement 2017" title="Goodwood announcement" width="2164" height="1176" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina><!-- LAYERS --></li>
+	<!-- SLIDE  -->
+	<li data-index="rs-25" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://duem.org/wp-content/uploads/2017/05/Croft-Thumbnail.png" alt="Croft Test DUEM Logo" title="Croft Thumbnail" width="1676" height="1184" data-bgposition="center center" data-bgfit="cover" class="rev-slidebg" data-no-retina><!-- LAYERS --><!-- BACKGROUND VIDEO LAYER --><div class="rs-background-video-layer" data-forcerewind="on" data-volume="mute" data-videowidth="100%" data-videoheight="100%" data-videomp4="http://duem.org/wp-content/uploads/2017/05/DUEM-Croft-Test-Preview.mp4" data-videopreload="auto" data-videoloop="none" data-forcecover="1" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-22" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://duem.org/wp-content/uploads/2017/01/15-years-of-innovation.png" alt="15 years of innovation" title="15 years of innovation" width="1678" height="1188" data-bgposition="center center" data-bgfit="cover" class="rev-slidebg" data-no-retina><!-- LAYERS --><!-- BACKGROUND VIDEO LAYER --><div class="rs-background-video-layer" data-forcerewind="on" data-volume="mute" data-ytid="WddOgEBhLss" data-videoattributes="version=3&amp;enablejsapi=1&amp;html5=1&amp;hd=1&amp;wmode=opaque&amp;showinfo=0&amp;rel=0;;origin=http://www.duem.org;" data-videorate="1" data-videowidth="100%" data-videoheight="100%" data-videocontrols="none" data-videoloop="none" data-forcecover="1" data-aspectratio="16:9" data-autoplay="true" data-autoplayonlyfirsttime="false" data-nextslideatend="true"></div>	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-1" data-transition="random-premium" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-rotate="0" data-saveperformance="off" data-title="Intro" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://duem.org/wp-content/uploads/2016/07/duem-slideshow-01.jpg" alt="DUEM Slideshow" title="duem-slideshow-01" width="1900" height="768" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina><!-- LAYERS --><!-- LAYER NR. 1 --><h1 class="tp-caption   tp-resizeme" id="slide-1-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','middle','middle']" data-voffset="['330','330','-25','-193']" data-fontsize="['55','55','40','65']" data-lineheight="['22','22','22','65']" data-width="['none','none','none','597']" data-height="['none','none','none','121']" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; font-size: 55px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Muli;"><center> Durham University Electric Motorsport </center> </h1>
+
+		<!-- LAYER NR. 2 -->
+		<a class="tp-caption   tp-resizeme" href="http://duem.org/the-solar-car-dusc2015/" target="_self" id="slide-1-layer-2" data-x="['center','center','center','center']" data-hoffset="['-220','-220','-166','0']" data-y="['middle','middle','middle','middle']" data-voffset="['65','65','52','49']" data-fontsize="['40','40','30','50']" data-lineheight="['22','22','22','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:0;e:Power4.easeIn;" data-style_hover="c:rgba(119, 34, 108, 1.00);br:0px 0px 0px 0px;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="1000" data-splitin="none" data-splitout="none" data-actions="" data-responsive_offset="on" style="z-index: 6; white-space: nowrap; font-size: 40px; line-height: 22px; font-weight: 300; color: rgba(255, 255, 255, 1.00);font-family:Muli;font-style:italic;cursor:default;">Showcase </a>
+
+		<!-- LAYER NR. 3 -->
+		<a class="tp-caption   tp-resizeme" href="http://duem.org/publicity%20" target="_self" id="slide-1-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['65','65','52','157']" data-fontsize="['40','40','30','50']" data-lineheight="['22','22','22','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:0;e:Linear.easeNone;" data-style_hover="c:rgba(119, 34, 108, 1.00);br:0px 0px 0px 0px;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="2000" data-splitin="none" data-splitout="none" data-actions="" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-size: 40px; line-height: 22px; font-weight: 300; color: rgba(255, 255, 255, 1.00);font-family:Muli;font-style:italic;cursor:default;">Educate </a>
+
+		<!-- LAYER NR. 4 -->
+		<a class="tp-caption   tp-resizeme" href="http://duem.org/outreach" target="_self" id="slide-1-layer-4" data-x="['center','center','center','center']" data-hoffset="['195','195','141','0']" data-y="['middle','middle','middle','middle']" data-voffset="['65','65','52','253']" data-fontsize="['40','40','30','50']" data-lineheight="['22','22','22','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:0;e:Linear.easeNone;" data-style_hover="c:rgba(119, 34, 108, 1.00);br:0px 0px 0px 0px;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="3000" data-splitin="none" data-splitout="none" data-actions="" data-responsive_offset="on" style="z-index: 8; white-space: nowrap; font-size: 40px; line-height: 22px; font-weight: 300; color: rgba(255, 255, 255, 1.00);font-family:Muli;font-style:italic;cursor:default;"><div class="rs-untoggled-content">Inspire </div><div class="rs-toggled-content"></div></a>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-18" data-transition="random-premium" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="default" data-rotate="0" data-saveperformance="off" data-title="Intro" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://duem.org/wp-content/uploads/2016/07/duem-slideshow-02.jpg" alt="DUEM Slideshow 02" title="DUEM-slideshow-02" width="1900" height="768" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina><!-- LAYERS --><!-- LAYER NR. 1 --><h1 class="tp-caption   tp-resizeme" id="slide-18-layer-1" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['top','top','middle','middle']" data-voffset="['330','330','-25','-193']" data-fontsize="['55','55','40','65']" data-lineheight="['22','22','22','65']" data-width="['none','none','none','597']" data-height="['none','none','none','121']" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-transform_idle="o:1;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="500" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; font-size: 55px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:Muli;"><center> Durham University Electric Motorsport </center> </h1>
+
+		<!-- LAYER NR. 2 -->
+		<a class="tp-caption   tp-resizeme" href="http://duem.org/the-solar-car-dusc2015/" target="_self" id="slide-18-layer-2" data-x="['center','center','center','center']" data-hoffset="['-220','-220','-166','0']" data-y="['middle','middle','middle','middle']" data-voffset="['65','65','52','49']" data-fontsize="['40','40','30','50']" data-lineheight="['22','22','22','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:0;e:Power4.easeIn;" data-style_hover="c:rgba(119, 34, 108, 1.00);br:0px 0px 0px 0px;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="1000" data-splitin="none" data-splitout="none" data-actions="" data-responsive_offset="on" style="z-index: 6; white-space: nowrap; font-size: 40px; line-height: 22px; font-weight: 300; color: rgba(255, 255, 255, 1.00);font-family:Muli;font-style:italic;cursor:default;">Showcase </a>
+
+		<!-- LAYER NR. 3 -->
+		<a class="tp-caption   tp-resizeme" href="http://duem.org/publicity%20" target="_self" id="slide-18-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['65','65','52','157']" data-fontsize="['40','40','30','50']" data-lineheight="['22','22','22','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:0;e:Linear.easeNone;" data-style_hover="c:rgba(119, 34, 108, 1.00);br:0px 0px 0px 0px;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="2000" data-splitin="none" data-splitout="none" data-actions="" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-size: 40px; line-height: 22px; font-weight: 300; color: rgba(255, 255, 255, 1.00);font-family:Muli;font-style:italic;cursor:default;">Educate </a>
+
+		<!-- LAYER NR. 4 -->
+		<a class="tp-caption   tp-resizeme" href="http://duem.org/outreach" target="_self" id="slide-18-layer-4" data-x="['center','center','center','center']" data-hoffset="['195','195','141','0']" data-y="['middle','middle','middle','middle']" data-voffset="['65','65','52','253']" data-fontsize="['40','40','30','50']" data-lineheight="['22','22','22','50']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:0;e:Linear.easeNone;" data-style_hover="c:rgba(119, 34, 108, 1.00);br:0px 0px 0px 0px;" data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" data-transform_out="opacity:0;s:300;" data-start="3000" data-splitin="none" data-splitout="none" data-actions="" data-responsive_offset="on" style="z-index: 8; white-space: nowrap; font-size: 40px; line-height: 22px; font-weight: 300; color: rgba(255, 255, 255, 1.00);font-family:Muli;font-style:italic;cursor:default;"><div class="rs-untoggled-content">Inspire </div><div class="rs-toggled-content"></div></a>
+	</li>
+</ul><div style="" class="tp-static-layers">
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption -   tp-static-layer" id="slider-1-layer-1" data-x="['right','right','right','right']" data-hoffset="['30','30','30','30']" data-y="['top','top','top','top']" data-voffset="['30','30','30','30']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="opacity:0;s:1000;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;" data-start="500" data-splitin="none" data-splitout="none" data-actions='[{"event":"click","action":"toggleclass","layer":"slider-1-layer-1","delay":"0","classname":"open"},{"event":"click","action":"togglelayer","layerstatus":"hidden","layer":"slider-1-layer-3","delay":"0"},{"event":"click","action":"togglelayer","layerstatus":"hidden","layer":"slider-1-layer-4","delay":"0"},{"event":"click","action":"togglelayer","layerstatus":"hidden","layer":"slider-1-layer-5","delay":"0"},{"event":"click","action":"togglelayer","layerstatus":"hidden","layer":"slider-1-layer-6","delay":"0"}]' data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-startslide="0" data-endslide="5" style="z-index: 5; white-space: nowrap; font-size: 20px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);text-transform:left;"><div id="rev-burger">
+  <span></span>
+  <span></span>
+  <span></span>
+</div> </div>
+</div>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script><script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_1_1');
+					e.responsiveLevels = [1240,1024,778,480];
+					e.gridwidth = [1400,1024,778,800];
+					e.gridheight = [768,768,300,900];
+							
+					e.sliderLayout = "fullwidth";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};
+			
+			setREVStartSize();
+			
+						var tpj=jQuery;
+			
+			var revapi1;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_1_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_1_1");
+				}else{
+					revapi1 = tpj("#rev_slider_1_1").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//duem.org/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"fullwidth",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardNavigation:"on",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+							onHoverStop:"off",
+							touch:{
+								touchenabled:"on",
+								swipe_threshold: 75,
+								swipe_min_touches: 50,
+								swipe_direction: "horizontal",
+								drag_block_vertical: false
+							}
+						},
+						responsiveLevels:[1240,1024,778,480],
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:[1400,1024,778,800],
+						gridheight:[768,768,300,900],
+						lazyType:"none",
+						shadow:0,
+						spinner:"spinner2",
+						stopLoop:"off",
+						stopAfterLoops:-1,
+						stopAtSlide:-1,
+						shuffle:"off",
+						autoHeight:"off",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"off",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:0,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script><script>
+					var htmlDivCss = ' #rev_slider_1_1_wrapper .tp-loader.spinner2{ background-color: #FFFFFF !important; } ';
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+					</script></div><!-- END REVOLUTION SLIDER --></div></div></div></div>		</div>
+	</div>
+</section><section class="wpb_row  vc_custom_1468596398328 mpc-row"><div class="container neko-container">
+		<div class="vc_row ">
+		<div class="wpb_column vc_column_container vc_col-sm-6 mpc-column" data-column-id="mpc_column-15a0e1fd9bb9ea"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure"><div class="vc_single_image-wrapper   vc_box_border_grey"><img width="548" height="526" src="http://duem.org/wp-content/uploads/2015/09/duem-logo-large.png" class="vc_single_image-img attachment-full" alt="DUEM Logo" srcset="http://duem.org/wp-content/uploads/2015/09/duem-logo-large.png 548w, http://duem.org/wp-content/uploads/2015/09/duem-logo-large-300x288.png 300w, http://duem.org/wp-content/uploads/2015/09/duem-logo-large-368x353.png 368w, http://duem.org/wp-content/uploads/2015/09/duem-logo-large-270x259.png 270w" sizes="(max-width: 548px) 100vw, 548px"></div>
+		</figure></div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 mpc-column" data-column-id="mpc_column-35a0e1fd9bc097"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h1>About Us</h1>
+<p>Durham University Electric Motorsport (DUEM) are the UK&rsquo;s longest running solar car team. Founded in 2002, we have always pushed the boundaries of technological innovation to the limit. The 50-strong team is entirely run and led by students outside of academically rigorous degrees, all of whom are incredibly future focused.</p>
+<p>We believe that inclusion inspires innovation and have always had students from a diverse academic background, at both undergraduate and postgraduate level: from engineering, to physics, history, mathematics, biology, economics, modern languages, marketing and more.</p>
+<p>This website gives you an insight into our past and a glimpse into our future; a future in which we continue to build upon our strong heritage and continue to showcase, educate and inspire.</p>
+<p class="duem-part" style="text-align: center;"><a href="http://www.duem.org/about-us/">We hope you will be a part of it</a></p>
+
+		</div>
+	</div>
+</div></div></div>		</div>
+	</div>
+</section><section class="wpb_row  vc_custom_1468596403823 mpc-row"><div class="container neko-container">
+		<div class="vc_row ">
+		<div class="wpb_column vc_column_container vc_col-sm-4 mpc-column" data-column-id="mpc_column-955a0e1fd9c32bc"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  duem-sub-head">
+		<div class="wpb_wrapper">
+			<p>Blog</p>
+
+		</div>
+	</div>
+<div class="mpc-carousel__wrapper mpc-waypoint"><div id="mpc_carousel_posts-895a0e1fd9bd724" class="mpc-carousel-posts mpc-init mpc-init mpc-transition mpc-overlay--fade mpc-item--fade mpc-layout--style_3  " data-mpcslick='{"infinite":false,"autoplay":false,"slidesToShow":1,"slidesToScroll":1,"centerMode":false,"initialSlide":0}' data-slick-cols="1"><div onclick="" class="mpc-post"><div class="mpc-post__wrapper"><div class="mpc-post__thumbnail" style="background-image: url(http://duem.org/wp-content/uploads/2016/07/durham-university-logo.svg);"></div><div class="mpc-post__overlay mpc-transition"><div class="mpc-post--vertical-wrap"><div class="mpc-post--vertical"><a href="http://duem.org/wp-content/uploads/2016/07/durham-university-logo.svg" title="Thank you to Durham University" class="mpc-lightbox mpc-icon-anchor mpc-magnific-popup"><i class="mpc-post-overlay__icon mpc-type--lightbox eti eti_search"></i></a><a href="http://duem.org/blog/thank-durham-university/" title="Read more about Thank you to Durham University" class="mpc-icon-anchor"><i class="mpc-post-overlay__icon mpc-type--readmore eti eti_arrow_carrot-right"></i></a></div></div></div><div class="mpc-post__content mpc-transition"><span class="mpc-post__date mpc-date__wrapper"><a href="http://duem.org/blog/2017/10/19/"><div class="mpc-date__days">19</div><div class="mpc-date__month">Oct</div></a></span><div class="mpc-wrapper"><h3 class="mpc-post__heading mpc-transition mpc-typography--preset_0 mpc-text-overflow"><a href="http://duem.org/blog/thank-durham-university/" title="Thank you to Durham University">Thank you to Durham University</a></h3></div><div class="mpc-post__description">&nbsp; Our participation in the challenge simply would not be possible without the facilities, staff and numerous other benefits being at Durham provides. Being students at the University is a huge privilege for all of the team and we are delighted to be representing this prestigious establishment on the global stage. It really encompasses not</div><a href="http://duem.org/blog/thank-durham-university/" target="" title="Thank you to Durham University" class="mpc-button mpc-init mpc-transition "><div class="mpc-button__content mpc-effect-type--none mpc-effect-side--none"><span class="mpc-button__title mpc-transition">Read More</span></div><div class="mpc-button__background mpc-transition mpc-effect-type--fade mpc-effect-side--in"></div></a></div></div></div><div onclick="" class="mpc-post"><div class="mpc-post__wrapper"><div class="mpc-post__thumbnail mpc-image-placeholder"></div><div class="mpc-post__overlay mpc-transition"><div class="mpc-post--vertical-wrap"><div class="mpc-post--vertical"><a href="" title="Thank you to Climb Online" class="mpc-lightbox mpc-icon-anchor mpc-magnific-popup"><i class="mpc-post-overlay__icon mpc-type--lightbox eti eti_search"></i></a><a href="http://duem.org/blog/thank-climb-online/" title="Read more about Thank you to Climb Online" class="mpc-icon-anchor"><i class="mpc-post-overlay__icon mpc-type--readmore eti eti_arrow_carrot-right"></i></a></div></div></div><div class="mpc-post__content mpc-transition"><span class="mpc-post__date mpc-date__wrapper"><a href="http://duem.org/blog/2017/10/18/"><div class="mpc-date__days">18</div><div class="mpc-date__month">Oct</div></a></span><div class="mpc-wrapper"><h3 class="mpc-post__heading mpc-transition mpc-typography--preset_0 mpc-text-overflow"><a href="http://duem.org/blog/thank-climb-online/" title="Thank you to Climb Online">Thank you to Climb Online</a></h3></div><div class="mpc-post__description">To have Lord Sugar&rsquo;s digital marketing agency sponsor the project is incredible for the team. Founded in 2015, just after Mark Wright won the 2014/15 series of The Apprentice, this company specialise in Search Engine Optimisation, Paid Search, Social Media and website design and building. They were the perfect company to turn to for support</div><a href="http://duem.org/blog/thank-climb-online/" target="" title="Thank you to Climb Online" class="mpc-button mpc-init mpc-transition "><div class="mpc-button__content mpc-effect-type--none mpc-effect-side--none"><span class="mpc-button__title mpc-transition">Read More</span></div><div class="mpc-button__background mpc-transition mpc-effect-type--fade mpc-effect-side--in"></div></a></div></div></div><div onclick="" class="mpc-post"><div class="mpc-post__wrapper"><div class="mpc-post__thumbnail mpc-image-placeholder"></div><div class="mpc-post__overlay mpc-transition"><div class="mpc-post--vertical-wrap"><div class="mpc-post--vertical"><a href="" title="Thank you to Sevcon!" class="mpc-lightbox mpc-icon-anchor mpc-magnific-popup"><i class="mpc-post-overlay__icon mpc-type--lightbox eti eti_search"></i></a><a href="http://duem.org/blog/thank-you-to-sevcon/" title="Read more about Thank you to Sevcon!" class="mpc-icon-anchor"><i class="mpc-post-overlay__icon mpc-type--readmore eti eti_arrow_carrot-right"></i></a></div></div></div><div class="mpc-post__content mpc-transition"><span class="mpc-post__date mpc-date__wrapper"><a href="http://duem.org/blog/2017/10/17/"><div class="mpc-date__days">17</div><div class="mpc-date__month">Oct</div></a></span><div class="mpc-wrapper"><h3 class="mpc-post__heading mpc-transition mpc-typography--preset_0 mpc-text-overflow"><a href="http://duem.org/blog/thank-you-to-sevcon/" title="Thank you to Sevcon!">Thank you to Sevcon!</a></h3></div><div class="mpc-post__description">One of the advantages of being located in the North East are the fantastic local industries, innovating in a variety of sectors. One of these is Sevcon. Based in Gateshead, about 20 minutes from Durham, the team there have worked closely with DUEM and supported the project with both technical and material support for our</div><a href="http://duem.org/blog/thank-you-to-sevcon/" target="" title="Thank you to Sevcon!" class="mpc-button mpc-init mpc-transition "><div class="mpc-button__content mpc-effect-type--none mpc-effect-side--none"><span class="mpc-button__title mpc-transition">Read More</span></div><div class="mpc-button__background mpc-transition mpc-effect-type--fade mpc-effect-side--in"></div></a></div></div></div><div onclick="" class="mpc-post"><div class="mpc-post__wrapper"><div class="mpc-post__thumbnail" style="background-image: url(http://duem.org/wp-content/uploads/2016/07/evonik-industires.jpg);"></div><div class="mpc-post__overlay mpc-transition"><div class="mpc-post--vertical-wrap"><div class="mpc-post--vertical"><a href="http://duem.org/wp-content/uploads/2016/07/evonik-industires.jpg" title="Thank you to Evonik" class="mpc-lightbox mpc-icon-anchor mpc-magnific-popup"><i class="mpc-post-overlay__icon mpc-type--lightbox eti eti_search"></i></a><a href="http://duem.org/blog/thank-you-to-evonik/" title="Read more about Thank you to Evonik" class="mpc-icon-anchor"><i class="mpc-post-overlay__icon mpc-type--readmore eti eti_arrow_carrot-right"></i></a></div></div></div><div class="mpc-post__content mpc-transition"><span class="mpc-post__date mpc-date__wrapper"><a href="http://duem.org/blog/2017/10/16/"><div class="mpc-date__days">16</div><div class="mpc-date__month">Oct</div></a></span><div class="mpc-wrapper"><h3 class="mpc-post__heading mpc-transition mpc-typography--preset_0 mpc-text-overflow"><a href="http://duem.org/blog/thank-you-to-evonik/" title="Thank you to Evonik">Thank you to Evonik</a></h3></div><div class="mpc-post__description">Rohacell is an innovative material produced by the team at Evonik that has enabled us to make our latest solar car, DUSC, incredibly strong and lightweight. It forms a core between the carbon-fibre sheets to increase stiffness whilst maintaining a sleek, aerodynamic and, above all, light design. Without them sponsoring us we simply could not</div><a href="http://duem.org/blog/thank-you-to-evonik/" target="" title="Thank you to Evonik" class="mpc-button mpc-init mpc-transition "><div class="mpc-button__content mpc-effect-type--none mpc-effect-side--none"><span class="mpc-button__title mpc-transition">Read More</span></div><div class="mpc-button__background mpc-transition mpc-effect-type--fade mpc-effect-side--in"></div></a></div></div></div><div onclick="" class="mpc-post"><div class="mpc-post__wrapper"><div class="mpc-post__thumbnail" style="background-image: url(http://duem.org/wp-content/uploads/2017/07/kensington-Capital.png);"></div><div class="mpc-post__overlay mpc-transition"><div class="mpc-post--vertical-wrap"><div class="mpc-post--vertical"><a href="http://duem.org/wp-content/uploads/2017/07/kensington-Capital.png" title="Thank you Kensington Capital" class="mpc-lightbox mpc-icon-anchor mpc-magnific-popup"><i class="mpc-post-overlay__icon mpc-type--lightbox eti eti_search"></i></a><a href="http://duem.org/blog/thank-kensington-capital/" title="Read more about Thank you Kensington Capital" class="mpc-icon-anchor"><i class="mpc-post-overlay__icon mpc-type--readmore eti eti_arrow_carrot-right"></i></a></div></div></div><div class="mpc-post__content mpc-transition"><span class="mpc-post__date mpc-date__wrapper"><a href="http://duem.org/blog/2017/10/15/"><div class="mpc-date__days">15</div><div class="mpc-date__month">Oct</div></a></span><div class="mpc-wrapper"><h3 class="mpc-post__heading mpc-transition mpc-typography--preset_0 mpc-text-overflow"><a href="http://duem.org/blog/thank-kensington-capital/" title="Thank you Kensington Capital">Thank you Kensington Capital</a></h3></div><div class="mpc-post__description">Kensington Capital are business angels who invest in innovative startups which have a high growth potential and which are run by young entrepreneurs who have a vision and leadership aimed at creating value. They also give support to projects that develop new technologies in energy, transport, commerce, communications and climate. We are delighted that they</div><a href="http://duem.org/blog/thank-kensington-capital/" target="" title="Thank you Kensington Capital" class="mpc-button mpc-init mpc-transition "><div class="mpc-button__content mpc-effect-type--none mpc-effect-side--none"><span class="mpc-button__title mpc-transition">Read More</span></div><div class="mpc-button__background mpc-transition mpc-effect-type--fade mpc-effect-side--in"></div></a></div></div></div><div onclick="" class="mpc-post"><div class="mpc-post__wrapper"><div class="mpc-post__thumbnail" style="background-image: url(http://duem.org/wp-content/uploads/2016/07/gh-city-print-logo.svg);"></div><div class="mpc-post__overlay mpc-transition"><div class="mpc-post--vertical-wrap"><div class="mpc-post--vertical"><a href="http://duem.org/wp-content/uploads/2016/07/gh-city-print-logo.svg" title="Thank you to GH Cityprint!" class="mpc-lightbox mpc-icon-anchor mpc-magnific-popup"><i class="mpc-post-overlay__icon mpc-type--lightbox eti eti_search"></i></a><a href="http://duem.org/blog/thank-gh-cityprint/" title="Read more about Thank you to GH Cityprint!" class="mpc-icon-anchor"><i class="mpc-post-overlay__icon mpc-type--readmore eti eti_arrow_carrot-right"></i></a></div></div></div><div class="mpc-post__content mpc-transition"><span class="mpc-post__date mpc-date__wrapper"><a href="http://duem.org/blog/2017/10/14/"><div class="mpc-date__days">14</div><div class="mpc-date__month">Oct</div></a></span><div class="mpc-wrapper"><h3 class="mpc-post__heading mpc-transition mpc-typography--preset_0 mpc-text-overflow"><a href="http://duem.org/blog/thank-gh-cityprint/" title="Thank you to GH Cityprint!">Thank you to GH Cityprint!</a></h3></div><div class="mpc-post__description">We met the team at GH Cityprint at an exhibition of the world-famous Bloodhound Land Speed record car 2 years ago in London. Since then we have had an incredible relationship with this leading London-based print company. Tony Bailey and his team work tirelessly to deliver unbelievably quality products to the team in record time</div><a href="http://duem.org/blog/thank-gh-cityprint/" target="" title="Thank you to GH Cityprint!" class="mpc-button mpc-init mpc-transition "><div class="mpc-button__content mpc-effect-type--none mpc-effect-side--none"><span class="mpc-button__title mpc-transition">Read More</span></div><div class="mpc-button__background mpc-transition mpc-effect-type--fade mpc-effect-side--in"></div></a></div></div></div></div><div class="mpc-navigation mpc-init mpc-align--left mpc-navigation--style_1  mpc-nav-preset--" data-slider="mpc_carousel_posts-895a0e1fd9bd724"><div class="mpc-nav__arrow mpcslick-prev"><div class="mpc-nav__icon mpc-transition"><i class=""><div class="mpc-nav__background mpc-transition mpc-effect-type--fade mpc-effect-side--in"></div></i></div></div><div class="mpc-nav__arrow mpcslick-next"><div class="mpc-nav__icon mpc-transition"><i class=""><div class="mpc-nav__background mpc-transition mpc-effect-type--fade mpc-effect-side--in"></div></i></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 mpc-column" data-column-id="mpc_column-95a0e1fda66d98"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  duem-sub-head">
+		<div class="wpb_wrapper">
+			<p>Twitter</p>
+
+		</div>
+	</div>
+<div class="wpb_widgetised_column wpb_content_element">
+		<div class="wpb_wrapper">
+			
+			<aside id="goodoldtwitterwidget-3" class="widget widget_goodoldtwitterwidget"><ul class="good_old_twitter_widget"><li>RT <a href="http://twitter.com/AndyHarston" class="twitter-user">@AndyHarston</a>: Thrill of a lifetime to be raced around Brooklands by new honorary <a href="http://twitter.com/durham_uni" class="twitter-user">@durham_uni</a> <a href="http://twitter.com/DUEM_Electric" class="twitter-user">@DUEM_Electric</a> Crew Member, the cham&hellip; <a href="https://t.co/qwRISKtvlI" class="twitter-link">https://t.co/qwRISKtvlI</a><span class="gotw_comma">,</span> <span class="twitter-timestamp" title="2017/11/16 17:51">6 hours ago</span></li><li>RT <a href="http://twitter.com/solarimpulse" class="twitter-user">@solarimpulse</a>: <a href="http://twitter.com/#!/search?q=%231000solutions" class="twitter-link">#1000solutions</a> that protect the environment in a profitable way - the countdown has begun! &#127757;&#9654;&#65039;&hellip; <a href="https://t.co/kUERkTxLqH" class="twitter-link">https://t.co/kUERkTxLqH</a><span class="gotw_comma">,</span> <span class="twitter-timestamp" title="2017/11/15 13:09">Nov 15</span></li><li>RT <a href="http://twitter.com/bertrandpiccard" class="twitter-user">@bertrandpiccard</a>: The launch of the World Alliance by <a href="http://twitter.com/solarimpulse" class="twitter-user">@solarimpulse</a> was not only about <a href="http://twitter.com/#!/search?q=%23cleantech" class="twitter-link">#cleantech</a> but also about emotions and hope fo&hellip; <a href="https://t.co/PCSdaVeKXX" class="twitter-link">https://t.co/PCSdaVeKXX</a><span class="gotw_comma">,</span> <span class="twitter-timestamp" title="2017/11/15 13:09">Nov 15</span></li><li>It&rsquo;s the final countdown to <a href="http://twitter.com/#!/search?q=%23cop24" class="twitter-link">#cop24</a> now for us!! <a href="http://twitter.com/#!/search?q=%23cop23" class="twitter-link">#cop23</a> <a href="https://t.co/CmEqEVVbXV" class="twitter-link">https://t.co/CmEqEVVbXV</a><span class="gotw_comma">,</span> <span class="twitter-timestamp" title="2017/11/14 19:09">Nov 14</span></li><li>It has been signed. We are officially a founding member of the World Alliance for Efficient&hellip; <a href="https://t.co/dJx7Y1TBUN" class="twitter-link">https://t.co/dJx7Y1TBUN</a><span class="gotw_comma">,</span> <span class="twitter-timestamp" title="2017/11/14 19:01">Nov 14</span></li></ul></aside></div>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 mpc-column" data-column-id="mpc_column-725a0e1fda6741b"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  duem-sub-head">
+		<div class="wpb_wrapper">
+			<p>Instagram</p>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<div id="sb_instagram" class="sbi sbi_col_1" style="max-width: 640px; width:100%; padding-bottom: 6px; " data-id="1503162661" data-num="1" data-res="auto" data-cols="1" data-options='{"sortby": "none", "showbio": "true", "headercolor": "", "imagepadding": "3"}'><div class="sb_instagram_header" style="padding: 6px; padding-bottom: 0;"></div><div id="sbi_images" style="padding: 3px;"><div class="sbi_loader fa-spin"></div></div><div id="sbi_load"><div class="sbi_follow_btn"><a href="https://instagram.com/" style="" target="_blank"><i class="fa fa-instagram"></i>Follow on Instagram</a></div></div></div>
+
+		</div>
+	</div>
+</div></div></div>		</div>
+	</div>
+</section><section class="wpb_row  vc_custom_1468596408929 mpc-row"><div class="container neko-container">
+		<div class="vc_row ">
+		<div class="wpb_column vc_column_container vc_col-sm-12 mpc-column" data-column-id="mpc_column-405a0e1fda6c6c5"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p class="duem-sponsor-heading">Our&nbsp;Partners</p>
+<div class="lshowcase-clear-both">&nbsp;</div><div class="lshowcase-logos"><div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="https://www.dur.ac.uk/" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/durham-university-logo.svg" width="200" height="100" alt="Durham University" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.imeche.org/" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/mechanical-engineers-logo-print-hr-200x98.jpg" width="200" height="98" alt="Institution of Mechanical Engineers" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.climb-online.co.uk" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/climb-online-logo.svg" width="200" height="100" alt="Climb Online" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.royalnavy.mod.uk/" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/royal-navy-logo.jpg" width="200" height="100" alt="Royal Navy" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.sevcon.com/" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/sevcon-logo-200x86.jpg" width="200" height="86" alt="Sevcon" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://corporate.evonik.com/en/Pages/default.aspx" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/evonik-industries-logo-200x100.jpg" width="200" height="100" alt="Evonik Industries" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><img src="http://duem.org/wp-content/uploads/2017/07/kensington-Capital-186x100.png" width="186" height="100" alt="Kensington Capital" title="" class="lshowcase-lower-opacity"></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.ghcityprint.co.uk/" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/gh-city-print-logo.svg" width="200" height="100" alt="GH City Print" title="" class="lshowcase-lower-opacity" style="height:auto; max-width:65%;"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.dji.com" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2017/02/16651399_1001292853309093_586560137_o-e1486655424972-133x100.png" width="133" height="100" alt="DJI" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.sigmatex.com" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/12/sigmatex-200x58.png" width="200" height="58" alt="Sigmatex" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.my-fobo.com" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2017/06/FOBO-200x63.png" width="200" height="63" alt="Fobo" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.labman.co.uk/" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/labman-logo-200x100.jpg" width="200" height="100" alt="Labman Automation Systems" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.altairhyperworks.co.uk/" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/altair-hyperworks-logo-200x100.jpg" width="200" height="100" alt="Altair Hyperworks" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.gochermann.com/" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/gochermann-solar-technology-logo.png" width="200" height="100" alt="Gochermann Solar Technology" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.eurocircuits.com/" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/euro-circuits-logo.png" width="200" height="100" alt="Euro Circuits" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.robertcupitt.co.uk" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2017/06/robert-cupitt-logo-200x94.jpg" width="200" height="94" alt="Robert Cupitt Ltd." title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://www.tufnol.com/" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/tufnol-logo.svg" width="200" height="100" alt="Tufnol Composites" title="" class="lshowcase-lower-opacity"></a></div></div></div><div class="lshowcase-box-5 "><div class="lshowcase-wrap-responsive"><div class="lshowcase-boxInner"><a href="http://designsunique.co.uk/" target="_blank" rel="nofollow"><img src="http://duem.org/wp-content/uploads/2016/07/design-unique-logo.svg" width="200" height="100" alt="Designs Unique" title="" class="lshowcase-lower-opacity"></a></div></div></div></div></div><div class="lshowcase-clear-both">&nbsp;</div>
+<p>&nbsp;</p>
+<p class="duem-center duem-marg"><a href="http://duem.org/current-sponsors/">Full Supporters List</a></p>
+
+		</div>
+	</div>
+</div></div></div>		</div>
+	</div>
+</section>
+			</div>
+	<!-- entry content -->
+
+	
+</article><!-- #post-5 -->
+
+                              
+                  
+	
+	
+	
+	
+	
+	
+
+
+                  
+            
+            
+
+
+                  </div><!-- #primary .content-area -->
+
+      </main>
+      
+
+<!-- footer -->
+<footer id="main-footer-wrapper" class="neko-footer">
+			<div  id="main-footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 nk-footer-centered"><div id="text-2" class="widget widget_text">			<div class="textwidget"><p><img src="http://duem.org/wp-content/uploads/2016/07/duem-logo.svg" alt="Duem Logo" class="alignnone size-full wp-image-5649" width="130" height="125" /></p>
+<p>Durham University Electric Motorsport (DUEM) are the UK’s longest running solar car team. This year we are celebrating our 15th anniversary of being at the forefront of innovation. We are entirely a student run and led team who enters major solar endurance races and are looking forward to racing again this year in the World Solar Challenge.</p>
+<p><a href="http://duem.org/sitemap/">Sitemap</a></p>
+</div>
+		</div></div>				</div>
+			</div>
+		</div>
+	
+	
+	<div id="copyright">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<p>
+						&copy; Copyright 2017 DUEM - Website by <a href="http://climb-online.co.uk/" target="_blank" rel="nofollow">Climb Online</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+</footer>
+<!-- footer -->
+
+
+
+</div>
+<!-- #globalWrapper -->
+
+<!-- ngg_resource_manager_marker --><script type='text/javascript' src='http://duem.org/wp-content/themes/hideo/js/plugins.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/themes/hideo/js/hover-intent/jquery.hoverIntent.minified.js?ver=1.8.0'></script>
+<script type='text/javascript' src='http://duem.org/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://duem.org/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/themes/hideo/js/neko-js-plugins/neko-main-header.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/themes/hideo/js/custom.js?ver=20130215'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/duem.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"1503162661.3a81a9f.a6361082af814a4d80ff90b0ca26875b"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.5'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/neko-gmap/public/js/neko-gmap-public.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/better-wp-security/core/modules/wordpress-tweaks/js/blankshield/blankshield.min.js?ver=4078'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/better-wp-security/core/modules/wordpress-tweaks/js/block-tabnapping.js?ver=4078'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/neko-team/public/assets/js/public.js?ver=2.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _mpc_ajax = "http:\/\/duem.org\/wp-admin\/admin-ajax.php";
+var _mpc_animations = "1";
+var _mpc_scroll_to_id = "1";
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/mpc-massive/assets/js/mpc-vendor.min.js?ver=2.1'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/mpc-massive/assets/js/mpc-scripts.min.js?ver=2.1'></script>
+<script type='text/javascript' src='http://duem.org/wp-includes/js/wp-embed.min.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.4.3'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/mpc-massive/assets/js/libs/slick.min.js?ver=4.8.3'></script>
+<script type='text/javascript' src='http://duem.org/wp-content/plugins/mpc-massive/assets/js/libs/magnific-popup.min.js?ver=4.8.3'></script>
+<style id="mpc-nav-preset--default">.mpc-nav-preset--default .mpcslick-prev i {color:#333333;}.mpc-nav-preset--default .mpcslick-next i {color:#333333;}</style><style id="mpc-typography--preset_0">.mpc-typography--preset_0{color:#77226c;font-family:"Muli" !important;font-size:28px;font-style:normal !important;font-weight:400 !important;line-height:2.5;}</style><style data-id="mpc-massive-styles">.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-post__thumbnail {height: 200px;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-post__thumbnail + .mpc-post__overlay {height: 200px;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-post__content {background: #ffffff;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-post__content {padding:25px;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-date__wrapper {margin-top:15px;font-size:18px;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-post__heading {color:#77226c;line-height:1;text-transform:capitalize;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-post__heading a:hover {color: #f1b121;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-post__description {margin-top:15px;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-post__overlay {background: rgba(255,255,255,0.5);}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-type--lightbox {color:#333333;font-size:27px;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-type--readmore {color:#333333;font-size:45px;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-button {border-radius:5px;margin-top:15px;background: #77226c;color:#ffffff;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-button .mpc-button__icon {padding-top:10px;padding-right:15px;padding-bottom:10px;padding-left:15px;color:#333333;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-button .mpc-button__title {padding-top:10px;padding-right:15px;padding-bottom:10px;padding-left:15px;}.mpc-carousel-posts[id="mpc_carousel_posts-895a0e1fd9bd724"] .mpc-post .mpc-button .mpc-button__background {background: rgba(255,255,255,0.51);}</style>		<script type="text/javascript">
+			function revslider_showDoubleJqueryError(sliderID) {
+				var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+				errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+				errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+				errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+				errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+					jQuery(sliderID).show().html(errorMessage);
+			}
+		</script>
+						<script>( function( $ ) {
+
+    $( window ).load( function() {
+        setTimeout( function() {
+           var $grids = $( '.mpc-grid-posts' );
+        
+           $grids.each( function() {
+              var $this = $( this );
+              
+              if( $this.data( 'isotope' ) ) {
+                 $this.isotope( 'layout' );
+              }
+           } );
+        }, 250 );
+    } );
+
+} )( jQuery );</script>
+</body>
+</html>

@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html dir="LTR" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Long Term Car Storage | London & Buckinghamshire, UK - Secure Your Classic Vehicle</title>
+<meta name="Description" content="Storacar Storacar provides secure, long term car storage in the UK near London. Our facilities are ideal for storing classic cars, high performance cars, motorbikes and other vehicles." />
+<meta name="Keywords" content="Storacar car, storage, secure, store, your, UK, London, facility, classic, motorbike, motorbikes, cars, high, performance, vehicles, vehicle" />
+<base href="https://www.storacar.com/">
+<link rel="stylesheet"  type="text/css" href="browser_components/bootstrap/dist/css/bootstrap.min.css">
+<link rel="stylesheet"  type="text/css" href="browser_components/bootstrap/dist/css/bootstrap-theme.min.css">
+<link rel="stylesheet"  type="text/css" href="browser_components/jqueryui/smoothness/jquery-ui.min.css">
+<link rel="stylesheet"  type="text/css" href="browser_components/slick/slick.css">
+<link rel="stylesheet"  type="text/css" href="browser_components/slick/slick-theme.css">
+<link rel="stylesheet"  type="text/css" href="browser_components/hamburgers-master/dist/hamburgers.css" >
+<link rel="stylesheet"  type="text/css" href="browser_components/datepicker/css/jquery.datepick.css"> 
+<link rel="stylesheet"  type="text/css" href="css/style.css">
+<link rel="stylesheet"  type="text/css" href="css/style1.css">
+<link rel="stylesheet"  type="text/css" href="css/style2.css">
+<style>
+	/*.sub_nav1{ display:none !important;}
+	.sub_nav3{ display:none !important;}*/
+</style>
+
+<script type="text/javascript" src="browser_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" src="browser_components/jqueryui/jquery-ui.min.js"></script>
+<script type="text/javascript" src="browser_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/scripts/jquery.parallax-1.1.3.js"></script>
+<script type="text/javascript" src="js/scripts/jquery.localscroll-1.2.7-min.js"></script>
+<script type="text/javascript" src="js/scripts/jquery.scrollTo-1.4.2-min.js"></script>
+<script type="text/javascript" src="browser_components/slick/slick.js"></script>
+<script type="text/javascript" src="browser_components/hamburgers-master/_js/hamburgers.js"></script>
+<script type="text/javascript" src="js/nicescroll.js"></script>
+<script type="text/javascript" src="js/firstload.js"></script>
+
+</head>
+
+<body>
+<a class="active" style="position:absolute;left:-100px; width:100px;"></a>
+<main>
+<header>
+    <div class="container">
+        <div class="row nm np">
+        	<div class="hidden-sm hidden-xs" id="menu">
+            	<div class="col-md-5 nm np menu1_left">
+                    <a href="https://www.storacar.com/car-storage/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" main_a">Car Storage</a>
+                    <a href="https://www.storacar.com/motorcycle-storage/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" two  main_a">Motorbike Storage</a>
+                   <a href="https://www.storacar.com/hardtop-storage/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class="  main_a">Hardtop Storage</a>
+                    <a href="https://www.storacar.com/transportation/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" three  main_a">Transportation</a>
+                </div>
+                <div class="col-md-2 nm np">
+                    <div class="logo_effect">
+                    	<a href="https://www.storacar.com/?Auth=7ed104c1f53c3fba8998df3cf38fdb59">
+                            <img src="images/STORACAR_LOGO1.svg" class="img_large">
+                        	<img src="images/STORACAR_LOGO.svg" class="img_small">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-md-5 nm np" style="text-align:right;">
+                	<div class="menu1_right">
+                      <a href="https://www.storacar.com/restoration-mechanical/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class="  main_a">Restoration &amp; Mechanical</a>
+                       
+                        <a href="https://www.storacar.com/gallery/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class="  main_a">Our Gallery</a>
+                        <!--<a href="https://www.storacar.com/uk-registration/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" main_a">UK Registration</a>-->
+                        <a href="https://www.storacar.com/storage-tariff/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" main_a">Storage Tariff</a>
+                        <a href="https://www.storacar.com/contact/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" main_a">Contact</a>
+                    </div>
+                </div>
+                <div id="gutter">
+                    <span id="highlight"></span>
+                </div>
+            </div>
+             
+            
+            
+            <div class="main-nav">
+                <div class="logo-storacar">
+                    <div class="hidden-md hidden-lg"><a href="" class="home-logo "><img src="images/STORACAR_LOGO.svg"></a></div>
+                    <!--<div class="hidden-sm hidden-xs">
+                        <a href="https://www.storacar.com/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class="logo_cont">
+                            <div class="logoup"></div>
+                            <div class="logodown"></div>
+                        </a>
+                    </div>-->
+                </div>
+                <div class="hamb_ico hidden-md hidden-lg hidden-xl"><div class="hamburger hamburger--collapse"><div class="hamburger-box"><div class="hamburger-inner"></div></div></div></div>
+                
+                <div class="holder-link">
+                    <!--<div id="header" class="hidden-sm hidden-xs">
+                        <ul id="menu">
+                            <div style="width:50%; float:left;">
+                                <li><a href="https://www.storacar.com/car-storage/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class="">Car Storage</a></li>
+                                <li><a href="https://www.storacar.com/motorcycle-storage/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" two ">Motorcycle Storage</a></li>
+                                <li><a href="https://www.storacar.com/transportation/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" three ">Transportation</a></li>
+                                <li><a href="https://www.storacar.com/restoration-mechanical/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" ">Restoration & Mechanical</a></li>
+                            </div>
+                            <div style="width:50%; float:left; text-align:right !important;">
+                                <li><a href="https://www.storacar.com/hardtop-storage/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" ">Hardtop Storage</a></li>
+                                <li ><a href="https://www.storacar.com/gallery/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" ">Our Gallery</a></li>
+                                <li><a href="https://www.storacar.com/uk-registration/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class="">UK Registration</a></li>
+                                <li><a href="https://www.storacar.com/storage-tariff/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class="">Storage Tariff</a></li>
+                                <li><a href="https://www.storacar.com/contact/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class="">Contact</a></li>
+                            </div>
+                        </ul>
+                        <div id="gutter">
+                            <span id="highlight"></span>
+                        </div>    
+                    </div>-->
+                    
+                    <div class="hidden-md hidden-lg">
+                        <div class="link-storacar link-left">
+                            <a href="https://www.storacar.com/car-storage/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" one ">Car Storage</a>
+                            <a href="https://www.storacar.com/motorcycle-storage/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" two ">Motorbike Storage</a>
+                        
+                            <a href="https://www.storacar.com/hardtop-storage/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class="  main_a">Hardtop Storage</a>
+                           <a href="https://www.storacar.com/transportation/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" three ">Transportation</a>
+                        </div>
+                        <div class="link-storacar link-right">
+                           <a href="https://www.storacar.com/restoration-mechanical/?Auth=7ed104c1f53c3fba8998df3cf38fdb59"  class=" ">Restoration & Mechanical</a> 
+                           <!-- <a href="https://www.storacar.com/uk-registration/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class="">UK Registration</a>-->
+                            <a href="https://www.storacar.com/gallery/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class=" ">Our Gallery</a>
+                            <a href="https://www.storacar.com/storage-tariff/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class="">Storage Tariff</a>
+                            <a href="https://www.storacar.com/contact/?Auth=7ed104c1f53c3fba8998df3cf38fdb59" class="">Contact</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header><style>
+	.home-logo { display:block !important; }
+	.sub_nav2{ display:none !important;}
+	#example-one{width: 1300px;}
+	#example-one a{padding: 6px 5px 4px 5px !important;}
+	.sub_nav1{ display:inline-block !important;}
+</style>
+
+<!--content-->
+
+<div class="row nm">
+    <div class="col-md-12 nm np">
+        <div class="row nm">
+            <div class="banner-index page_effect" style="background-image:url('uploads/pages/2/1/index1.png/cache/original.png_1739606_1500x668.674698795.png'); background-repeat:no-repeat; background-size:cover; background-attachment:fixed; height:600px;">
+                <img src="uploads/pages/2/1/index1.png/cache/original.png_1739606_1500x668.674698795.png" title="" alt="" width="1500" height="" onload="content_effect_loader()" class="image_loader">                <div class="banner-text page_effect2">
+                    <div class="container_vmiddle">
+                    	<h1>WELCOME<br>TO STORACAR</h1>
+                        <div><p>Since 1983 Storacar has been committed to providing long term storage and care for fine vehicles.<br />
+Situated in a discreet and secure location 40 miles north of London, Storacar is now recognised<br />
+as one of the UK&#39;s leading providers of storage to classic and modern car owners.<br />
+<br />
+Get in Touch<br />
+T +44(0)1234 751 487<br />
+E <a href="mailto:info@storacar.com" onclick="ga('send', 'event', 'Email', 'Click');"><span style="color:#FFFFFF">info@storacar.com</span></a></p>
+</div>
+                    </div>
+                </div>
+                <!--<div class="link-down"><a href="#down" class="scroll-arrow woo"><img src="images/arrow-down-1.png"></a></div>-->
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="down" style="position:relative; z-index:17;">
+<div class="row nm about-content">
+<div class="col-md-12 nm np">
+
+    <div class="container">
+        <div class="row nm text-center"><h4 class="title-content">ABOUT US</h4></div>
+        <div class="col-md-8 col-md-offset-2">
+<div class="col-md-6">
+<div class="about-text">Situated in a discreet, rural location 40 miles North of London and run by Allan Cowen, Storacar - The Hotel for Fine Automobiles - is now recognised as Britain&#39;s leading specialist in the long term storage and care of fine vehicles. From basic care through to our Active Storage Programme.</div>
+</div>
+
+<div class="col-md-6">
+<div class="about-text">Since its inception in 1983, Storacar has been dedicated to the care and preservation of cherished vehicles and to removing the worries from classic car ownership.</div>
+</div>
+</div>
+    </div>
+</div>
+</div>
+
+    <div class="row nm" style="background-color:#000;">
+        <div class="col-md-12 nm np">
+            <div class="row nm">
+            	<div class="col-sm-6 col-md-6 np image_effect"><a href="contact/"><img src="uploads/pages/2/1/carstorage1.jpg/cache/original.jpg_248308_830x535.jpg" title="WELCOME TO STORACAR" alt="WELCOME TO STORACAR" width="" height="" style="width:100%;"></a><p style="visibility:hidden">Our Basic car storage ensures your car is stored in a safe, clean and secure environment.</p><div style="color:white; display: inline-block;position: absolute;text-align: center;width: 100%;top: 40%;">
+                    	<h3>Basic Car Storage<br>From £120 +VAT per month</h3><p style="text-align:center">Our Basic car storage ensures your car is stored in a safe, clean and secure environment.</p>
+                    </div></div><div class="col-sm-6 col-md-6 np image_effect"><a href="contact/"><img src="uploads/pages/2/1/dehumidified_storage.jpg/cache/original.jpg_176633_830x535.jpg" title="WELCOME TO STORACAR" alt="WELCOME TO STORACAR" width="" height="" style="width:100%;"></a><p style="visibility:hidden">Secure dry storage in a dehumidified environment. </p><div style=" color:white; display: inline-block;position: absolute;text-align: center;width: 100%;top: 40%;">
+                    	<h3>Dehumidified Storage<br>From £170 +VAT per month</h3><p style="text-align:center">Secure dry storage in a dehumidified environment. </p>
+                    </div></div>                
+            </div>
+        </div>
+    </div>
+ </div>  
+	<footer class="row nm">
+    	<div class="container">
+        <div class="col-md-12 nm np">
+            <div class="row nm">
+                <div class="col-md-4 footer-text text-left"><span>&copy; 2017 Storacar - The Hotel For Fine Automobiles Limited</span></div>
+                <div class="col-md-4 footer-text text-center"><a href="https://www.storacar.com/terms-conditions/?Auth=7ed104c1f53c3fba8998df3cf38fdb59">Terms & Conditions</a></div>
+                <div class="col-md-4 footer-text text-right"><span>Design by Nicolas Lavrov Studio</span></div>
+            </div>
+        </div></div>
+    </footer>
+</div>
+</main>
+<script type="text/javascript" src="js/general.js"></script>
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ ga('create', 'UA-35427697-1', 'auto');
+ ga('send', 'pageview');
+
+</script>
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 979612355;
+var google_custom_params = window.google_tag_params; var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/979612355/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5947c530e9c6d324a4736274/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+</body>
+</html>

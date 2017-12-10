@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>RedRival Free Hosting</title>
+		<style type="text/css">
+		body {
+			background-color: white;
+			color: black;
+			font-family: Arial,Helvetica,Sans-Serif;
+		}
+		.globalHeaderTable {
+			width: 100%;
+			height: 70px;
+			margin: 0px;
+			padding: 0px;
+			border-width: 0px;
+			border-collapse: collapse;
+			background-image: url(/site/image/topbig-2.jpg);
+			background-position: center top;
+			background-repeat: repeat-x;
+		}
+		</style>
+		<script language="javascript" type="text/javascript">
+		function _a_n_t_i_s_p_a_m_() {
+			document.write('<a href="mailto:' + arguments[0] + '@' + arguments[1] + '.' + arguments[2] + '">' + arguments[0] + '@' + arguments[1] + '.' + arguments[2] + '<' + '/' + 'a' + '>');
+		}
+		</script>
+
+		<script type='text/javascript'>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + 
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+		</script>
+
+		<script type='text/javascript'>
+		googletag.cmd.push(function() {
+		googletag.defineSlot('/54180055/REDRIVAL_BOTTOM2', [[88, 31], [120, 60], [120, 90], [125, 125], [180, 150], [200, 200], [234, 60], [250, 250], [300, 100], [300, 250], [300, 600], [336, 280], [468, 60], [728, 90], [970, 90]], 'div-gpt-ad-1409010537554-0').addService(googletag.pubads());
+		googletag.pubads().enableSingleRequest();
+		googletag.enableServices();
+		});
+		</script>
+
+	</head>
+	<body>
+
+		<div style="height: 100px;">&nbsp;</div>
+
+		<table width="450" align="center" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td align="center">
+
+					<span style="font-size: 18pt; font-weight: bold;">RedRival Free Hosting</span>
+
+				</td>
+			</tr>
+			<tr><td><div style="height: 20px;">&nbsp;</div></td></tr>
+			<tr>
+				<td>
+
+					Thank you for your interest in RedRival.
+					<br><br>
+					RedRival is discontinuing all services as of September 2009.
+					<br><br>
+					Thank you to each and every one of our members for twelve years!
+					<br><br>
+					RedRival.net email users can still <a href="http://mail.redrival.net">login here</a>. R67.net email users can still <a href="http://mail.r67.net">login here</a>.
+					<br><br>
+					Please contact <script language="javascript" type="text/javascript">_a_n_t_i_s_p_a_m_('support','redrival','com');</script><noscript>support AT redrival DOT com</noscript> if you have any questions or concerns.
+					<br><br>
+					The <a href="free-gift.html">free gift</a> is still available.
+					<br><br>
+				</td>
+			</tr>
+			<tr>
+				<td align="center">
+
+					<!-- REDRIVAL_BOTTOM2 -->
+					<div id='div-gpt-ad-1409010537554-0'>
+					<script type='text/javascript'>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1409010537554-0'); });
+					</script>
+					</div>
+
+				</td>
+			</tr>
+		</table>
+
+		<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+		var pageTracker = _gat._getTracker("UA-557073-4");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+		</script>
+
+	</body>
+</html>
+

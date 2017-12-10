@@ -1,0 +1,893 @@
+<!doctype html>
+<!--[if IE 8]><html class="no-js ie8" lang="en-GB" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-GB" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+
+	<script>
+		document.documentElement.classList.add('js');
+	</script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#3D125A">
+	<link rel="icon" sizes="1024x1024" href="https://www.channel4.com/news/wp-content/themes/channel-4-news/img/icon.png">
+	<link rel="apple-touch-icon" href="https://www.channel4.com/news/wp-content/themes/channel-4-news/img/icon.png">
+	<link rel="manifest" href="https://www.channel4.com/news/manifest.json">
+
+	<title>Team &#8211; Channel 4 News</title>
+<link rel='stylesheet' id='channel-4-news-css'  href='https://www.channel4.com/news/wp-content/themes/channel-4-news/css/style.min.css?ver=1.1.0' media='all' />
+<meta name="twitter:site" content="@Channel4News">
+<meta name="twitter:domain" content="channel4.com">
+<meta property="og:site_name" content="Channel 4 News" />
+
+</head>
+
+<body class="c4news">
+
+	<div id="skipLinks">
+		<ul>
+			<li><a href="#site-body">Skip to main news content</a></li>
+			<li><a href="#search-field">Skip to news search</a></li>
+			<li><a href="#navContainer">Skip to news navigation</a></li>
+			<li><a href="#network-header">Skip to All 4 navigation</a></li>
+		</ul>
+	</div>
+
+	<div id="network-header">
+		<div class="inner">
+			<div id="globalnav-header"></div>
+		</div>
+	</div>
+
+	<div id="site-wrapper">
+
+		<header id="site-masthead" class="receptacle site-masthead">
+			<div class="inner">
+				<div class="section">
+										<a class="site-brand" href="https://www.channel4.com/news/">
+						<svg width="622" height="191" viewBox="0 0 622 191" version="1.1" preserveAspectRatio="xMinYMin meet">
+							<title>Channel 4 News</title>
+					    <g>
+			            <path class="keyline" d="M612,0 L10,0 L0,0 L0,191 L622,191 L622,0 L612,0 L612,0 Z M10,10 L180,10 L180,180 L10,180 L10,10 L10,10 Z M612,180 L191,180 L191,10 L612,10 L612,180 L612,180 Z"></path>
+			            <path class="text" d="M312,48 L312,142 L299,142 L250,71 L250,142 L236,142 L236,48 L249,48 L298,118 L298,48 L312,48 L312,48 Z M397,112 L345,112 C346.630154,122.26506 353.31017,130.585601 366,131 C374.152381,130.585601 381.101121,127.81407 386,121 L395,128 C389.65118,137.719618 379.230075,143 366,143 C343.82559,143 331,127.021071 331,108 C331,88.5854032 344.091307,73 364,73 C384.974568,73 397,88.5854032 397,106 C397,108.662154 396.86664,110.245178 397,112 L397,112 Z M382,102 C381.337153,92.5695104 374.574322,85 364,85 C352.95715,85 346.592425,92.0362357 345,102 L382,102 L382,102 L382,102 Z M502,75 L481,142 L467,142 L454,95 L440,142 L427,142 L405,75 L420,75 L434,126 L448,75 L460,75 L474,126 L488,75 L502,75 L502,75 Z M512,129 L520,121 C525.999752,128.28421 534.189652,130.934843 542,131 C548.321243,130.934843 554.13407,128.28421 554,123 C554.13407,119.139326 551.358505,116.752363 544,115 L534,113 C522.43216,109.990462 514.507921,104.420551 515,93 C514.507921,81.0882123 525.075886,73 540,73 C552.017701,73 561.26529,76.8475971 567,84 L559,92 C554.263927,87.7197703 547.922751,84.9318295 540,85 C532.999133,84.9318295 528.375834,87.9834406 528,93 C528.375834,96.864654 530.621068,98.8546189 538,101 L550,103 C561.790664,106.14585 568,111.980427 568,122 C568,135.576436 556.641,143 542,143 C530.886729,143 518.603862,139.02405 512,129 L512,129 Z M64,101 L84,77 L84,61 L51,101 L64,101 L64,101 Z M101,101 L101,42 L91,54 L91,101 L101,101 L101,101 Z M107,49 L116,38 L108,32 L107,33 L107,49 L107,49 Z M100,108 L47,108 L47,117 L100,117 L100,108 L100,108 Z M117,142 L117,47 L107,59 L107,142 L117,142 L117,142 Z M142,108 L124,108 L124,117 L142,117 L142,108 L142,108 Z M101,124 L91,124 L91,159 L101,159 L101,124 L101,124 Z M133,149 L107,149 L107,159 L133,159 L133,149 L133,149 Z M84,149 L75,149 L75,159 L84,159 L84,149 L84,149 Z"></path>
+			        </g>
+						</svg>
+					</a>
+
+					
+					
+						<dl class="tv-times">
+						<dt>Next on TV</dt>
+						<dd>
+													Tomorrow, 7pm												</dd>
+						</dl>
+						
+					<a href="#" id="mobile-explore" title="expand menu">
+						<svg class="icon" width="48" height="48" viewBox="0 0 48 48" ><path d="M33.57 19.021l2.93 2.93-12.5 12.5-12.5-12.5 2.93-2.93 9.57 9.57z" /></svg>						Menu
+					</a>
+
+					<ul class="block-nav">
+												<li class="weather">
+							<a href="https://www.channel4.com/weather">
+								<svg class="icon" width="48" height="48" viewBox="0 0 48 48" ><g transform="translate(8 8)"><ellipse cx="16.25" cy="16.5" rx="7" ry="7"/><rect x="15.25" width="2" height="7" rx="1"/><rect transform="rotate(90 28.75 16.5)" x="27.75" y="13" width="2" height="7" rx="1"/><rect transform="rotate(90 4 16.5)" x="3" y="13" width="2" height="7" rx="1"/><rect x="15.25" y="26" width="2" height="7" rx="1"/><rect transform="rotate(45 25 7.5)" x="24" y="4" width="2" height="7" rx="1"/><rect transform="rotate(135 25 25.5)" x="24" y="22" width="2" height="7" rx="1"/><rect transform="rotate(135 7 7.5)" x="6" y="4" width="2" height="7" rx="1"/><rect transform="rotate(45 7 25.5)" x="6" y="22" width="2" height="7" rx="1"/></g></svg>								<span>Weather</span>
+								<p>The forecast for the next 5 days</p>
+							</a>
+						</li>
+												<li class="catchup">
+							<a href="https://www.channel4.com/news/catch-up">
+								<svg class="icon" width="48" height="48" viewBox="0 0 48 48" ><path d="M30.969 23.367l-11.354 6.477v-13.031l11.354 6.553zm8.154 9.754v-19.508h-29.262v19.508h29.262zm0-22.785c.864 0 1.626.318 2.286.953.66.635.991 1.41.991 2.324l-.076 19.508c0 .889-.311 1.645-.933 2.267-.622.622-1.378.933-2.267.933h-8.154v3.277h-12.955v-3.277h-8.154c-.914 0-1.689-.311-2.324-.933-.635-.622-.953-1.378-.953-2.267v-19.508c0-.914.318-1.689.953-2.324.635-.635 1.41-.953 2.324-.953h29.262z" /></svg>								<span>Catch up</span>
+								<p>Bulletins from the last 7 days</p>
+							</a>
+						</li>
+						<li class="snowmail">
+							<a href="https://www.channel4.com/news/snowmail">
+								<svg class="icon" width="48" height="48" viewBox="0 0 48 48" ><path d="M24.429 22.469l13.03-8.153h-26.059m26.059 19.506v-16.23l-13.03 8.077-13.03-8.077v16.23h26.059zm0-22.783c.864 0 1.613.33 2.248.991.635.66.952 1.422.952 2.286v19.506c0 .889-.311 1.657-.933 2.305-.622.648-1.378.971-2.267.971h-26.059c-.864 0-1.613-.324-2.248-.971-.635-.648-.952-1.416-.952-2.305v-19.506c0-.864.311-1.626.933-2.286.622-.66 1.378-.991 2.267-.991" /></svg>								<span>Snowmail</span>
+								<p>Delivered daily to your inbox</p>
+							</a>
+						</li>
+					</ul>
+
+					<div class="search-nav">
+						<svg class="icon" width="48" height="48" viewBox="0 0 30 30" ><path d="M10.859 18.68c2.057 0 3.822-.729 5.293-2.188 1.471-1.458 2.207-3.229 2.207-5.313 0-2.057-.729-3.822-2.188-5.293-1.458-1.471-3.229-2.207-5.313-2.207-2.057 0-3.822.736-5.293 2.207-1.471 1.471-2.207 3.236-2.207 5.293 0 2.083.729 3.854 2.188 5.313 1.458 1.458 3.229 2.188 5.313 2.188zm10 0l8.281 8.281-2.5 2.5-8.281-8.281v-1.328l-.469-.469c-.938.833-2.012 1.471-3.223 1.914-1.211.443-2.48.664-3.809.664-1.51 0-2.923-.28-4.238-.84-1.315-.56-2.461-1.322-3.438-2.285-.977-.964-1.751-2.103-2.324-3.418s-.859-2.728-.859-4.238c0-1.484.286-2.891.859-4.219.573-1.328 1.348-2.48 2.324-3.457.977-.977 2.122-1.751 3.438-2.324 1.315-.573 2.728-.859 4.238-.859 1.51 0 2.917.286 4.219.859 1.302.573 2.441 1.348 3.418 2.324.977.977 1.745 2.129 2.305 3.457.56 1.328.84 2.734.84 4.219 0 1.328-.221 2.598-.664 3.809-.443 1.211-1.081 2.285-1.914 3.223l.469.469h1.328z" /></svg>						<form id="searchform" method="get" action="https://www.channel4.com/news/">
+							<input type="search" name="s" id="search-field" class="search" placeholder="Search Channel 4 News" spellcheck="false" aria-label="Search Channel 4 News">
+						</form>
+					</div>
+
+				</div>
+
+
+			</div>
+
+		<div class="category-navigation">
+			<ul>
+				<li class="menu-item"><a title="UK news" href="https://www.channel4.com/news/uk">UK</a></li>
+<li class="menu-item"><a title="World news" href="https://www.channel4.com/news/world">World</a></li>
+<li class="menu-item"><a title="Politics news" href="https://www.channel4.com/news/politics">Politics</a></li>
+<li class="menu-item"><a title="Business news" href="https://www.channel4.com/news/business">Business</a></li>
+<li class="menu-item"><a title="Science news" href="https://www.channel4.com/news/science">Science</a></li>
+<li class="menu-item"><a href="https://www.channel4.com/news/culture">Culture</a></li>
+<li class="menu-item"><a title="Tech news" href="https://www.channel4.com/news/technology">Tech</a></li>
+<li class="menu-item"><a href="https://www.channel4.com/news/factcheck">FactCheck</a></li>
+<li class="menu-item current-menu-item"><a title="News team" href="https://www.channel4.com/news/team">Team</a></li>
+				<li class="search">
+					<a class="item" href="/search" id="search-toggle" aria-label="Search Channel 4 News">
+						<svg class="icon" width="48" height="48" viewBox="0 0 30 30" ><path d="M10.859 18.68c2.057 0 3.822-.729 5.293-2.188 1.471-1.458 2.207-3.229 2.207-5.313 0-2.057-.729-3.822-2.188-5.293-1.458-1.471-3.229-2.207-5.313-2.207-2.057 0-3.822.736-5.293 2.207-1.471 1.471-2.207 3.236-2.207 5.293 0 2.083.729 3.854 2.188 5.313 1.458 1.458 3.229 2.188 5.313 2.188zm10 0l8.281 8.281-2.5 2.5-8.281-8.281v-1.328l-.469-.469c-.938.833-2.012 1.471-3.223 1.914-1.211.443-2.48.664-3.809.664-1.51 0-2.923-.28-4.238-.84-1.315-.56-2.461-1.322-3.438-2.285-.977-.964-1.751-2.103-2.324-3.418s-.859-2.728-.859-4.238c0-1.484.286-2.891.859-4.219.573-1.328 1.348-2.48 2.324-3.457.977-.977 2.122-1.751 3.438-2.324 1.315-.573 2.728-.859 4.238-.859 1.51 0 2.917.286 4.219.859 1.302.573 2.441 1.348 3.418 2.324.977.977 1.745 2.129 2.305 3.457.56 1.328.84 2.734.84 4.219 0 1.328-.221 2.598-.664 3.809-.443 1.211-1.081 2.285-1.914 3.223l.469.469h1.328z" /></svg>					</a>
+				</li>
+			</ul>
+		</div>
+	</header>
+
+<div id="site-body" class="receptacle body layout-wrapper layout-team">
+	<div class="inner">
+
+		<div class="main">
+			<h1>News team</h1>
+			<p class="synopsis">Meet the people who bring you Channel 4 News.</p>
+			
+			<ul class="team-list">
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/jon-snow">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Jon-Snow-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Jon-Snow.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Jon-Snow-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Jon Snow</div> 
+						</a>
+						Presenter					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/alex-magaisa-never-count-out-mr-mugabe">Alex Magaisa: &#8216;Never count out Mr Mugabe&#8217;</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbed73a5"><title id="i-5a0e1fbed73a5">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											16 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/krishnan-guru-murthy">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/krishnan-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/krishnan.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/krishnan-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Krishnan Guru-Murthy</div> 
+						</a>
+						Presenter					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/american-supergroup-prophets-of-rage-channel-their-radical-anger">American supergroup Prophets of Rage channel their radical anger</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbeda167"><title id="i-5a0e1fbeda167">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											13 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/cathy-newman">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/cathy-newman-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/cathy-newman.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/cathy-newman-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Cathy Newman</div> 
+						</a>
+						Presenter					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/rotherham-grooming-victims-speak-out-for-the-first-time">Rotherham grooming victims speak out for the first time</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbedcddc"><title id="i-5a0e1fbedcddc">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											9 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/matt-frei">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Matt-Frei-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Matt-Frei.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Matt-Frei-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Matt Frei</div> 
+						</a>
+						Europe Editor and Presenter					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/500-year-old-da-vinci-painting-sells-for-400m">500-year-old Da Vinci painting sells for $400m</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbedf6f1"><title id="i-5a0e1fbedf6f1">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											16 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/jackie-long">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/jackie-long-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/jackie-long.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/jackie-long-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Jackie Long</div> 
+						</a>
+						Social Affairs Editor and Presenter					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/italian-parents-of-grenfell-victim-thank-the-british-people-for-support">Italian parents of Grenfell victim thank the British people for support</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbee1e29"><title id="i-5a0e1fbee1e29">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											8 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/alex-thomson">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/alex-thomson-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/alex-thomson.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/alex-thomson-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Alex Thomson</div> 
+						</a>
+						Chief Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/talks-over-president-mugabes-succession-continue">Talks over President Mugabe&#8217;s succession continue</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbee49fc"><title id="i-5a0e1fbee49fc">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											16 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/gary-gibbon">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/gary-gibbon-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/gary-gibbon.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/gary-gibbon-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Gary Gibbon</div> 
+						</a>
+						Political Editor					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/by/gary-gibbon/blogs/merkel-ally-december-breakthrough-possible">Merkel ally: December breakthrough possible</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbee81c1"><title id="i-5a0e1fbee81c1">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											15 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/lindsey-hilsum">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/lindsey-hilsum-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/lindsey-hilsum.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/lindsey-hilsum-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Lindsey Hilsum</div> 
+						</a>
+						International Editor					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/mugabes-40-years-in-power">Mugabe&#8217;s 40 years in power</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbeeb180"><title id="i-5a0e1fbeeb180">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											15 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/tom-clarke">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/tom-clarke-1-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/tom-clarke-1.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/tom-clarke-1-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Tom Clarke</div> 
+						</a>
+						Science Editor					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/michael-gove-criticised-for-nazanin-zaghari-ratcliffe-comment">Michael Gove criticised for Nazanin Zaghari-Ratcliffe comment</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbeef60d"><title id="i-5a0e1fbeef60d">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											12 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/siobhan-kennedy">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Siobhan-Kennedy-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Siobhan-Kennedy.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Siobhan-Kennedy-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Siobhan Kennedy</div> 
+						</a>
+						Business Editor					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/what-do-chancellors-constituents-want-from-budget">What do Chancellor&#8217;s constituents want from budget?</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbef21af"><title id="i-5a0e1fbef21af">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											14 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/michael-crick">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/michael-crick-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/michael-crick.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/michael-crick-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Michael Crick</div> 
+						</a>
+						Political Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/richard-ratcliffe-holds-constructive-talks-with-boris-johnson">Richard Ratcliffe holds &#8216;constructive&#8217; talks with Boris Johnson</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf008e5"><title id="i-5a0e1fbf008e5">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											15 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/jonathan-miller">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/jonathan-miller-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/jonathan-miller.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/jonathan-miller-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Jonathan Miller</div> 
+						</a>
+						Asia Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/duterte-serenades-trump-during-asia-tour">Duterte serenades Trump during Asia tour</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf0328e"><title id="i-5a0e1fbf0328e">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											13 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/simon-israel">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/simon-israel-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/simon-israel.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/simon-israel-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Simon Israel</div> 
+						</a>
+						Senior Home Affairs Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/thousands-referred-to-the-governments-anti-terror-programme">Thousands referred to the government&#8217;s anti-terror programme</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf05b2f"><title id="i-5a0e1fbf05b2f">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											9 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/jonathan-rugman">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/06/jonathan-rugman-atrium-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/06/jonathan-rugman-atrium.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/06/jonathan-rugman-atrium-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Jonathan Rugman</div> 
+						</a>
+						Foreign Affairs Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/seven-million-yemenis-on-brink-of-famine">Seven million Yemenis on brink of famine</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf083ae"><title id="i-5a0e1fbf083ae">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											15 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/victoria-macdonald">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Victoria-Macdonald-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Victoria-Macdonald.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Victoria-Macdonald-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Victoria Macdonald</div> 
+						</a>
+						Health and Social Care Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/the-checklist-and-app-cutting-sudden-epilepsy-deaths-in-half">The checklist and app cutting sudden epilepsy deaths in half</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf0ac6d"><title id="i-5a0e1fbf0ac6d">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											16 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/andy-davies">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/andy-davies-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/andy-davies.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/andy-davies-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Andy Davies</div> 
+						</a>
+						Home Affairs Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/carwyn-jones-defends-his-handling-of-carl-sargeant-claims">Carwyn Jones defends his handling of Carl Sargeant claims</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf0d3f6"><title id="i-5a0e1fbf0d3f6">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											9 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/liam-dutton">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Liam-Dutton-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Liam-Dutton.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Liam-Dutton-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Liam Dutton</div> 
+						</a>
+						Weather Presenter					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/where-is-hurricane-irma-heading-next">Where is Hurricane Irma heading next?</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf104f2"><title id="i-5a0e1fbf104f2">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											8 Sep 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/kylie-morris">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/kylie-morris-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/kylie-morris.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/kylie-morris-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Kylie Morris</div> 
+						</a>
+						Washington Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/democrat-senator-al-franken-apologises-over-sexual-harassment-claims">Democrat Senator Al Franken apologises over sexual harassment claims</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf12d95"><title id="i-5a0e1fbf12d95">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											16 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/keme-nzerem">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/keme-nzerem-1-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/keme-nzerem-1.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/keme-nzerem-1-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Keme Nzerem</div> 
+						</a>
+						Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/pollution-linked-to-nine-million-deaths-a-year">Pollution linked to nine million deaths a year</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf153ee"><title id="i-5a0e1fbf153ee">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											20 Oct 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/helia-ebrahimi">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Helia-Ebrahimi-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Helia-Ebrahimi.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Helia-Ebrahimi-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Helia Ebrahimi</div> 
+						</a>
+						Economics Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/government-aims-to-fix-broken-housing-market">Government aims to fix &#8216;broken&#8217; housing market</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf17b9e"><title id="i-5a0e1fbf17b9e">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											16 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/paraic-obrien">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/paraic-obrien-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/paraic-obrien.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/paraic-obrien-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Paraic O&#039;Brien</div> 
+						</a>
+						Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/republican-roy-moore-denies-sexually-abusing-teenager">Republican Roy Moore denies sexually abusing teenager</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf1a560"><title id="i-5a0e1fbf1a560">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											10 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/fatima-manji">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Fatima-Manji-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Fatima-Manji.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Fatima-Manji-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Fatima Manji</div> 
+						</a>
+						Reporter					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/scotland-first-country-to-introduce-minimum-alcohol-price">Scotland first country to introduce minimum alcohol price</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf1cc0f"><title id="i-5a0e1fbf1cc0f">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											15 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/ciaran-jenkins">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Ciaran-Jenkins-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Ciaran-Jenkins.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Ciaran-Jenkins-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Ciaran Jenkins</div> 
+						</a>
+						North of England Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/leave-voting-grimsby-accused-of-double-standards">Leave-voting Grimsby accused of double standards</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf1f37e"><title id="i-5a0e1fbf1f37e">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											15 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/darshna-soni">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/darshna-soni-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/darshna-soni.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/darshna-soni-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Darshna Soni</div> 
+						</a>
+						Home Affairs Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/racial-disparity-audit-published-by-government">Racial disparity audit published by government</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf21b27"><title id="i-5a0e1fbf21b27">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											10 Oct 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/jamal-osman">
+														<div class="image">
+								<img width="212" height="282" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2016/11/Jamal-Osman-212x282.png" class="attachment-c4-full size-c4-full" alt="" />							</div>
+													
+							<div class="name">Jamal Osman</div> 
+						</a>
+						Reporter					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/more-than-300-killed-in-mogadishu-bombing">More than 300 killed in Mogadishu bombing</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf24093"><title id="i-5a0e1fbf24093">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											16 Oct 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/guillermo-galdos">
+														<div class="image">
+								<img width="212" height="282" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2016/11/Guillermo-Galdos-212x282.png" class="attachment-c4-full size-c4-full" alt="" />							</div>
+													
+							<div class="name">Guillermo Galdos</div> 
+						</a>
+						Latin America Correspondent					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/the-venezuelan-women-turning-to-prostitution-to-feed-their-families">The Venezuelan women turning to prostitution to feed their families</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf2665d"><title id="i-5a0e1fbf2665d">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											25 Aug 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/jordan-jarrett-bryan">
+														<div class="image">
+								<img width="212" height="282" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2016/11/Jordan-Jarrett-Bryan-212x282.png" class="attachment-c4-full size-c4-full" alt="" />							</div>
+													
+							<div class="name">Jordan Jarrett-Bryan</div> 
+						</a>
+						Sports reporter					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/black-and-asian-sports-coaches-honoured-in-new-exhibition">Black and Asian sports coaches honoured in new exhibition</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf28dd1"><title id="i-5a0e1fbf28dd1">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											5 Nov 2017										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+				
+				<li class="team-list-profile">
+					<div class="main">
+
+						<a href="https://www.channel4.com/news/by/guy-basnett">
+														<div class="image">
+								<img width="500" height="500" src="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Guy-Basnett-500x500.jpg" class="attachment-c4-full size-c4-full" alt="" srcset="https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Guy-Basnett.jpg 500w, https://fournews-assets-prod-s3b-ew1-aws-c4-pml.s3.amazonaws.com/media/2017/05/Guy-Basnett-470x470.jpg 470w" sizes="(max-width: 500px) 100vw, 500px" />							</div>
+													
+							<div class="name">Guy Basnett</div> 
+						</a>
+						Investigative Reporter					
+					</div>
+						
+						
+					<div class="latest">
+
+																<a href="https://www.channel4.com/news/george-osborne-family-business-6m-deal-with-offshore-firm">George Osborne family business&#8217; £6m offshore deal</a>
+									<div class="meta">
+										<span class="meta-item pubDateTime">
+											<svg class="icon" width="48" height="48" viewBox="0 0 48 48" aria-labelledby="i-5a0e1fbf2b703"><title id="i-5a0e1fbf2b703">Published on</title><path d="M24 40.85c2.279 0 4.435-.439 6.47-1.318s3.809-2.075 5.322-3.589c1.514-1.514 2.71-3.28 3.589-5.298.879-2.018 1.318-4.183 1.318-6.494 0-2.279-.439-4.435-1.318-6.47s-2.075-3.809-3.589-5.322c-1.514-1.514-3.28-2.71-5.298-3.589-2.018-.879-4.183-1.318-6.494-1.318-2.279 0-4.435.439-6.47 1.318s-3.809 2.075-5.322 3.589c-1.514 1.514-2.71 3.288-3.589 5.322-.879 2.035-1.318 4.191-1.318 6.47 0 2.311.439 4.476 1.318 6.494s2.075 3.784 3.589 5.298c1.514 1.514 3.28 2.71 5.298 3.589 2.018.879 4.183 1.318 6.494 1.318zm8.105-35.864c2.539 1.091 4.744 2.58 6.616 4.468 1.872 1.888 3.353 4.093 4.443 6.616 1.091 2.523 1.636 5.216 1.636 8.081 0 2.897-.545 5.607-1.636 8.13-1.091 2.523-2.572 4.728-4.443 6.616-1.872 1.888-4.069 3.369-6.592 4.443-2.523 1.074-5.233 1.611-8.13 1.611-2.865 0-5.566-.537-8.105-1.611-2.539-1.074-4.744-2.555-6.616-4.443-1.872-1.888-3.353-4.093-4.443-6.616-1.091-2.523-1.636-5.233-1.636-8.13 0-2.865.545-5.558 1.636-8.081 1.091-2.523 2.572-4.728 4.443-6.616 1.872-1.888 4.069-3.377 6.592-4.468 2.523-1.091 5.233-1.636 8.13-1.636 2.865 0 5.566.545 8.105 1.636zm-9.73 8.716v10.937l-6.733 8.662 2.526 1.926 7.332-9.025v-12.5h-3.125z" /></svg>											7 Jul 2015										</span>
+									</div>
+							
+					</div>
+						
+				</li>
+
+							</ul>
+		</div>
+				
+	</div>
+</div>
+		
+	<footer class="receptacle site-footer">
+	  <div class="inner">
+
+			<div id="secondary-nav" class="section">
+				<ul class="nav">
+				<li class="standlist menu-about"><ul class="items"><li class="menu-item"><a href="https://www.channel4.com/news/about">About Channel 4 News</a></li>
+<li class="menu-item"><a href="https://www.channel4.com/news/frequently-asked-questions">FAQs</a></li>
+<li class="menu-item"><a href="https://www.channel4.com/news/contact-us">Contact us</a></li>
+</ul></li>				<li class="standlist menu-elsewhere"><ul class="items"><li class="facebook menu-item"><a href="http://facebook.com/Channel4News"><svg class="icon" width="18" height="18" viewBox="0 0 15 28" ><path d="M14.397 5.269h-2.515c-.913 0-1.528.186-1.844.559-.317.391-.475.969-.475 1.732v3.018h4.666l-.615 4.722h-4.052v12.127h-4.89v-12.127h-4.08v-4.722h4.08v-3.465c0-1.993.55-3.53 1.649-4.611 1.118-1.099 2.599-1.649 4.443-1.649 1.565 0 2.776.065 3.633.196v4.219z" /></svg>Facebook</a></li>
+<li class="twitter menu-item"><a href="http://twitter.com/Channel4News"><svg class="icon" width="18" height="18" viewBox="0 0 29 24" ><path d="M26.031 6.563c.021.167.031.417.031.75 0 1.542-.229 3.083-.688 4.625-.458 1.542-1.146 3.021-2.063 4.438-.917 1.417-2.01 2.667-3.281 3.75-1.292 1.104-2.833 1.979-4.625 2.625-1.792.646-3.708.969-5.75.969-3.229 0-6.187-.865-8.875-2.594.417.042.885.063 1.406.063 2.667 0 5.052-.823 7.156-2.469-1.25-.021-2.375-.396-3.375-1.125-.979-.75-1.656-1.708-2.031-2.875.396.063.76.094 1.094.094.521 0 1.031-.062 1.531-.188-1.333-.271-2.437-.937-3.313-2-.875-1.042-1.313-2.26-1.313-3.656.813.375 1.677.615 2.594.656-.792-.521-1.417-1.208-1.875-2.063-.458-.833-.688-1.75-.688-2.75 0-1.042.26-2.01.781-2.906 1.438 1.771 3.187 3.187 5.25 4.25 2.063 1.083 4.281 1.677 6.656 1.781-.104-.438-.156-.875-.156-1.313 0-1.604.562-2.969 1.688-4.094 1.125-1.125 2.49-1.688 4.094-1.688 1.667 0 3.062.615 4.188 1.844 1.313-.25 2.542-.719 3.688-1.406-.458 1.375-1.312 2.437-2.563 3.188 1.125-.125 2.24-.427 3.344-.906-.813 1.167-1.781 2.167-2.906 3z" /></svg>Twitter</a></li>
+<li class="youtube menu-item"><a href="http://youtube.com/Channel4News"><svg class="icon" width="18" height="18" viewBox="0 0 34 24" ><path d="M33.105 5.529s-.327-2.303-1.329-3.317c-1.271-1.331-2.695-1.337-3.348-1.415-4.676-.338-11.691-.338-11.691-.338h-.014s-7.015 0-11.691.338c-.654.078-2.077.084-3.348 1.416-1.002 1.014-1.328 3.317-1.328 3.317s-.334 2.704-.334 5.408v2.535c0 2.703.334 5.408.334 5.408s.327 2.303 1.328 3.317c1.271 1.331 2.941 1.289 3.685 1.428 2.673.256 11.362.336 11.362.336s7.022-.01 11.698-.348c.654-.078 2.077-.084 3.348-1.416 1.002-1.014 1.329-3.317 1.329-3.317s.334-2.704.334-5.408v-2.535c0-2.704-.334-5.408-.334-5.408zm-19.825 11.016v-9.389l9.029 4.711-9.029 4.678z" /></svg>YouTube</a></li>
+<li class="instagram menu-item"><a href="http://instagram.com/channel4news"><svg class="icon" width="18" height="18" viewBox="0 0 28 28" ><g><path d="M14 2.523c3.738 0 4.181.014 5.657.082 1.365.062 2.106.29 2.6.482.653.254 1.12.557 1.61 1.047.49.49.793.956 1.047 1.61.192.493.42 1.235.482 2.6.067 1.476.082 1.919.082 5.657s-.014 4.181-.082 5.657c-.062 1.365-.29 2.106-.482 2.6-.254.653-.557 1.12-1.047 1.61-.49.49-.956.793-1.61 1.047-.493.192-1.235.42-2.6.482-1.476.067-1.919.082-5.657.082s-4.181-.014-5.657-.082c-1.365-.062-2.106-.29-2.6-.482-.653-.254-1.12-.557-1.61-1.047-.49-.49-.793-.956-1.047-1.61-.192-.493-.42-1.235-.482-2.6-.067-1.476-.082-1.919-.082-5.657s.014-4.181.082-5.657c.062-1.365.29-2.106.482-2.6.254-.653.557-1.12 1.047-1.61.49-.49.956-.793 1.61-1.047.493-.192 1.235-.42 2.6-.482 1.476-.067 1.919-.082 5.657-.082m0-2.523c-3.802 0-4.279.016-5.772.084-1.49.068-2.508.305-3.398.651-.921.358-1.701.836-2.48 1.615-.778.778-1.257 1.559-1.615 2.48-.346.891-.583 1.908-.651 3.398-.068 1.493-.084 1.97-.084 5.772 0 3.802.016 4.279.084 5.772.068 1.49.305 2.508.651 3.398.358.921.836 1.701 1.615 2.48.778.778 1.559 1.257 2.48 1.615.891.346 1.908.583 3.398.651 1.493.068 1.97.084 5.772.084 3.802 0 4.279-.016 5.772-.084 1.49-.068 2.508-.305 3.398-.651.921-.358 1.701-.836 2.48-1.615.778-.778 1.257-1.559 1.615-2.48.346-.891.583-1.908.651-3.398.068-1.493.084-1.97.084-5.772 0-3.802-.016-4.279-.084-5.772-.068-1.49-.305-2.508-.651-3.398-.358-.921-.836-1.701-1.615-2.48-.778-.778-1.559-1.257-2.48-1.615-.891-.346-1.908-.583-3.398-.651-1.493-.068-1.97-.084-5.772-.084"/><path d="M14 7c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7zm0 11.544c-2.509 0-4.544-2.034-4.544-4.544 0-2.509 2.034-4.544 4.544-4.544 2.509 0 4.544 2.034 4.544 4.544 0 2.509-2.034 4.544-4.544 4.544z"/><path d="M23 6.5c0 .828-.672 1.5-1.5 1.5s-1.5-.672-1.5-1.5.672-1.5 1.5-1.5 1.5.672 1.5 1.5"/></g></svg>Instagram</a></li>
+</ul></li>				</ul>
+			</div>
+
+		</div>
+	</footer>
+
+	<div id="network-footer" class="receptacle">
+		<div id="globalnav-footer"></div>
+	</div>
+
+	<link rel='stylesheet' id='channel-4-fonts-css'  href='//fonts.channel4.com/stylesheet?c4.chadwick.regular&#038;c4.chadwick.medium' media='all' />
+<script async="async" src='https://www.channel4.com/news/wp-content/themes/channel-4-news/js/scripts.min.js?ver=1.1.0'></script>
+<script src='//all4nav.channel4.com/v1/js/loader.js?header=globalnav-header&#038;footer=globalnav-footer&#038;responsive=yes'></script>
+<script src='//www.channel4.com/static/omniture/js/lib/omniture/s_code.js'></script>
+<script>
+if(window.location.href.indexOf('fb_xd_fragment') === -1) { var s_code=s.t(); }
+</script>
+
+</body>
+</html>

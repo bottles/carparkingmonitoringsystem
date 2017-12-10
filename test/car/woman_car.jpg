@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Denied Access</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="wrap">
+	<div class="module">
+		<a href="#" class="close"></a>
+		<img class="img-main" src="./img/lock.jpg" />
+		<div class="content">
+			<h2>Whoops!</h2>
+			<p>This URL is valid but the originating country of your Internet Service Provider is not authorized access due to our security policy.</p>
+			<p>If you are a legitimate visitor looking to obtain access to our website and are not a spammer/hacker, we want to help.</p>
+			<p>Call us at 402.502.8757 so we can grant access. Thank you.</p>
+		</div>
+		<div class="clear"></div>
+		<a href="##" class="back" onClick="history.go(-1); return false;">Go back to previous site</a>
+	</div>
+	</div>
+</body>
+</html>

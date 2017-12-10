@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+
+<title>
+ADSL, ADSL2+, Broadband plans, Internet, Telephone, VOIP, SIM | Internet Service | Adam Australia | Internet Service | Adam Australia
+</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta property="og:image" content="/img/social-media/600x315-ad.gif" />
+<link rel="icon" href="//assets.iinet.net.au/website/_shared/favicon/favicon.adam.ico" type="image/x-icon">
+
+<!-- the new css style being deployed to the site -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+<link id="primary-styles" href="//assets.iinet.net.au/el/3.6.312/styles.adam.css" rel="stylesheet" crossorigin>
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+   <link href="//assets.iinet.net.au/el/3.6.312/styles-ie8.css" rel="stylesheet" crossorigin>
+   <script src="//assets.iinet.net.au/website/_shared/_lib/html5shiv.js"></script>
+<![endif]-->
+
+<link id="page-styles" rel="stylesheet" href="styles/el-lib.adam.css"><link href="google-code-prettify/prettify.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body id="adam">
+<div id="top"></div>
+
+<!-- jquery needs to be placced before BODY content -->
+<script src="//assets.iinet.net.au/el/vendor/jquery-1.11.3.min.js"></script> <!-- note: cannot use 2.x+ as we need IE8 support -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T2TNRS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T2TNRS');</script>
+<!-- End Google Tag Manager -->
+
+<script type="application/ld+json">
+    { "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "url" : "http://www.adam.cin.au",
+    "contactPoint" : [
+        {
+        "@type" : "ContactPoint",
+        "telephone" : "+(61) 08 8423 4000",
+        "contactType" : "support"
+        } , {
+        "@type" : "ContactPoint",
+        "telephone" : "+(61) 08 8423 4030",
+        "contactType" : "sales"
+        } 
+    ] }
+</script>
+<header id="header-v1">
+    <section class="mobile-nav-section">
+  <nav class="mobile-nav">
+  <div class="mobile-main-nav">
+    <ul>
+      <li class="branding-wrapper"><span class="l-branding"><a href="/home"><span class="logo" arai-label="iiNet"></span></a></span></li>  <!-- note: this is in mobile too: changes here probably need to happen there as well -->
+      <li class="float-right"><a href="#" class="mobile-menu-click" title="Toggle menu"><span class="iii iii-hamburger"></span></a></li>
+      <li class="float-right"><a href="/contact" class="mobile-call-click" title="Show phone numbers">Call Us</a></li>
+    </ul>
+  </div>
+
+  <div class="mobile-call-menu">
+    <ul>
+        <li>
+          <ul class="phone-call">
+            <li><a href="tel:131917">Sales</a></li>
+            <li><a href="tel:131917">13 19 17</a></li>
+            <li class="menu-icon"><a href="tel:131917"><span class="iii iii-phone"></span></a></li>
+            <li class="menu-icon"><a href="mailto:sales@iinet.net.au"><span class="iii iii-email"></span></a></li>
+          </ul>
+        </li>
+
+        <li>
+          <ul class="phone-call">
+            <li><a href="tel:132258">Support</a></li>
+            <li><a href="tel:132258">13 22 58</a></li>
+            <li class="menu-icon"><a href="tel:132258"><span class="iii iii-phone"></span></a></li>
+            <li class="menu-icon"><a href="mailto:support@iinet.net.au"><span class="iii iii-email"></span></a></li>
+          </ul>         
+        </li>
+
+         <li>
+          <ul class="phone-call">
+            <li class="no-line-height"><a href="tel:132449">Business<br>Support</a></li>
+            <li><a href="tel:132449">13 24 49</a></li>
+            <li class="menu-icon"><a href="tel:132449"><span class="iii iii-phone"></span></a></li>
+            <li class="menu-icon"><a href="mailto:bizsupport@iinet.net.au"><span class="iii iii-email"></span></a></li>
+          </ul>         
+        </li>
+
+        <li class="mobile-more-details"><a href="/contact">More contact details</a></li>
+      </ul>
+  </div>
+
+  <div class="mobile-sub-menu">
+    <ul>
+        <li class="mobile-utility-nav"><a href="https://webmail.adam.com.au/"><span class="iii iii-point"></span> Log into Webmail</a></li>
+        <li class="mobile-utility-nav"><a href="/toolbox"><span class="iii iii-point"></span> Log into Toolbox</a></li>
+        <li class="mobile-utility-nav"><a href="/support/"><span class="iii iii-point"></span> Support</a></li>
+        
+        <li class="mobile-product-nav"><a href="/internet/"><span class="iii iii-point"></span> Internet</a></li>
+        <li class="mobile-product-nav"><a href="/phone/"><span class="iii iii-point"></span> Phone</a></li>
+        <li class="mobile-product-nav"><a href="/mobile/"><span class="iii iii-point"></span> Mobile</a></li>
+        <li class="mobile-product-nav"><a href="/tv/fetchtv/"><span class="iii iii-point"></span> TV</a></li>
+        <li class="mobile-product-nav"><a href="/business/"><span class="iii iii-point"></span> Business</a></li>
+        <li class="mobile-about-nav"><a href="/about/"><span class="iii iii-point"></span> About</a></li>
+        <li class="mobile-about-nav"><a href="/search/"><span class="iii iii-point"></span> Search</a></li>
+    </ul>
+  </div>
+</nav>
+</section>
+
+    <section class="desktop-nav-section">
+        <div class="container">
+    <div class="l-main-nav-wrapper">
+        <a class="skip-main-nav" href="#sitemain">Skip to main content</a>
+
+        <div class="l-main-nav-top">
+            <span class="l-tel">
+                <span>Sales:</span> 13 19 17
+            </span>
+
+            <span class="l-tel">
+                <span>Support &amp; billing:</span> 13 22 58
+            </span>
+
+            
+        </div>
+
+        <nav class="l-main-nav">
+            <span class="l-branding"><a href="/home"><span class="logo" arai-label="Adam"></span></a>
+            </span>
+            <!-- note: this is in mobile too: changes here probably need to happen there as well -->
+
+            <ul class="corp-category-nav">
+                <li><a class="residential" href="/home"><span class="iii iii-residential"></span><br>Residential</a></li>
+                <li><a class="business" href="/business"><span class="iii iii-business"></span><br>Business</a></li>
+                <li><a class="customer" href="/customers"><span class="iii iii-customers"></span><br>Customer<br>Home</a></li>
+            </ul>
+
+            <ul class="corp-about-nav">
+                <li><a href="/about">About</a></li>
+                <li><a href="/support">Support</a></li>
+                <li><a href="/contact">Contact</a></li>
+            </ul>
+
+            <div class="utility">
+                <span class="tablet-only icon-holder"><a href="/search/"><span class="iii iii-search"></span> <span class="l-utility-text">Search</span></a>
+                </span>
+                <span class="icon-holder"><a href="/customers" class="login-click"><span class="iii iii-login"></span> <span class="l-utility-text">Login</span></a>
+                </span>
+                <span class="tablet-only icon-holder"><a href="/shopping-cart/"><span class="iii iii-shopping-cart"></span> <span class="l-utility-text">Cart</span></a>
+                </span>
+
+                <div class="l-cart-widget desktop-only">
+                    <a class="btn btn-primary btn--cart" href="/internet">Get Started</a>
+                </div>
+            </div>
+
+        </nav>
+    </div>
+    <!-- end main nav wrapper -->
+</div>
+        <div class="l-login-wrapper">
+    <div class="l-login-content container">
+        <div class="login-text">
+            <h2>Login to Adam</h2>
+            <p>Access Adam Webmail or manage your account in Toolbox.</p>
+        </div>
+        <div class="webmail-cta col-wrapper">
+            <div class="col-content">
+                <h4><i class="iii iii-webmail iii-24 highlight-primary"></i> Webmail</h4>
+                <a href="https://webmail.adam.com.au" title="Go to Webmail" class="btn btn-chevron btn-primary" onClick="ii.te('Link Clicks', 'website_header', 'webmail_button');">Go to Webmail</a>
+            </div>
+        </div>
+        <div class="toolbox-cta col-wrapper">
+            <div class="col-content">
+                <h4><i class="iii iii-toolbox iii-24 highlight-primary"></i> Toolbox</h4>
+                <a href="https://www.adam.com.au/login" title="Go to Toolbox" class="btn btn-chevron btn-primary" onClick="ii.te('Link Clicks', 'website_header', 'toolbox_button');">Go to Toolbox</a>
+            </div>
+        </div>
+        <div class="close-ico">
+            <a href="#" class="login-click">
+                <span class="iii-stack iii-16">      
+                    <i class="iii iii-circle-fill iii-stack-2x"></i> 
+                    <i class="iii iii-cross iii-stack-1x"></i>  
+                </span>
+            </a>
+        </div>
+    </div>
+</div>
+<!-- /header login wrapper -->
+        <div class="product-nav-wrapper">
+            <div class="container">
+                <nav class="product-nav">
+                    <ul>
+    <li><a href="/bundles">Bundles</a></li>
+    <li class="dropdown"><a href="/internet"><span class="link-content">Internet</span><i class="iii iii-point iii-rotate-90"></i></a>
+        <ul class="sub-menu active">
+        <li><a href="/internet/broadband/naked-dsl">Naked DSL<span>Broadband with no line rental</span></a></li>
+        <li><a href="/internet/broadband/nbn">NBN<span>National Broadband Network</span></a></li>
+				<li><a href="/internet/broadband/adsl">ADSL2+<span>Fast ADSL2+ Internet</span></a></li>
+        <li><a href="/products/fibre">Fibre to the Home<span>At selected fibre locations</span></a></li>
+        <li><a href="/products/wimax">WiMAX<span>Broadband in blackspot areas</span></a></li>
+        </ul>
+    </li>
+    <li  class="dropdown"><a href="/internet/broadband/nbn">NBN<i class="iii iii-point iii-rotate-90"></i></a>
+        <ul class="sub-menu">
+            <li><a href="/internet/broadband/nbn">About NBN<span>All your questions answered</span></a></li>
+            <li><a href="/internet/broadband/nbn/plans/">Plans<span>Find your perfect NBN plan</span></a></li>
+            <li><a href="/internet/broadband/nbn/coverage/">Coverage<span>Where and When NBN is available</span></a></li>
+            <li><a href="/internet/broadband/nbn/videos/">Videos<span>Informative NBN videos</span></a></li>
+            <li><a href="/internet/broadband/nbn/register/">Register Interest<span>We’ll keep you up to date</span></a></li>
+            <li><a href="/internet/broadband/nbn/terms/">Terms, fees &amp; guarantees<span>What you need to know</span></a></li>
+        </ul>
+    </li>
+    <li  class="dropdown"><a href="/phone"><span class="link-content">Phone</span><i class="iii iii-point iii-rotate-90"></i></a>
+        <ul class="sub-menu">
+        <li><a href="/phone/home">Home Phone<span>Hassle-free phone service</span></a></li>
+        <li><a href="/phone/netphone-voip">Netphone<span>Make VoIP calls over the internet</span></a></li>
+        <li><a href="/internet/broadband/nbn/fibre-phone">NBN Fibre Phone<span>Next generation phone on NBN</span></a></li>
+        <li><a href="/phone/mobile-phones">Mobile Plans (4G)<span>Cheap mobile &amp; data plans</span></a></li>
+        </ul>
+    </li>
+    <li class="dropdown"><a href="/phone/mobile-phones/sim-only/"><span class="link-content">Mobile</span></a>
+    </li>
+    <li class="tv dropdown"><a href="/tv/fetchtv/features/"><span class="link-content">TV</span> <i class="iii iii-point iii-rotate-90"></i></a>
+        <ul class="sub-menu">
+            <li><a href="/tv/fetchtv/features">Features<span>Learn more about Adam TV</span></a></li>       
+            <li><a href="/tv/fetchtv/app">Fetch TV App<span>Take control on the go</span></a></li>
+            <li><a href="/tv/fetchtv/tvguide">TV Guide<span>What's on Adam TV</span></a></li>
+            <li><a href="/tv/fetchtv/faq">FAQ<span>Frequently Asked Questions</span></a></li>
+        </ul>
+    </li>
+
+    <li class="dropdown tablet-only"><a href=""><span class="link-content">More</span><i class="iii iii-point iii-rotate-90"></i></a>
+        <ul class="sub-menu">
+        <li><a href="/home-installation/tech2home/">Home installations</a></li>
+        <li><a href="/hardware">Hardware</a></li>
+        </ul>
+    </li>
+
+    <li class="dropdown desktop-only"><a href="/home-installation/tech2home/"><span class="link-content">Home installations</span></a></li>
+
+    <li class="dropdown desktop-only"><a href="/hardware"><span class="link-content">Hardware</span><i class="iii iii-point iii-rotate-90"></i></a>
+        <ul class="sub-menu">
+        <li><a href="/internet/broadband/adsl/hardware">Broadband Hardware<span>Hardware for Broadband</span></a></li>
+        <li><a href="/tv/fetchtv">Adam TV Hardware<span>Hardware for IPTV</span></a></li>
+        <li><a href="/hardware/networking">Networking Hardware<span>Networking Hardware</span></a></li>
+        <li><a href="/hardware/piix">Piix&trade;<span>Digital Photo Frame</span></a></li>
+        </ul>
+    </li>
+</ul>
+                </nav>
+            </div>
+        </div>
+    </section>
+    <!-- end desktop nav -->
+</header><script src="../../../css/html5shiv.respond.min.js"></script>
+<link href="../../../css/adam-redirect.css" rel="stylesheet" type="text/css">
+
+<!-- iiNet redirect content here -->
+<div class="iinet-redirect-wrapper ">
+  <div class="container iinet-redirect redirect-header w-shadow">
+    <div class="row">
+      <div class="col-sm-8" >
+        <h1 class="font-80pc"> iiNet welcomes Adam Internet.</h1>
+        <p>Great value Broadband, Home phone, Mobile and <a href="https://www.iinet.net.au/internet-products/broadband/nbn/"><strong>NBN Plans</strong></a> powered by iiNet. Adam Internet is now part of the iiNet Group. Australia's second largest DSL Internet Provider.</p>
+        <p><strong>What does this mean for you?</strong><br />
+          You can continue to access great value plans through the <a href="http://www.iinet.net.au/home"><span class="highlight-secondary"> iiNet Website.</span></a> Check out the iiNet <a href="http://www.iinet.net.au/internet/broadband/adsl/"><span class="highlight-secondary">Broadband plans</span></a> to see which phone and broadband bundles are available in your area.</p>
+        <br />
+        <img class="iilogo" src="http://assets.iinet.net.au/el/3.3.2/assets/header/iinet/logo.svg"> <img class="adamlogo" src="../../img/iinet-redirect/adam-logo.png"> </div>
+      <div class="col-sm-4" > <img align="right" class="finn" src="../../business/img/finn.png"> </div>
+    </div>
+  </div>
+  <div class="container iinet-redirect">
+    <div class="row iinet-products row-centered ">
+      <div class="iinet-products__item"> <a href="http://www.iinet.net.au/internet/" class="more-info internet" title="internet"></a>
+        <h4>ADSL</h4>
+
+        </div>
+      <div class="iinet-products__item"> <a href="http://www.iinet.net.au/internet/broadband/naked-dsl/" class="more-info bundles" title="bundles"></a>
+        <h4>Naked DSL</h4>
+  
+     </div>
+      <div class="iinet-products__item"> <a href="https://www.iinet.net.au/internet-products/broadband/nbn/" class="more-info nbn" title="nbn"></a>
+        <h4>NBN Plans</h4>
+
+       </div>
+      <div class="iinet-products__item"> <a href="http://www.iinet.net.au/mobile/" class="more-info mobile" title="mobile"></a>
+        <h4>Mobile</h4>
+
+        </div>
+      <div class="iinet-products__item"> <a href="http://www.iinet.net.au/business/" class="more-info biz" title="iiNet Business"></a>
+        <h4>Business</h4>
+         </div>
+    </div>
+    <div class="container iinet-redirect help-section ">
+      <div class="row">
+        <div class="col-sm-4 iihelp">
+          <h3>Looking for some help?</h3>
+          <p>Our support page <a href="https://iihelp.iinet.net.au/"><span class="highlight-secondary">iiHelp</span></a> may have the answers.</p>
+          <a href="https://iihelp.iinet.net.au/" class="btn btn-chevron btn-secondary">Go to iiHelp</a> </div>
+        <div class="col-sm-4 iihelp">
+          <h3>Existing customer?</h3>
+          <p>Just click below to go to your existing toolbox</p>
+          <a href="https://toolbox3.adam.com.au/login" class="btn btn-chevron btn-secondary">Go to toolbox</a> </div>
+        <div class="col-sm-4 iihelp">
+          <h3>Need to login to Webmail?</h3>
+          <p>Just click below to login and view your emails</p>
+          <a href="https://webmail.adam.com.au/" class="btn btn-chevron btn-secondary">Go to Webmail</a> </div>
+      </div>
+    </div>
+    <div class="page-awards">
+      <div class="awards page-section">
+        <h3 class="section-title">Connect better with iiNet's <span>award-winning service</span></h3>
+        <p>We love the â€˜net... So weâ€™ve made it our job to connect more Australians to <a href="@Url.BroadbandProductPage()" title="Click to find out more.">faster broadband</a>, <a href="@Url.PhoneCategoryPage()" title="Click to find out more.">phone</a> and <a href="@Url.FullUrl("/business/small/website-solutions")" title="Click to find out more.">web services</a> and backed it all up with friendly customer service staff who know our products inside out.</p>
+        <div class="awards-list awards-sub-section">
+          <ul>
+            <li><img src="//iinet.net.au/IPEContent/Images/homepage/awards/award-14-auscontact.gif" alt="awards" /></li>
+            <li><img src="//iinet.net.au/IPEContent/Images/homepage/awards/stevie-bronze-award.jpg" alt="awards" /></li>
+            <li><img src="//iinet.net.au/IPEContent/Images/homepage/awards/stevie-silver-award.jpg" alt="awards" /></li>
+            <li><img src="//iinet.net.au/IPEContent/Images/homepage/awards/waitta.gif" alt="awards" /></li>
+            <br class="visible-sm" />
+            <li><img src="//iinet.net.au/IPEContent/Images/homepage/awards/award-no-12.png" alt="awards" /></li>
+            <li><img src="//iinet.net.au/IPEContent/Images/homepage/awards/award-no-1.png" alt="awards" /></li>
+            <li><img src="//iinet.net.au/IPEContent/Images/homepage/awards/award-no-2.png" alt="awards" /></li>
+            <li><img src="//iinet.net.au/IPEContent/Images/homepage/awards/award-no-5.png" alt="awards" /></li>
+          </ul>
+        </div>
+      </div>
+      <!--end awards--> 
+    </div>
+    <!--end awards section-->
+    
+    <div class="page-testimonial">
+      <div class="testimonial page-section">
+        <div class="testimonial-content">
+          <h3>What our customers are saying</h3>
+          <blockquote>
+            <p><strong>I just LOVE the support culture at iiNet.</strong> - helpful, friendly, well trained - brilliant.</p>
+            <em><strong>Caroline</strong> - 20 October 2015</em></blockquote>
+          <p class="hreview-aggregate"> <span class="item"> <span class="fn">iiNet Customer Service</span> rated <span class="rating"> <span class="average">4.21</span> out of <span class="best">5</span> </span> based on <span class="votes">30,909</span> ratings.</span> </p>
+          <p class="rating"><img src="//iinet.net.au/IPEContent/Images/naked/4-out-of-5.png" alt="rating" /></p>
+        </div>
+        <!--end testimonial-content--> 
+      </div>
+    </div>
+  </div>
+</div> <!-- iiNet redirect content end -->
+
+<footer id="footer-v1" data-track-links="iiFooter-Elli">
+  <div class="container">
+        
+      <ul class="footer-list">
+        <li class="personal">   
+            <h4><a href="/internet/">Our Products </a></h4>
+            <ul>
+                <li><a href="/bundles">Bundles</a></li>    
+                <li><a href="/internet/broadband/naked-dsl">Naked DSL</a></li>
+                <li><a href="/internet/broadband/adsl">ADSL2+</a></li>
+                <li><a href="/internet/broadband/nbn">Adam NBN&trade;</a></li>
+                <li><a href="/products/wimax">WiMAX</a></li>
+                <li><a href="/products/fibre">FTTH</a></li>
+                <li><a href="/tv/fetchtv">AdamTV with Fetch</a></li>
+            </ul>
+        </li>
+
+        <li class="business">   
+            <h4>&nbsp;</h4>
+            <ul>
+                <li><a href="/phone/home/">Home Phone</a></li>
+                <li><a href="/phone/netphone-voip/">Netphone</a></li>
+                <li><a href="/phone/mobile-phones/sim-only/">Mobile Plans</a></li>
+                <li><a href="/mobile/tablets/">Tablets</a></li>
+                <li><a href="/hardware/networking/">Networking Hardware</a></li>
+                <li><a href="/business">Business</a></li>
+            </ul>
+        </li>
+
+        <li class="customers">  
+            <h4 class="header"><a href="/customers">Customers</a></h4>
+            <ul>
+                <li><a href="/customers">Customer Home</a></li>
+                <li><a href="/login">Toolbox &amp; Webmail Login</a></li>
+                <li><a href="/support/">Support</a></li>
+                <li><a href="/status/">Network Status</a></li>
+                <li><a href="/contact/">Contact Support</a></li>
+                <li><a href="http://freezone.adam.com.au/">Freezone</a></li>
+                <li class="hide-for-mobile"><a href="/internet/broadband/speed-test/">Broadband Speed Test</a></li>
+            </ul>
+        </li>
+
+        <li class="about">
+            <h4><a href="/about">About Adam</a></h4>
+            <ul>
+                <li><a href="/about/legal">Legal</a></li>
+                <li><a href="/about/legal/privacy">Privacy Statement</a></li>
+                <li><a href="/about/careers/">Careers</a></li>
+            </ul>
+        </li>
+
+        <li class="contact">
+            <h4><a href="/contact">Contact Us</a></h4>
+             <ul>
+                <li>Sales: 13 19 17</li>
+                <li>Support &amp; billing: 13 22 58</li> 
+                <li><a href="/sitemap">Site map</a></li>
+            </ul>
+
+             <ul class="social-media">
+                <li class="facebook"><a href="http://facebook.com/adaminternet" rel="nofollow" target="_blank"><span class="iii iii-sm-facebook"></span></a></li>
+                <li class="twitter"><a href="http://twitter.com/adaminternet" rel="nofollow" target="_blank"><span class="iii iii-sm-twitter"></span></a></li>
+                <li class="googleplus"><a href="https://plus.google.com/114827444822093258391" rel="nofollow" target="_blank"><span class="iii iii-sm-googleplus"></span></a></li>
+                <li class="linkedin"><a href="http://www.linkedin.com/company/adam-internet" rel="nofollow" target="_blank"><span class="iii iii-sm-linkedin"></span></a></li>
+                <li class="youtube"><a href="https://www.youtube.com/user/AdamInternetSA" rel="nofollow" target="_blank"><span class="iii iii-sm-youtube"></span></a></li>
+            </ul>
+        </li>
+      </ul>
+
+      <div class="corp-details">
+        <p>Copyright 2014 &copy; Adam Internet Pty. Ltd.</p>
+      </div>   
+
+  </div>
+</footer>
+
+<!-- Using the new Element-Library :D!!! -->
+<script src="//assets.iinet.net.au/el/3.6.312/scripts.js"></script>
+
+<div id="bottom"></div>
+</body>
+</html>

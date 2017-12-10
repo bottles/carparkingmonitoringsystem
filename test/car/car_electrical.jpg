@@ -1,0 +1,817 @@
+<!--[if i]><![endif]-->
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<!--[if ie]><meta http-equiv=X-UA-Compatible content="IE=Edge"><![endif]-->
+<meta http-equiv=X-UA-Compatible content="IE=Edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@mentor_graphics" />
+<meta name="twitter:creator" content="@mentor_graphics" />
+<meta property="og:title" content="Mentor Automotive" />
+<meta property="og:description" content="Connectivity. Autonomous. Electrification. Architecture. Mentor Automotive provides the software, systems and services that unleash your freedom to innovate." />
+<meta property="og:image" content="https://mgc-images.imgix.net/home/ogimg-6417B275.jpg" />
+<meta property="og:url" content="https://www.mentor.com/mentor-automotive/" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en" />
+<title>Automotive Solutions - Mentor Graphics</title>
+<meta name="Description" id="Description" content="Connectivity. Autonomous. Electrification. Architecture. Mentor Automotive provides the software, systems and services that unleash your freedom to innovate." />
+<meta name="EntityType" id="EntityType" content="" />
+<meta name="LastModified" id="LastModified" content="2017-11-10" />
+<meta name="Section" id="Section" content="" />
+<meta name="SubsiteType" id="SubsiteType" content="" />
+<link type="text/css" rel="stylesheet" href="https://static.mentor-cdn.com/css/mgc-automotive/generated/prod/v33/mgc_agg.css"/>
+<script src="https://static.mentor-cdn.com/common/lib/jquery/1.8.3/jquery.min.js"></script>
+<script src="https://static.mentor-cdn.com/common/lib/raven-js/1.2.0/raven.min.js"></script>
+<script>
+Raven.config('https://bc4da2b20bcf452c9ada8eebf5999184@app.getsentry.com/29357', {
+ignoreErrors: [
+'Blocked a frame with origin "http://www.mentor.com" from accessing a cross-origin frame.'
+],
+ignoreUrls: [
+/extensions\//i,
+/^chrome:\/\//i,
+/KW__injectedScriptMin\//i,
+/s3\.mentor\.com\/search\//i
+],
+whitelistUrls: [/mentor\.com/,/mentor-dev\.com/,/static\.mentor-cdn\.com/]
+}).install();
+</script>
+<link rel="stylesheet" type="text/css" href="https://static.mentor-cdn.com/common/css/swiper.css?v2" />
+<script type="text/javascript">STATIC_ASSET_DOMAIN = "";STATIC_ASSET_DOMAIN_LOGIC = function(p) { return p };static_host='https://static.mentor-cdn.com';lang="en";</script>
+<script type="text/javascript" src="https://static.mentor-cdn.com/common/jwplayer/6.10.4906/jwplayer.js"></script>
+<script type="text/javascript" src="https://static.mentor-cdn.com/mgc/automotive/generated/prod/v13/app.min.js"></script>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=aljPzogMmq">
+<link rel="icon" type="image/png" href="/favicon-32x32.png?v=aljPzogMmq" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png?v=aljPzogMmq" sizes="16x16">
+<link rel="manifest" href="/manifest.json?v=aljPzogMmq">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=aljPzogMmq" color="#3769ac">
+<link rel="shortcut icon" href="/favicon.ico?v=aljPzogMmq">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body class=" mgc flex-body fixed-top bg-white" id="" onload="">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MB9JF3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MB9JF3');</script>
+<!-- End Google Tag Manager -->
+<a name="__topdoc__"></a>
+<!--/pageElement:HEADER-->
+<!-- //// MGC PAGE START  //// -->
+
+<div class=" navbar navbar-top navbar-fixed-top navbar-flex bg-white"
+id="navbar" >
+<div class=" navbar-flex-addon-main p-x"
+>
+<a href="/" class="logo-mentor logo-mentor-black"><span class="sr-only">Mentor, a Siemens Business</span></a>
+</div>
+<div class=" navbar-flex-addon navbar-flex-addon-stretch hidden-md-down p-r-lg"
+>
+<ul class="nav-primary">
+<li class="active"> <a class="" href="/mentor-automotive/" title="Mentor Automotive">Mentor Automotive</a> </li>
+<li> <a class="" href="/mentor-automotive/connectivity" title="Connectivity">Connectivity</a> </li>
+<li> <a class="" href="/mentor-automotive/autonomous" title="Autonomous">Autonomous</a> </li>
+<li> <a class="" href="/mentor-automotive/electrification" title="Electrification">Electrification</a> </li>
+<li> <a class="" href="/mentor-automotive/architecture" title="Architecture">Architecture</a> </li>
+</ul>
+</div>
+</div>
+<button class="toggle-is-toggled toggle-menu">
+<i class="menu-icon menu-icon-animated"><span></span></i>
+<b>Menu</b>
+</button>
+<div class=" section-menu"
+>
+<ul class="section-menu-primary">
+<li class="active"> <a class="" href="/mentor-automotive/" title="Mentor Automotive">Mentor Automotive</a> </li>
+<li> <a class="" href="/mentor-automotive/connectivity" title="Connectivity">Connectivity</a> </li>
+<li> <a class="" href="/mentor-automotive/autonomous" title="Autonomous">Autonomous</a> </li>
+<li> <a class="" href="/mentor-automotive/electrification" title="Electrification">Electrification</a> </li>
+<li> <a class="" href="/mentor-automotive/architecture" title="Architecture">Architecture</a> </li>
+</ul>
+<hr class="hr"> <ul class="section-menu-secondary">
+<li> <a class="" href="/mentor-automotive/silicon-design" title="Silicon Design for Automotive">Silicon Design for Automotive</a> </li>
+<li> <a class="" href="/mentor-automotive/functional-safety" title="Mentor Safe: FunctionalSafety/ISO 26262">Mentor Safe: FunctionalSafety/ISO 26262</a> </li>
+</ul>
+<hr class="hr"> <ul class="section-menu-tertiary">
+<li> <a class="" href="/mentor-automotive/resources/" title="Resources">Resources</a> </li>
+<li> <a class="" href="/mentor-automotive/blog/" title="Blog">Blog</a> </li>
+<li> <a class="" href="/mentor-automotive/news-events" title="News &amp; Events">News & Events</a> </li>
+<li> <a class="" href="/mentor-automotive/services" title="Services">Services</a> </li>
+</ul>
+<hr class="hr">
+<ul>
+<li class="text-xs"><a href="https://mentor.com">Mentor.com</a></li>
+<li class="text-xs"><a href="https://mentor.com/company">About Mentor, a Siemens Business</a></li>
+</ul>
+</div>
+<div id="content" class="flex-content m-b-0 p-b-0">
+<style>
+#mySvg {
+position: absolute;
+opacity: .01;
+width: 100%;
+height: 100%;
+left: 0;
+top: 0;
+animation-name: svgBgAnim;
+transform-origin: center;
+animation-timing-function: ease-in-out;
+animation-duration: 35s;
+animation-fill-mode: both;
+animation-iteration-count: infinite;
+}
+@keyframes svgBgAnim {
+0% {
+transform-origin: center;
+transform: rotate(0deg);
+}
+10% {
+opacity: .02;
+transform: rotate(15deg) scale(.8) translateX(30%) translateY(-30%);
+transform-origin: center;
+}
+25% {
+opacity: .03;
+transform: rotate(90deg) scale(.7) translateX(-50%) translateY(-100%);
+transform-origin: center;
+}
+50% {
+opacity: .04;
+transform: rotate(180deg) scale(1.7) translateX(-20%) translateY(-40%);
+transform-origin: center;
+}
+85% {
+opacity: .02;
+transform: rotate(270deg) ease-in-out scale(1.4) translateX(-50%)  translateY(-70%);
+transform-origin: center;
+}
+100% (
+transform: rotate(359deg) scale(1.2) translateY(-5%);
+transform-origin: center;
+)
+}
+</style>
+<div class="bg-white position-relative hero" id="stripe-fixed">
+<svg id="mySvg"></svg>
+<div class="hero-inner">
+<div class="hero-copy text-webfont-one">
+<div class="display-2 text-emphasis-normal m-b"><span class="item-reveal-fade-1">Connectivity.</span> <span class="item-reveal-fade-2">Autonomous. </span><br class="hidden-sm-down"><span class="item-reveal-fade-3">Electrification.</span> <span class="item-reveal-fade-4">Architecture.</span></div>
+<p class="lead text-emphasis-normal item-reveal-fade-5">Mentor Automotive provides the software, systems and services that unleash your freedom to&nbsp;innovate.</p>
+<a href="/fulfillment/technology_overview/mentor-automotive-in-less-than-a-minute-79389668-908d-4e36-8156-50c6e0a70739" title="Watch Overview Video" class="btn btn-primary  mgclightbox mgcswfreplacefp lb_flash video btn-outline btn-lg btn-pill text-emphasis-normal" rel="960||540||uuid:79389668-908d-4e36-8156-50c6e0a70739|ischaptered:false|mgcbitrate:mgcvbitrate|file:mp4s/iesd-automotive-less-than-a-minute.mp4|id:flashreplace|streamer:rtmp%3A//s3qyscmu6jxvy3.cloudfront.net/cfx/st|autostart:true|skin:/mentor2/images/bright.swf||allowFullScreen:true|allowscriptaccess:always||Mentor Automotive in less than a minute" data-video='{"track":true,"isChaptered":false,"uuid":"79389668-908d-4e36-8156-50c6e0a70739","height":"540","file":"mp4s\/iesd-automotive-less-than-a-minute.mp4","title":"Mentor Automotive in less than a minute","width":"960"}'>
+<svg class="icon icon-play3" aria-hidden="true"><use xlink:href="#icon-play3"></use></svg> Watch Overview Video
+</a>
+</div>
+<img src="https://s3.amazonaws.com/images.mentor.com/mentor-automotive/img/img-hero.png" alt="img-hero" class="img-hero">
+</div>
+</div><!-- /stripe -->
+<div class="stripe bg-secondary-dark text-inverse stripe-fixed-next p-x text-center"
+id="stripe-fixed-next" >
+<b class="text-uppercase text-sm text-webfont-two text-emphasis text-muted">News and Events</b>
+<a href="/mentor-automotive/news-events" class="link-block">
+<span class="text-pipe"><svg class="icon icon-arrow-right4" aria-hidden="true"><use xlink:href="#icon-arrow-right4"></use></svg></span> New Mentor DRS360 Platform Enables Level 5 Autonomous Driving via Centralized Raw Data Fusion and Direct Real-Time Sensing
+</a>
+</div>
+<div class="stripe bg-white p-a-0 bg-white stripe-fixed-next text-webfont-one overflow-hidden section-tiles"
+>
+<div class="row-flex row-flush">
+<div class="col-md-6 col-xs-12 section-tile">
+<a class="p-a-lg display-block text-no-underline link-block" href="/mentor-automotive/connectivity">
+<div class="row pull-right">
+<div class="col-md-4 text-center">
+<img class="img-cta img-cta-1" src="https://s3.amazonaws.com/images.mentor.com/mentor-automotive/img/connectivity-on.svg" height="180">
+</div>
+<div class="col-md-8">
+<h2 class="p-lg-l-md">Connectivity</h2>
+<p class="text-lg p-lg-l-md">Connect car, driver and the external world. Consistently, securely and reliably manage the flow of huge volumes of <nobr>data.&nbsp;<svg class="icon icon-circle-right2 text-info" aria-hidden="true"><use xlink:href="#icon-circle-right2"></use></svg></nobr></p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-md-6 col-xs-12 section-tile section-tile-alt">
+<a class="p-a-lg display-block text-no-underline link-block" href="/mentor-automotive/autonomous">
+<div class="p-lg-l-md">
+<div class="row">
+<div class="col-md-8">
+<h2>Autonomous</h2>
+<p class="text-lg p-lg-r-md">Create advanced driver-assist and autonomous driving solutions with automotive-grade hardware and software.&nbsp;<svg class="icon icon-circle-right2 text-info" aria-hidden="true"><use xlink:href="#icon-circle-right2"></use></svg></nobr></p>
+</div>
+<div class="col-md-4 text-center">
+<img class="img-cta img-cta-2" src="https://s3.amazonaws.com/images.mentor.com/mentor-automotive/img/autonomous-on.svg" height="180">
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row-flex row-flush border-top">
+<div class="col-md-6 col-xs-12 section-tile section-tile-alt">
+<a class="p-a-lg display-block text-no-underline clearfix link-block" href="/mentor-automotive/electrification">
+<div class="p-lg-l-md">
+<div class="row pull-right">
+<div class="col-md-8">
+<h2>Electrification</h2>
+<p class="text-lg p-lg-r-md">Front-load design decisions via advanced simulation and perform non-destructive testing to boost EV system efficiency and range.&nbsp;<svg class="icon icon-circle-right2 text-info" aria-hidden="true"><use xlink:href="#icon-circle-right2"></use></svg></nobr></p>
+</div>
+<div class="col-md-4 text-center">
+<img class="img-cta img-cta-3" src="https://s3.amazonaws.com/images.mentor.com/mentor-automotive/img/electrification-on.svg" height="200">
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="col-md-6 col-xs-12 section-tile">
+<a class="p-a-lg display-block text-no-underline link-block" href="/mentor-automotive/architecture">
+<div class="row">
+<div class="col-md-4 text-center">
+<img class="img-cta img-cta-4" src="https://s3.amazonaws.com/images.mentor.com/mentor-automotive/img/architecture-on.svg" height="180">
+</div>
+<div class="col-md-8">
+<h2 class="p-lg-l-md">Architecture</h2>
+<p class="text-lg p-lg-l-md">Optimize electrical system implementation to reduce vehicle weight and cost. Consolidate safety-critical AUTOSAR and infotainment networks.&nbsp;<svg class="icon icon-circle-right2 text-info" aria-hidden="true"><use xlink:href="#icon-circle-right2"></use></svg></nobr></p>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="stripe bg-gray-lightest stripe-fixed-next"
+>
+<div class="container p-y-lg"
+>
+<h2 class="text-uppercase text-xs text-letter-spacing text-center text-emphasis-strong">More Automotive Solutions</h2>
+<hr>
+<div class="row-flex row-flush row-bordered">
+<div class="col-md-6 hover-bg-white hover-raised hover-transition">
+<div class="p-a-md">
+<a href="/mentor-automotive/functional-safety" class="link-block">
+<div class="media m-y-0">
+<span class="media-left p-r-md">
+<img class="media-object img-circle" src="https://s3.amazonaws.com/images.mentor.com/mentor-automotive/img/iso.svg" width="96">
+</span>
+<div class="media-body">
+<h3 class="m-b-sm">Functional Safety</h3>
+<p class="text-lg m-b-0">Mentor® Safe™ enables design for ISO 26262 with expanded tool qualification to ease functional safety/ISO 26262 compliance. <svg class="icon icon-circle-right2" aria-hidden="true"><use xlink:href="#icon-circle-right2"></use></svg></p>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="col-md-6 hover-bg-white hover-raised hover-transition">
+<div class="p-a-md">
+<a href="/mentor-automotive/silicon-design" class="link-block">
+<div class="media m-y-0">
+<span class="media-left p-r-md">
+<img src="https://s3.amazonaws.com/images.mentor.com/mentor-automotive/img/silicon-4-auto.svg" width="96">
+</span>
+<div class="media-body">
+<h3 class="m-b-sm">Silicon Design for Automotive</h3>
+<p class="text-lg m-b-0">Develop and verify the ICs and SoCs at the heart of advanced automotive electronics. Build and test chips powering the systems that increasingly are the main differentiators for automakers across the product spectrum, in everything from luxury to economy-class vehicles. <svg class="icon icon-circle-right2" aria-hidden="true"><use xlink:href="#icon-circle-right2"></use></svg></p>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="stripe bg-white stripe-fixed-next"
+>
+<div class="container p-y-lg"
+>
+<h2 class="text-uppercase text-xs text-letter-spacing text-center text-emphasis-strong"><a href="/mentor-automotive/blog/" class="link-block"><svg class="icon icon-bubbles4" aria-hidden="true"><use xlink:href="#icon-bubbles4"></use></svg> Mentor Automotive Blog</a></h2>
+<hr> <div class="row-flex row-bordered">
+<div class="col-md-4 p-t-md item-reveal-2">
+<a class="link-block" href/mentor-automotive/blog/2017-11-08-changes-coming-for-iso26262">
+<div class="row">
+<div class="col-xs-3 text-center">
+<img class="img-circle m-b-sm" src="https://s3.amazonaws.com/images.mentor.com/mentor-automotive/img/jeurgen-schloeffel.jpeg" alt="Jeurgen Schloeffel" width="60"><br>
+<b class="text-xs display-block text-emphasis">Jeurgen Schloeffel</b>
+<span class="text-xxs text-mute display-block">Tessent Program Manager</span>
+</div>
+<div class="col-xs-9">
+<h3 class="link-block-link text-xl m-b-sm">Changes coming for ISO26262</h3>
+<p class="m-b-0 text-normal">The second version of ISO 26262, the guiding standard for functional safety for road vehicles, now includes guidelines for semiconductors...</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-md-4 p-t-md item-reveal-1">
+<a class="link-block" href="/mentor-automotive/blog/2017-10-20-how-bosch-visiontec-used-catapult-hls-to-develop-ip-and-ics-for-autonomous-driving-technology">
+<div class="row">
+<div class="col-xs-3 text-center">
+<img class="img-circle m-b-sm" src="https://s3.amazonaws.com/images.mentor.com/mentor-automotive/img/mike-santorini.jpeg" alt="Mike Santarini" width="60"><br>
+<b class="text-xs display-block text-emphasis">Mike Santarini</b>
+<span class="text-xxs text-mute display-block">Senior Communications Manager</span>
+</div>
+<div class="col-xs-9">
+<h3 class="link-block-link text-xl m-b-sm">How Bosch Visiontec used Catapult HLS to develop IP and ICs for autonomous driving technology</h3>
+<p class="m-b-0 text-normal">The BOSCH® Visiontec team develops IP and ICs for autonomous driving technology. The team was assigned several new designs that had to be completed in less than a year...</p>
+</div>
+</div>
+</a>
+</div>
+<div class="col-md-4 p-t-md item-reveal-3">
+<a class="link-block" href="/mentor-automotive/blog/2017-10-12-automotive-ic-test-technology-that-will-help-you-sleep-easier">
+<div class="row">
+<div class="col-xs-3 text-center">
+<img class="img-circle m-b-sm" src="https://s3.amazonaws.com/images.mentor.com/mentor-automotive/img/andrew.jpg" alt="Andrew Macleod" width="60"><br>
+<b class="text-xs display-block text-emphasis">Andrew Macleod</b>
+<span class="text-xxs text-mute display-block">Director, Automotive Marketing</span>
+</div>
+<div class="col-xs-9">
+<h3 class="link-block-link text-xl m-b-sm">Automotive IC test technology (that will help you sleep easier)”</h3>
+<p class="m-b-0 text-normal">Zero-defect, as any auto engineer will tell you, is acknowledged to be a journey, and automotive IC companies have to show where they are on that mission...</p>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="stripe bg-secondary-dark stripe-fixed-next text-inverse p-t-lg"
+>
+<hr class="hr hr-div hr-centered m-t-0 m-b-md">
+<h2 class="text-uppercase text-xs text-letter-spacing text-center text-emphasis-strong text-muted"><svg class="icon icon-users3" aria-hidden="true"><use xlink:href="#icon-users3"></use></svg> What Our Customers Say</h2> <div class="swiper-container swiper-prev-next-middle swiper-quotes p-lg-x-xl m-t-md">
+<div class="swiper-wrapper">
+<div class="swiper-container swiper-prev-next-middle swiper-quotes p-lg-x-xl m-t-md">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<blockquote class="quote-hang display-1 m-b-md">
+<span class="hangquote">“</span>Mentor Graphics VeSys wire harness design tool was successfully used for both cars for the first time. VeSys included automatic creation of wire lists and documentation, which helped speed the manufacturing process. Most important, it was easy to use, with the support of online training, enabling us to complete the short design phase of Formula Student teams, despite being first-time users.<span class="endquote">”</span>
+</blockquote>
+<div class="text-center">
+<cite class="text-sm text-mute p-b display-block">
+<b class="display-block text-md text-white text-emphasis"><span class="circle-outline circle-outline-sm m-b-sm"><svg class="icon icon-user2" aria-hidden="true"><use xlink:href="#icon-user2"></use></svg></span> Marcel Zolg</b>
+Technical University of Munich / TUfast Racing Team
+</cite>
+</div>
+</div>
+<div class="swiper-slide">
+<blockquote class="quote-hang display-1 m-b-md">
+<span class="hangquote">“</span>We are always looking for ways to provide a better service experience to our customers. Commercial vehicles are valuable, hard-working assets, so everything that maximizes their uptime is important. By deploying Mentor's technology to our dealership network, we have taken a major step forward in customer service capabilities.<span class="endquote">”</span>
+</blockquote>
+<div class="text-center">
+<cite class="text-sm text-mute p-b display-block">
+<b class="display-block text-md text-white text-emphasis"><span class="circle-outline circle-outline-sm m-b-sm"><svg class="icon icon-user2" aria-hidden="true"><use xlink:href="#icon-user2"></use></svg></span> Dominic Venice</b>
+Service Information Manager, Navistar
+</cite>
+</div>
+</div>
+<div class="swiper-slide">
+<blockquote class="quote-hang display-1 m-b-md">
+<span class="hangquote">“</span>Model S has very advanced electrical systems with tremendous configuration complexity. It has been vital, during our ramp up to full production, that the logistical integration and effective sharing of data with our suppliers was seamless. Capital software was able to overcome the challenges of configuration management and data exchange with our key suppliers.<span class="endquote">”</span>
+</blockquote>
+<div class="text-center">
+<cite class="text-sm text-mute p-b display-block">
+<b class="display-block text-md text-white text-emphasis"><span class="circle-outline circle-outline-sm m-b-sm"><svg class="icon icon-user2" aria-hidden="true"><use xlink:href="#icon-user2"></use></svg></span> Paul Lomangino</b>
+Director of Engineering applications, Tesla Motors
+</cite>
+</div>
+</div>
+<div class="swiper-slide">
+<blockquote class="quote-hang display-1 m-b-md">
+<span class="hangquote">“</span>Mentor Graphics’ Volcano suite for automotive networking enables us to develop our vehicles’ multiplexed communication systems substantially quicker than starting from new platform design. SAIC design engineers can focus on the vehicles’ characteristics, leaving the implementation of the communication to the Volcano tools. The tool suite is the ideal solution for companies like SAIC, challenged with taking a technological leap in terms of introducing multiplexed solutions concurrent with launching a new car.<span class="endquote">”</span>
+</blockquote>
+<div class="text-center">
+<cite class="text-sm text-mute p-b display-block">
+<b class="display-block text-md text-white text-emphasis"><span class="circle-outline circle-outline-sm m-b-sm"><svg class="icon icon-user2" aria-hidden="true"><use xlink:href="#icon-user2"></use></svg></span> Fei Hao</b>
+New Technology Department Vice Director, SAIC Automotive Engineering Academy
+</cite>
+</div>
+</div>
+<div class="swiper-slide">
+<blockquote class="quote-hang display-1 m-b-md">
+<span class="hangquote">“</span>To develop such an advanced coach requires not only powerful design automation, but also a comprehensive and robust electrical design data foundation for all stages of design, manufacturing and after sales support. The modularity of the system is important to us because it allows us to extend the scope progressively with everything using the same data foundation – we have plans to extend our virtual prototyping capability using advanced electrical simulation and validation tools.<span class="endquote">”</span>
+</blockquote>
+<div class="text-center">
+<cite class="text-sm text-mute p-b display-block">
+<b class="display-block text-md text-white text-emphasis"><span class="circle-outline circle-outline-sm m-b-sm"><svg class="icon icon-user2" aria-hidden="true"><use xlink:href="#icon-user2"></use></svg></span> José Costa</b>
+Director of Vehicles and Chassis Development, CaetanoBus
+</cite>
+</div>
+</div>
+<div class="swiper-slide">
+<blockquote class="quote-hang display-1 m-b-md">
+<span class="hangquote">“</span>From the engineering standpoint, the key improvements were integration with our mechanical CAD and PDM systems, including the difficult subject of design change management. We also needed more powerful electrical simulation and analysis than was available previously. Mentor’s newest software matched these requirements for us, minimizing the need to redefine our design progression. Mentor was also able to migrate data from the previous generation tooling, so minimizing our risk and speeding the transition.<span class="endquote">”</span>
+</blockquote>
+<div class="text-center">
+<cite class="text-sm text-mute p-b display-block">
+<b class="display-block text-md text-white text-emphasis"><span class="circle-outline circle-outline-sm m-b-sm"><svg class="icon icon-user2" aria-hidden="true"><use xlink:href="#icon-user2"></use></svg></span> Michael Wrobel</b>
+Electronics and Electrical Systems Manager, CNH
+</cite>
+</div>
+</div>
+<div class="swiper-slide">
+<blockquote class="quote-hang display-1 m-b-md">
+<span class="hangquote">“</span>To stay ahead of our competition, we needed to introduce new levels of electrical integration and a design flexibility we have never seen before. VeSys is helping us to achieve that. We were particularly impressed with the ease of use and the high level of functionality, flexibility and automation demonstrated by VeSys. Benefits of the software include intelligent schematics and harness designs, bill of materials creation, wire length calculations, reporting and built-in error proofing.<span class="endquote">”</span>
+</blockquote>
+<div class="text-center">
+<cite class="text-sm text-mute p-b display-block">
+<b class="display-block text-md text-white text-emphasis"><span class="circle-outline circle-outline-sm m-b-sm"><svg class="icon icon-user2" aria-hidden="true"><use xlink:href="#icon-user2"></use></svg></span> Adam Fowlkes</b>
+Engineering Manager, Proterra
+</cite>
+</div>
+</div>
+<div class="swiper-slide">
+<blockquote class="quote-hang display-1 m-b-md">
+<span class="hangquote">“</span>Mentor’s technology for automotive electrical and electronics design is world leading. Given the importance of electronic systems in modern vehicles, products such as Capital and Volcano clearly boost JAC’s competitive position, not only in China but also worldwide.<span class="endquote">”</span>
+</blockquote>
+<div class="text-center">
+<cite class="text-sm text-mute p-b display-block">
+<b class="display-block text-md text-white text-emphasis"><span class="circle-outline circle-outline-sm m-b-sm"><svg class="icon icon-user2" aria-hidden="true"><use xlink:href="#icon-user2"></use></svg></span> Mr. Yan Gang</b>
+Deputy General Manager, JAC
+</cite>
+</div>
+</div>
+<div class="swiper-slide">
+<blockquote class="quote-hang display-1 m-b-md">
+<span class="hangquote">“</span>Capital is by far the most capable commercial off-the-shelf software addressing wire harness design, engineering and manufacturing. So it is the natural choice as LEONI’s standard environment. Mentor also has technical depth across multiple relevant domains, excellent geographic coverage, and strong presence at the world’s leading automotive and off-road vehicle OEMs. In addition, Capital ModularXC is a really key tool. Capital ModularXC helps position LEONI as a world-leading supplier of modular harnesses.<span class="endquote">”</span>
+</blockquote>
+<div class="text-center">
+<cite class="text-sm text-mute p-b display-block">
+<b class="display-block text-md text-white text-emphasis"><span class="circle-outline circle-outline-sm m-b-sm"><svg class="icon icon-user2" aria-hidden="true"><use xlink:href="#icon-user2"></use></svg></span> Carsten Wilhelm</b>
+Director of Engineering Systems for Manufacturing, LEONI
+</cite>
+</div>
+</div>
+<div class="swiper-slide">
+<blockquote class="quote-hang display-1 m-b-md">
+<span class="hangquote">“</span>To develop such an advanced truck requires not only powerful design automation, but also robust design data management. Capital was the natural tool choice because it is so strong in these areas, and is designed to be used by large, multi-site organizations.<span class="endquote">”</span>
+</blockquote>
+<div class="text-center">
+<cite class="text-sm text-mute p-b display-block">
+<b class="display-block text-md text-white text-emphasis"><span class="circle-outline circle-outline-sm m-b-sm"><svg class="icon icon-user2" aria-hidden="true"><use xlink:href="#icon-user2"></use></svg></span> Wolfgang Appel</b>
+Senior Manager, System Architecture, Mechatronic Engineering, Mercedes-Benz Trucks
+</cite>
+</div>
+</div>
+<div class="swiper-slide">
+<blockquote class="quote-hang display-1 m-b-md">
+<span class="hangquote">“</span>FloTHERM is a key component of our simulation-based design decisions strategy, ensuring that our thermal design goals are met and we can deliver on Continental’s simulation vision of ‘getting the product right the first time.<span class="endquote">”</span>
+</blockquote>
+<div class="text-center">
+<cite class="text-sm text-mute p-b display-block">
+<b class="display-block text-md text-white text-emphasis"><span class="circle-outline circle-outline-sm m-b-sm"><svg class="icon icon-user2" aria-hidden="true"><use xlink:href="#icon-user2"></use></svg></span> Dr. Uwe Lautenschlager</b>
+Continental Automotive GmbH
+</cite>
+</div>
+</div>
+</div>
+<div class="swiper-pagination"></div>
+<div class="swiper-button-prev"></div>
+<div class="swiper-button-next"></div>
+</div>
+</div>
+<div class=" bg-dark p-y-md stripe-fixed-next"
+>
+<h4 class="text-uc text-center text-inverse">Sign Up to receive Mentor Automotive updates</h4>
+<div class="container-sm text-inverse"
+>
+<div id="ajaxoptins" data-type="newslettersignup">
+	<form method="POST" action="/fulfillment/optin_form">
+        <div class="input-group">
+            <span class="input-group-addon bg-transparent">
+                <span class="circle-outline circle-outline-lg text-inverse text-muted"><svg class="icon icon-envelope text-muted"><use xlink:href="#icon-envelope"></use></svg></span>
+            </span>
+        	<input type="text" name="email" id="email" value="" class="form-control form-control-ghost form-control-lg bg-transparent display-1 text-inverse p-x-0" placeholder="Your Email Address" style="border-bottom:1px solid #fff !important">
+    		<input type="hidden" name="returnURL" value="/mentor-automotive/" />
+            <input type="hidden" id="29425" value="29425" name="emaID" />
+    		<input type="hidden" id="391" value="391" name="newsletterID" />
+    		<span class="input-group-btn p-l">
+                <button class="btn btn-inverse-outline btn-lg br-a-sm text-inverse" type="submit">Subscribe</button>
+            </span>
+        </div>
+	</form>
+</div>
+</div>
+</div>
+<footer class="automotive-footer flex-none text-webfont-one stripe-fixed-next">
+<div class="container">
+<div class="row">
+<div class="col-md-8 p-y p-lg-t-lg">
+<div class="p-lg-r-lg">
+<h3 class="text-webfont-one text-normal"><a href="/mentor-automotive" class="text-black">Mentor Automotive</a></h3>
+<div class="row">
+<div class="col-md-4">
+<ul class="list-unstyled text-sm m-lg-b-md">
+<li><a href="/mentor-automotive/connectivity">Connectivity</a></li>
+<li><a href="/mentor-automotive/autonomous">Autonomous</a></li>
+<li><a href="/mentor-automotive/electrification">Electrification</a></li>
+<li><a href="/mentor-automotive/architecture">Architecture</a></li>
+<li><a href="/mentor-automotive/functional-safety">Functional Safety</a></li>
+<li><a href="/mentor-automotive/silicon-design">Silicon Design for Automotive</a></li>
+</ul>
+</div>
+<div class="col-md-4">
+<ul class="list-unstyled text-sm m-b-0">
+<li><a href="/mentor-automotive/resources">Resources</a></li>
+<li><a href="/mentor-automotive/blog">Blog</a></li>
+<li><a href="/mentorautomotive-tv/">Mentor Automotive TV</a></li>
+<li><a href="/mentor-automotive/news-events">News & Events</a></li>
+<li><a href="/mentor-automotive/services">Services</a></li>
+<li class="p-t"><a href="#indexOfSolutions" class="mgclightbox text-emphasis"><svg class="icon icon-popout"><use xlink:href="#icon-popout"></use></svg> Index of Automotive Solutions</a></li>
+</ul>
+</div>
+<div class="col-md-4 text-center">
+<a href="javascript:void(0);" data-fancybox-href="/mentor-automotive/contactchat" rel="800||480" class="mgclightbox lb_iframe btn btn-default btn-sm m-b">Contact Mentor Automotive</a>
+<div class="text-center">
+<a href="https://twitter.com/Mentor_Auto" class="circle" style="background: #00aced; color: #fff;"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a>
+<a href="https://www.facebook.com/Mentorautomotive" class="circle" style="background: #3b5998; color: #fff;"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a>
+<a href="https://www.youtube.com/channel/UCL6S9Ype37DP44kM_Lrizcg" class="circle" style="background: #bb0000; color: #fff;"><svg class="icon icon-youtube"><use xlink:href="#icon-youtube"></use></svg></a>
+<a href="http://linkd.in/1K5XEGa" class="circle" style="background: #007bb5; color: #fff;"><svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 p-y p-lg-t-lg">
+<div class="card card-block pull-lg-right">
+<h3 class="text-webfont-one text-normal"><a href="https://www.mentor.com" class="text-black"><svg class="icon icon-home2"><use xlink:href="#icon-home2"></use></svg> Mentor, a Siemens Business</a></h3>
+<ul class="list-unstyled text-sm m-b-0">
+<li><a href="https://www.mentor.com/products">Design Areas and Products</a></li>
+<li><a href="https://www.mentor.com/company">Company</a></li>
+<li><a href="https://www.mentor.com/careers">Careers</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<footer class="site-footer flex-none">
+<div class="container-full">
+<div class="row">
+<div class="col-md-6">
+<p class="text-xs m-b-0">
+<a href="/terms_conditions" class="text-muted">Terms and Conditions</a>
+<span class="text-pipe">|</span>
+<a href="/terms_conditions/privacy" class="text-muted">Privacy Policy</a> <span class="text-pipe">|</span> &copy; Mentor, a Siemens Business, All rights reserved
+</p>
+</div>
+<div class="col-md-6">
+<p class="text-lg-right text-xs m-b-0">
+<strong>1-800-547-3000</strong>
+<span class="text-pipe">|</span>
+<a href="/company/contact_us">Contact Mentor Graphics</a>
+</p>
+</div>
+</div>
+</div>
+</footer>
+<div class=" p-lg-a-lg"
+id="indexOfSolutions" style="display:none">
+<div class="row-container "
+>
+<div class="row row-fluid">
+<div class="column count1 col-md-6 col-xs-12 number-columns-2">
+<div><a href="/mentor-automotive/connectivity" class="label label-info text-uc">Connectivity</a></div>
+<h3 class="m-t-xs m-b-sm">Audio Solutions</h3>
+<p class="text-muted">Acoustic vehicle alerting system (AVAS); acoustic vehicle alerting system (AVAS); engine sound enhancement (ESE); <a class="text-emphasis" href="/embedded-software/xse-automotive/active-noise-control">active noise cancellation</a>; <a class="text-emphasis" href="/embedded-software/xse-automotive/a2b/">A2B Analyzer System</a></p>
+<div><a href="/mentor-automotive/architecture" class="label label-info text-uc">Architecture</a></div>
+<h3 class="m-t-xs m-b-sm">Automotive Professional Services
+<small class="display-block text-muted">Including for software over-the-air and V2X integration</small></h3>
+<p class="text-muted">Architecture &amp; strategy definition, <a class="text-emphasis" href="/esl/vista/virtual-prototyping/">including virtual prototype solutions</a>; <a class="text-emphasis" href="/products/vnd/autosar-products/">network topology design for AUTOSAR</a></p>
+<div><a href="/mentor-automotive/autonomous" class="label label-info text-uc">Automomous</a></div>
+<h3 class="m-t-xs m-b-sm">Autonomous driving
+<small class="display-block text-muted">LIDAR/radar; neural networking/machine learning; image processing; raw data/sensor fusion; vision</small></h3>
+<p class="text-muted"><a class="text-emphasis" href="/embedded-software/drs360">DRS360™ Autonomous Driving Platform</a></p>
+<div><a href="/mentor-automotive/electrification" class="label label-info text-uc">Electrification</a></div>
+<h3 class="m-t-xs m-b-sm">Battery &amp; electronics Cooling/Analysis; Vehicle Systems Thermal Management
+<small class="display-block text-muted">Chip to vehicle level thermal analysis/improved cooling measures</small></h3>
+<p class="text-muted"><a class="text-emphasis" href="/products/mechanical/floefd/industries">FloEFD</a>; <a class="text-emphasis" href="/products/mechanical/flotherm/flotherm/">FloTHERM</a></p>
+<div><a href="/mentor-automotive/architecture" class="label label-info text-uc">Architecture</a></div>
+<h3 class="m-t-xs m-b-sm">Cable and Wire Harness</h3>
+<p class="text-muted"><a class="text-emphasis" href="/products/electrical-design-software/capital/">Capital</a> (premium electrical and wire harness design); <a class="text-emphasis" href="/products/electrical-design-software/vesys-circuit-design/">VeSys</a> (wire harness and circuit design tools combining value and ease-of-use with functionality)</h3></p>
+<div><a href="/mentor-automotive/architecture" class="label label-info text-uc">Architecture</a></div>
+<h3 class="m-t-xs m-b-sm">ECU Design/Implementation for AUTOSAR
+<small class="display-block text-muted">Including design hardware/software architectures, implementing CAN/LIN networks, apply model driven development/co-simulation, performing timing analysis for CAN, LIN, FlexRay Networks</small></h3>
+<p class="text-muted"><a class="text-emphasis" href="/products/vnd/autosar-products/volcano-system-architect/">Volcano Vehicle Systems Architect</a>; <a class="text-emphasis" href="/products/vnd/in-vehicle_software/volcano_target_package/">Volcano Target Package</a>; <a class="text-emphasis" href="/products/vnd/autosar-products/system-integrator/">Volcano Systems Integrator</a>; <a class="text-emphasis" href="/products/vnd/autosar-products/volcano-vsa-com-designer/">Volcano VSA COM Designer</a></p>
+</div>
+<div class="column count2 col-md-6 col-xs-12 number-columns-2">
+<div><a href="/mentor-automotive/functional-safety" class="label label-info text-uc">Mentor Safe</a></div>
+<h3 class="m-t-xs m-b-sm">Functional Safety/ISO 26262</h3>
+<p class="text-muted"><a class="text-emphasis" href="/products/silicon-yield/">Tessent</a>, <a class="text-emphasis" href="/products/ic_nanometer_design/">Calibre</a>, <a class="text-emphasis" href="/products/fv/">Questa</a>, <a class="text-emphasis" href="/products/fv/emulation-systems/">Veloce</a>, <a class="text-emphasis" href="/hls-lp/catapult-high-level-synthesis/">Catapult</a>, <a class="text-emphasis" href="/products/fpga/req_tracking/reqtracer/">ReqTracer</a>, <a class="text-emphasis" href="/embedded-software/nucleus/safety">Nucleus SafetyCert</a>, <a class="text-emphasis" href="/embedded-software/nucleus/safety">Safety Certifiable Instrument Cluster</a>, <a class="text-emphasis" href="/products/vnd/">Volcano</a>, <a class="text-emphasis" href="/embedded-software/hypervisor/">Mentor Embedded Hypervisor</a></p>
+<div><a href="/mentor-automotive/connectivity" class="label label-info text-uc">Connectivity</a></div>
+<h3 class="m-t-xs m-b-sm">Hardware
+<small class="display-block text-muted">Designing/building prototypes</small></h3>
+<p class="text-muted"><a class="text-emphasis" href="/embedded-software/xse-automotive/axsb">AXSB reference platform</a>; <a class="text-emphasis" href="/embedded-software/xse-automotive/hardware-services">design/produce other custom hardware interfaces</a></p>
+<h3 class="m-t-xs m-b-sm">Industry Partners</h3>
+<p class="text-muted"><a class="text-emphasis" href="/embedded-software/automotive/partners">Automotive solutions partners</a></p>
+<div><a href="/mentor-automotive/connectivity" class="label label-info text-uc">Connectivity</a></div>
+<h3 class="m-t-xs m-b-sm">Linux-/Android-based in-vehicle infotainment systems
+<small class="display-block text-muted">e.g., head unit/cluster development, including 3D ISO 26262 compliant digital instrument clusters, open source adoption [Linux &amp; Nucleus RTOS], and security for vehicle connectivity</small></h3>
+<p class="text-muted"><a class="text-emphasis" href="/embedded-software/xse-automotive/connected-os">GENEVI-compliant Connected OS</a>; <a class="text-emphasis" href="/embedded-software/xse-automotive/xstrace">XStrace</a>; <a class="text-emphasis" href="/embedded-software/hypervisor/">Mentor Embedded Hypervisor</a>; <a class="text-emphasis" href="/embedded-software/nucleus/safety">Safety certifiable digital instrument cluster</a></p>
+<div><a href="/mentor-automotive/electrification" class="label label-info text-uc">Electrification</a></div>
+<h3 class="m-t-xs m-b-sm">Motor Drive Optimization</h3>
+<p class="text-muted"><a class="text-emphasis" href="/products/sm/industries/transportation">SystemVision</a></p>
+<div><a href="/mentor-automotive/architecture" class="label label-info text-uc">Architecture</a></div>
+<h3 class="m-t-xs m-b-sm">PCB system design</h3>
+<p class="text-muted"><a class="text-emphasis" href="/pcb/xpedition/">Xpedition</a></p>
+<div><a href="/mentor-automotive/electrification" class="label label-info text-uc">Electrification</a></div>
+<h3 class="m-t-xs m-b-sm">Power Electronics Reliability Testing</h3>
+<p class="text-muted"><a class="text-emphasis" href="/products/mechanical/micred/">MicReD</a> (T3Ster, Power Tester)</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+ <script>
+$(document).ready(function() {
+var topMenuHeight = $(".navbar-top").outerHeight();
+var mySwiper = new Swiper ('.swiper-container', {
+loop: true,
+pagination: '.swiper-pagination',
+slidesPerView: 2,
+breakpoints: {
+// when window width is <= 640px
+640: {
+slidesPerView: 1
+}
+},
+paginationClickable: true,
+nextButton: '.swiper-button-next',
+prevButton: '.swiper-button-prev',
+centeredSlides: true,
+slideToClickedSlide:true,
+spaceBetween: 100
+})
+$(window).resize(function(){
+var ww = $(window).width()
+if (ww>660) mySwiper.params.slidesPerView = 2;
+if (ww<=660) mySwiper.params.slidesPerView = 1;
+mySwiper.update()
+})
+$(window).trigger('resize')
+$('.scroll-item').click(function(e){
+var href = $(this).attr("href"),
+//offsetTop = href === "#" ? 0 : $(href).offset().top-topMenuHeight+1;
+offsetTop = href === "#" ? 0 : $(href).offset().top;
+$('html, body').stop().animate({
+scrollTop: offsetTop
+}, 600);
+e.preventDefault();
+});
+var svgNS = "http://www.w3.org/2000/svg";
+function drawTriangles() {
+var svg = document.getElementById("mySvg");
+var colors = [
+["#555555", "#BBBBBB", "#444444", "#888888"],
+["#333333", "#666666", "#333333", "#777777"],
+["#888888", "#222222", "#999999", "#555555"],
+["#444444", "#888888", "#222222", "#999999"],
+];
+var n = colors.length;
+var m = colors[0].length;
+var dx = 500;
+var dy = 375;
+for (var i = 0; i < n; i++) {
+for (var j = 0; j < m; j++) {
+var polygon = document.createElementNS(svgNS, "polygon");
+var point0 = svg.createSVGPoint();
+var point1 = svg.createSVGPoint();
+var point2 = svg.createSVGPoint();
+if ((i + j) % 2 === 0) {
+point0.x = j * dx;
+point0.y = i * dy;
+point1.x = (j + 1) * dx;
+point1.y = (i + 1) * dy;
+point2.x = (j + 1) * dx;
+point2.y = (i - 1) * dy;
+} else {
+point0.x = (j + 1) * dx;
+point0.y = i * dy;
+point1.x = j * dx;
+point1.y = (i - 1) * dy;
+point2.x = j * dx;
+point2.y = (i + 1) * dy;
+}
+polygon.setAttribute("fill", colors[i][j]);
+polygon.points.appendItem(point0);
+polygon.points.appendItem(point1);
+polygon.points.appendItem(point2);
+svg.appendChild(polygon);
+}
+}
+}
+drawTriangles();
+});
+$(function() {
+var controller = new ScrollMagic.Controller();
+new ScrollMagic.Scene({triggerElement: "#stripe-fixed", triggerHook: '0', offset: 0})
+.setPin('#stripe-fixed')
+.addTo(controller);
+new ScrollMagic.Scene({triggerElement: "#stripe-fixed", triggerHook: '0', offset: 200})
+.setClassToggle("body", "navbar-scrollup")
+.addTo(controller);
+});
+</script>
+<!--pageElement:PAGETAGGING-->
+<script language="JavaScript">
+var s_account="mentorcom2";
+var s;
+</script>
+<sa:routestaticassets>
+<script type="text/javascript" src="https://static.mentor-cdn.com/mgc/s-code/generated/v8/script.min.js"></script>
+
+</sa:routestaticassets>
+<script language="JavaScript">
+//s.loadModule("Media");
+<!-- Page-based Tagging -->
+    if (s && typeof s.account !== "undefined") {
+        
+        s.channel = 'company';
+        s.eVar19 = '';
+        s.eVar38 = 'D=c38';
+        s.eVar41 = 'D=c41';
+        s.eVar5 = 'D=c5';
+        s.eVar8 = '';
+        s.eVar9 = 'D=c9';
+        s.hier1 = 'Mentor Automotive,Mentor Automotive';
+        s.pageName = 'Mentor Automotive';
+        s.prop19 = '';
+        s.prop38 = 'mentor';
+        s.prop41 = 'en';
+        s.prop5 = 'Account';
+        s.prop6 = '';
+        s.prop8 = '';
+        s.prop9 = 'e839a1b3-6422-4003-aee2-95f600e43f20';
+        s.eVar7 = s.Util.getQueryParam('pid');
+        s.prop4 = s.Util.getQueryParam('sfm');
+        s.eVar4 = s.Util.getQueryParam('sfm');
+        s.prop36 = s.getPreviousValue(s.pageName, 'gpv_pn');
+        s.prop37 = s.getPercentPageViewed();
+    }
+</script>            
+<script language="JavaScript">
+var s_code;
+if (s && typeof s.account !== "undefined") {
+	<!-- Session-based Tagging -->
+	s.eVar12 = '';
+	s.eVar13 = 'D=c13';
+	s.eVar27 = '';
+	s.eVar34 = 'D=v0';
+	s.prop12 = '';
+	s.prop13 = 'Anonymous';
+	s.prop27 = '';
+	s.prop34 = 'D=v0';
+	s.visitorID = '1510875034181352F66AB223A31B452C7E4428771DC05528528B8E4DDE7269F662E70675EFAA8';
+	<!-- Request-based Tagging -->
+
+		s.eVar24 = 'D=c24';
+		s.eVar25 = 'D=c25';
+		s.prop24 = '200-400 ms';
+		s.prop25 = 'true';
+	s_code = s.t();if (s_code)document.write(s_code); //send
+}
+</script>
+<script>
+if(navigator.appVersion.indexOf('MSIE')>=0) document.write(unescape('%3C')+'\!-'+'-');
+</script>
+<noscript>
+<img src="https://mentorcom2.122.2o7.net/b/ss/mentorcom2/1/H.26.1--NS/0" height="1" width="1" border="0" alt="" />
+</noscript>
+<!-- Level 1 -->
+<!--/pageElement:PAGETAGGING-->
+<!--pageElement:Google Analytics-->
+<!-- Google Analytics -->
+<script>
+var google_mgc_vars=false;
+var google_training_vars=false;
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-7441435-1', 'auto', {
+'cookieDomain': 'mentor.com'
+});
+ga('set', 'dimension2', 'Anonymous');
+ga('set', 'dimension1', '');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<!--/pageElement:Google Analytics-->
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"Zo/El1agWBr1N8", domain:"mentor.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=Zo/El1agWBr1N8" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
+<!-- LOADBALANCE-OOB-PAGE-SUCCESS -->
+<script src="https://static.mentor-cdn.com/common/js/svg.js"></script>
+<!-- Scroll To Top -->
+<a href="#top" id="scrollToTop" class="scroll-top" title="Scroll to Top"><svg class="icon icon-arrow-up3" aria-hidden="true"><use xlink:href="#icon-arrow-up3"></use></svg></a>
+<div id="mgc-player-wrapper">
+<div id="mgc-player" class="mgc-player"></div>
+</div>
+<!-- //// MGC PAGE END //// -->
+</body>
+</html>  
