@@ -39,7 +39,7 @@ def crop(Path, input, height, width, k, page):
 
 
 
-data = json.load(open('carparks.db'))
+data = json.load(open('../carparks.db'))
 anu_car_park = data["carparks"][0]
 
 urllib.urlretrieve("http://maps.googleapis.com/maps/api/streetview?size=600x300&location=" + anu_car_park["location"] + "&pitch=" + anu_car_park["pitch"] + "&key=" + data["key"],"1.1.jpg")
