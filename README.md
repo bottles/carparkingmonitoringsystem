@@ -6,8 +6,8 @@ Prerequisite: Tensorflow, kafka, python2.7, google street view api key.
 
 The system has been designed to have been built on cloud system. It has several parts: 
 - cloud/: configuration of cloud system
-- detectCars/: get car images from google imageview or from monitor
-- identifyCars/: use tensorflow or other AI technology to regonise a car
-- kafka/: distributed system messaging package
+- work/detect/: get car images from google imageview or from monitor
+- work/identify/: use tensorflow or other AI technology to regonise a car
+- message/kafka/: distributed system messaging package
 - website/: Golang website to show the final result
 - carparks.db: for temporarily store data of car parking place
