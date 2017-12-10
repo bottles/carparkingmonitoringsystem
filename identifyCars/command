@@ -1,0 +1,1 @@
+time python classify_image.py --image_file ../detectCars/IMG-22.jpg
